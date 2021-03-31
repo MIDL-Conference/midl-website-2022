@@ -1,32 +1,29 @@
-title: "MIDL"
+title: "MIDL 2022"
 date: ""
 theme: "midl-website-theme"
 primary-color: "#506775"
 content: "placeholder"
 
-www: "https://XXXX.midl.io"
-email: "XXXX@midl.io"
+www: "https://2022.midl.io"
+email: "2022@midl.io"
 twitter: "midl_conference"
 youtube: "channel/UCd87UPUTt-oqTeGi8fQw-_w"
-github: "MIDL-Conference/midl-website-template"
+github: "MIDL-Conference/midl-website-2022"
 
 show_twitter_button: no
 show_twitter_feed: no
 num_tweets_in_feed: 1
 show_platform_icons: yes
 
-summary: "The Medical Imaging with Deep Learning conference was held from X to X July 20XX"
-opengraph:
-  description: "Medical Imaging with Deep Learning conference, XXX 20XX"
-  image: "/images/foobar.jpg"
+#summary: "The Medical Imaging with Deep Learning conference will be held in Zürich, Switzerland"
+#opengraph:
+#  description: "Medical Imaging with Deep Learning conference"
+#  image: "/images/foobar.jpg"
 
 nav:
   - title: "Home"
     path: "/"
     icon: "home"
-  - title: "Aims and Scope"
-    path: "https://www.midl.io/aims-and-scope.html"
-    icon: "lightbulb"
   - title: "Call for papers"
     path: "/call-for-papers.html"
     icon: "bullhorn"
