@@ -1,7 +1,7 @@
 title: "MIDL 2022"
 date: ""
 theme: "midl-website-theme"
-primary-color: "#506775"
+primary-color: "#A8322D"
 content: "placeholder"
 
 www: "https://2022.midl.io"
@@ -15,10 +15,10 @@ show_twitter_feed: no
 num_tweets_in_feed: 1
 show_platform_icons: yes
 
-#summary: "The Medical Imaging with Deep Learning conference will be held in Zürich, Switzerland"
-#opengraph:
-#  description: "Medical Imaging with Deep Learning conference"
-#  image: "/images/foobar.jpg"
+summary: "The Medical Imaging with Deep Learning conference will be held in Zürich, Switzerland"
+opengraph:
+  description: "Medical Imaging with Deep Learning conference 2022"
+  image: "/images/foobar.jpg"
 
 nav:
   - title: "Home"
