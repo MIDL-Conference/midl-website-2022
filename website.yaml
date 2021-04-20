@@ -1,7 +1,7 @@
 title: "MIDL 2022"
-date: ""
+date: "6 - 8 July 2022"
 theme: "midl-website-theme"
-primary-color: "#a3adb7"
+primary-color: "#268BCC"
 content: "placeholder"
 
 www: "https://2022.midl.io"
@@ -15,10 +15,10 @@ show_twitter_feed: no
 num_tweets_in_feed: 1
 show_platform_icons: yes
 
-summary: "The Medical Imaging with Deep Learning conference will be held in Zürich, Switzerland"
+summary: "The Medical Imaging with Deep Learning conference will be held in Zurich, Switzerland"
 opengraph:
   description: "Medical Imaging with Deep Learning conference 2022"
-  image: "/images/foobar.jpg"
+  image: "/images/eth-university-zurich.jpg"
 
 nav:
   - title: "Home"
