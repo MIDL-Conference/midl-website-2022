@@ -35,7 +35,7 @@ pip install -r requirements.txt
 python -m mwb . output/ --no-minify --serve --verbose
 ```
 
-to clone with all dependencies such as the midl-website-theme repository use this command to clone the repository:
+To clone with all dependencies, such as the midl-website-theme repository use this command to clone the repository:
 ```
 git clone --recurse-submodules <GITHUB-REPO>
 ```
