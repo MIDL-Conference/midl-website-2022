@@ -22,7 +22,7 @@ poetry install
 Then run the website builder:
 
 ```
-poetry run python -m mwb . output/ --no-minify --serve
+poetry run python -m mwb . output/ --no-minify --serve --verbose
 ```
 
 This builds the website and writes the generated output into the directory `output/`, then starts a webserver on
@@ -32,5 +32,5 @@ Alternatively, you can also install the dependencies with pip:
 
 ```
 pip install -r requirements.txt
-python -m mwb . output/ --no-minify --serve
+python -m mwb . output/ --no-minify --serve --verbose
 ```
