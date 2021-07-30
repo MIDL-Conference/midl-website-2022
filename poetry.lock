@@ -106,7 +106,7 @@ pyyaml = "*"
 type = "git"
 url = "https://github.com/MIDL-Conference/midl-website-builder.git"
 reference = "1.17"
-resolved_reference = "e2e73aa239aa700fe1d86aac15b0e23f6fe591f7"
+resolved_reference = "f9ab0e3f5d64af7a7c78cfce6ca3ca9fa97a52ba"
 
 [[package]]
 name = "pyscss"
