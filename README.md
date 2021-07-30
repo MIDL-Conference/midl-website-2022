@@ -8,3 +8,29 @@ This repository contains the source code of the 2022.midl.io website.
 * Global settings, such as the navigation bar, are in `website.yaml`
 
 The website is automatically rebuilt after every commit to the master branch.
+
+## Building the website locally
+
+We use [poetry](https://python-poetry.org/) to manage dependencies. Check runtime.txt to see which Python version is required.
+
+Install the dependencies by running:
+
+```
+poetry install
+```
+
+Then run the website builder:
+
+```
+poetry run python -m mwb . output/ --no-minify --serve
+```
+
+This builds the website and writes the generated output into the directory `output/`, then starts a webserver on
+`http://localhost:8000` until you stop it with Ctrl+C.
+
+Alternatively, you can also install the dependencies with pip:
+
+```
+pip install -r requirements.txt
+python -m mwb . output/ --no-minify --serve
+```
