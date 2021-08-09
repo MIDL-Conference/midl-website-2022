@@ -14,8 +14,9 @@ page_class: "sponsors"
 </p>
 
 We are hoping to see many of you at Zurich for MIDL 2022!
-You can find here the [call for papers /TBA](/call-for-papers.html), [important dates](/important-dates.html),
-[author instructions](/author-instructions.html), information about the [conference venue](/venue.html) and details about [registration for the conference /TBA](/registration.html).
+You can find here the [call for papers](/call-for-papers.html), [important dates](/important-dates.html),
+[author instructions](/author-instructions.html), information about the [conference venue](/venue.html).
+ <!-- and details about [registration for the conference /TBA](/registration.html). -->
 
 Questions and inquiries can be addressed directly to [2022@midl.io ](mailto:2022@midl.io).
 
