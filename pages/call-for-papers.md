@@ -51,7 +51,7 @@ MIDL is going to have a Special Issue in MedIA (Medical Image Analysis). A selec
 * **Final decisions** 6 May 2022
 
 
-For submission deadlines and the schedule of the review process, see [Important Dates](/important-dates.html).
+For submission deadlines and the schedule of the review process, see [Important Dates](/dates.html).
 
 ### Author Instructions
 
