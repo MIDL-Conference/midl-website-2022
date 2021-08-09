@@ -7,3 +7,39 @@
         Image credit: ETH Zürich / Marco Carocari
     </span>
 </p>
+
+We are hoping to see many of you at Zurich for MIDL 2022!
+You can find here the [call for papers /TBA](/call-for-papers.html), [important dates](/important-dates.html),
+[author instructions](/author-instructions.html), information about the [conference venue](/venue.html) and details about [registration for the conference /TBA](/registration.html).
+
+Questions and inquiries can be addressed directly to [pc@2022.midl.io](mailto:pc@2022.midl.io).
+
+#### Supporting academic and non-profit organizations
+
+[% .institutions %]
+[![ETH Zurich and University of Zurich](/images/eth_uzh_logo.eps){: width="500"}](https://ethz.ch/en.html)
+[% / %]
+
+---
+
+#### Platinum sponsor
+
+[% .logos %]
+
+[% / %]
+
+---
+
+#### Gold sponsors
+
+[% .logos %]
+[% / %]
+
+---
+
+#### Silver sponsors
+
+[% .logos %]
+[% / %]
+
+---
