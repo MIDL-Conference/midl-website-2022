@@ -96,8 +96,7 @@ To submit a paper, authors need to have an updated OpenReview account. Visit [ht
 
 <!-- After the registration period is over the Submission button will be inactive. To upload your pdf, select your paper and press “Revision”. -->
 
-**Inquiries to the program chairs can be addressed directly to [2022@midl.io](mailto:2022@midl.io).**
-<!-- **Inquiries to the program chairs can be addressed directly to [pc@2022.midl.io](mailto:pc@2022.midl.io).** -->
+**Inquiries to the program chairs can be addressed directly to [pc@2022.midl.io](mailto:pc@2022.midl.io).**
 
 <!-- ## Full papers
 

@@ -8,14 +8,14 @@ title: "Important Dates"
 
 [% .deadlines %]
 ### Full Papers
-* **Paper submission deadline** 17 December 2021, 17:00 UTC
+* **Paper submission deadline** 17 December 2021, 17:00 [UTC](https://www.timeanddate.com/time/map/)
 * **Reviews due** 28 January 2022 
 * **Rebuttal period** 28 January - 11 February 2022
  * **Final decisions** 27 February 2022
 
 
 ### Short Papers
-* **Paper submission deadline** 22 April 2022, 17:00 UTC
+* **Paper submission deadline** 22 April 2022, 17:00 [UTC](https://www.timeanddate.com/time/map/)
 * **Final decisions** 6 May 2022
 
 <!-- ### Full Papers
