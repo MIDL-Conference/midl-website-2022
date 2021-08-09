@@ -4,10 +4,21 @@ title: "Important Dates"
 
 # Important Dates
 
-All deadlines are at 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone).
+<!-- All deadlines are at 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone). -->
 
 [% .deadlines %]
 ### Full Papers
+* **Paper submission deadline** 17 December 2021, 17:00 UTC
+* **Reviews due** 28 January 2022 
+* **Rebuttal period** 28 January - 11 February 2022
+ * **Final decisions** 27 February 2022
+
+
+### Short Papers
+* **Paper submission deadline** 22 April 2022, 17:00 UTC
+* **Final decisions** 6 May 2022
+
+<!-- ### Full Papers
 * **Paper registration open** TBA
 * **Paper registration deadline** TBA
 * **Paper submission deadline** TBA
@@ -21,16 +32,16 @@ All deadlines are at 23:59, [UTC -12](https://www.timeanddate.com/time/map/) ([A
 * **Paper registration open** TBA
 * **Paper registration deadline** TBA 
 * **Paper submission deadline** TBA
-* **Notification of acceptance** TBA
+* **Notification of acceptance** TBA -->
 
-### Doctoral Symposium
+<!-- ### Doctoral Symposium
 * **Application deadline** TBA
 * **Notification of acceptance** TBA
-* **Doctoral Symposium** TBA
+* **Doctoral Symposium** TBA -->
 
 ### Conference dates
-* [**Doctoral Symposium**](/doctoral-symposium.html) TBA
-* [**MIDL 2022**](/program.html) 6-8 July 2022
+<!-- * [**Doctoral Symposium**](/doctoral-symposium.html) TBA -->
+* **MIDL 2022** 6-8 July 2022
 
 [% / %]
 

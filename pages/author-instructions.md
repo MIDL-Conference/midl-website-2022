@@ -92,13 +92,13 @@ Short papers are ***strictly limited to 3 pages (including references)*** and ca
 
 To submit a paper, authors need to have an updated OpenReview account. Visit [http://openreview.net/profile](http://openreview.net/profile) after logging in. 
 
-{{ button("OpenReview conference website", "https://openreview.net/group?id=MIDL.io/2022/Conference") }}
+<!-- {{ button("OpenReview conference website", "https://openreview.net/group?id=MIDL.io/2022/Conference") }} -->
 
-After the registration period is over the Submission button will be inactive. To upload your pdf, select your paper and press “Revision”.
+<!-- After the registration period is over the Submission button will be inactive. To upload your pdf, select your paper and press “Revision”. -->
 
 **Inquiries to the program chairs can be addressed directly to [pc@2022.midl.io](mailto:pc@2022.midl.io).**
 
-## Full papers
+<!-- ## Full papers
 
 Full papers contain well-validated applications or methodological contributions of deep learning algorithms in medical imaging. The paper length is strictly limited to 8 pages with as many pages as needed for the references and appendix section (all in a single pdf). Full papers will go through a **single-blind** peer-reviewing process via OpenReview, with a two-week period for author rebuttal and discussion. All accepted papers will be presented as posters with a selection of these papers will also be invited for oral presentation.
 
@@ -122,7 +122,7 @@ Short papers are up to 3 pages and can, for example, focus on preliminary novel 
 * **Short-paper submission deadline** TBA [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone)
 * **Short-paper registration open** TBA [UTC -12](https://www.timeanddate.com/time/map/) ([AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone)
 * **Short-paper decisions released to authors** TBA
-[% / %]
+[% / %] -->
 
 ## Paper registration step (important)
 
@@ -134,7 +134,7 @@ To be able to upload the PDF of a full or short paper before the submission dead
 To prepare your submission to MIDL 2022 either as a full or short paper, please use the LaTeX style files provided at:
 [https://github.com/MIDL-Conference/MIDLLatexTemplate](https://github.com/MIDL-Conference/MIDLLatexTemplate).
 
-**Make sure that the submitted PDF is anonymous**. Only the final, accepted version should have author names.
+<!-- **Make sure that the submitted PDF is anonymous**. Only the final, accepted version should have author names. -->
 
 
 ## Dual submission policy
@@ -151,11 +151,11 @@ In both cases, dual submission of your paper to a non-peer reviewed website like
 The policy is enforced during the whole reviewing process period.
 
 
-## Withdrawing policy and rejected papers
+<!-- ## Withdrawing policy and rejected papers
 Authors have the right to withdraw papers from consideration at any time until the paper submission deadline.
 After the submission deadline and during the paper review/rebuttal/discussion process, it will not be possible to withdraw a paper.
 After the decisions are announced, it will be possible for authors to withdraw a rejected paper.
-If an author withdraws the paper, it will be deleted from the OpenReview hosting site.
+If an author withdraws the paper, it will be deleted from the OpenReview hosting site. -->
 
 
 ## Review Process
@@ -164,12 +164,13 @@ If an author withdraws the paper, it will be deleted from the OpenReview hosting
 1. Public commenting (i.e. anybody who is logged in can post comments) becomes possible only after the decisions have been released and reviews are made available to authors. The author of a public comment can decide to post anonymously or not. Login is required before posting any comment.
 1. Submissions to MIDL will be single-blind (Reviewers can see author names when conducting reviews, but authors cannot see reviewer names), but reviewers have the option to sign the review.
 1. Short-paper submissions will undergo a lighter review, and do not have a period for rebuttal and author discussion.
-1. Reviews of full papers will be made available to authors on TBA.
-1. The period from TBA to TBA will be for open discussion between the authors and reviewers (full paper only), with the Area Chair guiding the discussion towards essential points.
+1. Reviews of full papers will be made available to authors on January 28th.
+1. The period from January 28th to February 11th will be for open discussion between the authors and reviewers (full paper only), with the Area Chair guiding the discussion towards essential points.
 1. To submit your rebuttal and/or answer specific comments by the reviewers, please use the “official comments” button in OpenReview. During the rebuttal/discussion period, authors can update the pdf of a paper to highlight changes.
-1. On TBA, authors will be notified about the acceptance or rejection of their paper (full paper). For short papers the decisions will be made available on TBA.
+1. On February 27th, authors will be notified about the acceptance or rejection of their paper (full paper). For short papers the decisions will be made available on May 6th.
 1. Once the process is complete and a final decision is reached, the authors can choose to delete rejected submissions from the OpenReview hosting site.
 1. Papers that are not accepted will be considered non-archival, and may be submitted elsewhere at the discretion of the authors. We strongly encourage taking into account the reviewers comments before resubmitting. During submission, the authors will have the option to indicate whether to have their submissions, the reviews, and the comments to be deleted from the OpenReview site, in case their submission is rejected.
+
 
 ## Review Guidelines
 

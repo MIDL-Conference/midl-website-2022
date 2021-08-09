@@ -1,3 +1,8 @@
+---
+page_class: "sponsors"
+---
+{% from "_macros.html" import newsletter %}
+
 <h1 class="midl">Medical&nbsp;Imaging with Deep&nbsp;Learning</h1>
 <h2 class="midl">Zürich, 6 &ndash; 8 July 2022</h2>
 
@@ -12,8 +17,13 @@ We are hoping to see many of you at Zurich for MIDL 2022!
 You can find here the [call for papers /TBA](/call-for-papers.html), [important dates](/important-dates.html),
 [author instructions](/author-instructions.html), information about the [conference venue](/venue.html) and details about [registration for the conference /TBA](/registration.html).
 
-Questions and inquiries can be addressed directly to [pc@2022.midl.io](mailto:pc@2022.midl.io).
+Questions and inquiries can be addressed directly to [2022@midl.io ](mailto:2022@midl.io).
 
+---
+
+{{ newsletter("2022.midl.io") }}
+
+---
 #### Supporting academic and non-profit organizations
 
 [% .institutions %]
@@ -21,7 +31,7 @@ Questions and inquiries can be addressed directly to [pc@2022.midl.io](mailto:pc
 [% / %]
 
 ---
-
+<!-- 
 #### Platinum sponsor
 
 [% .logos %]
@@ -42,4 +52,4 @@ Questions and inquiries can be addressed directly to [pc@2022.midl.io](mailto:pc
 [% .logos %]
 [% / %]
 
----
+--- -->
