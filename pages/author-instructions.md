@@ -83,7 +83,7 @@ A detailed schedule can be found at [MIDL 2021 Program](https://2021.midl.io/pro
 
 Paper submission and reviewing has closed the proceedings are in preparation. The information below are only for reference. -->
 # Author Instructions
-MIDL 2021 submissions follow two tracks: *full* and *short* papers. All accepted full papers will be published as a volume in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/). We will be using [openreview.net](https://openreview.net) as a submission and reviewing platform, with a two-week period for author rebuttal and discussion for full-paper submissions.
+MIDL 2022 submissions follow two tracks: *full* and *short* papers. All accepted full papers will be published as a volume in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/). We will be using [openreview.net](https://openreview.net) as a submission and reviewing platform, with a two-week period for author rebuttal and discussion for full-paper submissions.
 
 
 Full papers contain methodological developments or well-validated applications of deep learning algorithms in medical imaging. The paper length is strictly ***limited to 8*** pages with as many extra pages as needed for the references, the acknowledgements and appendix section (all in a single pdf). The papers will go through a full, ***single-blind*** reviewing process via OpenReview, with a two-week period for author rebuttal and discussion. A selection of full papers will be invited for oral presentation. All accepted full papers will be published as a volume in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/).
