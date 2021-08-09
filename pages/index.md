@@ -28,7 +28,7 @@ Questions and inquiries can be addressed directly to [2022@midl.io ](mailto:2022
 #### Supporting academic and non-profit organizations
 
 [% .institutions %]
-[![ETH Zurich and University of Zurich](/images/eth_uzh_logo.eps){: width="500"}](https://ethz.ch/en.html)
+[![ETH Zurich and University of Zurich](/images/eth_uzh_logo.jpg){: width="500"}](https://ethz.ch/en.html)
 [% / %]
 
 ---

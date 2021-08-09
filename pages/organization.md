@@ -22,7 +22,7 @@ page_class: "sponsors"
 
 ## Website, Proceedings and Email Communication
 
-* Florian Kohler
+* Florian Kofler
 * Gustav Bredell
 * Meva Himmetoglu
 * Nikolas Lessmann (Radboud University Medical Center, The Netherlands)
