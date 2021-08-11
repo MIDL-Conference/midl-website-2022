@@ -6,7 +6,7 @@ title: "Call for papers"
 
 We welcome submissions, as full or short papers, for the 5th edition of Medical Imaging with Deep Learning (MIDL 2022). MIDL is a forum for deep learning researchers, clinicians and health-care companies working at the intersection of machine learning and medical image analysis. MIDL 2022 will be a hybrid event, if the pandemic conditions permit, allowing both online and onsite participation in Zürich, Switzerland. 
 
-MIDL has a large scope covering all areas of medical image analysis and computer-assisted intervention, where deep learning is a key element. Topics of interest include but are not limited to:  
+MIDL has a large scope including all areas where deep learning is used to analyze biomedical imaging data. Topics of interest include but are not limited to:  
 
 * Segmentation of medical images
 * Learning based image registration
