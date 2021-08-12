@@ -33,9 +33,9 @@ Full papers contain methodological developments or well-validated applications o
 
 Short papers are up to 3 pages and can, for example, focus on novel methodological ideas without extensive validation. We also specifically accept short papers discussing recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees. Selection of short papers is based on a light single-blind review process via OpenReview, without a discussion period. All accepted short papers will be presented at the conference.
 
-## Special Issue
+<!-- ## Special Issue
 
-MIDL is going to have a Special Issue in MedIA (Medical Image Analysis). A selection of the best full and short papers is going to be invited to submit an extended version of their work there.
+MIDL is going to have a Special Issue in MedIA (Medical Image Analysis). A selection of the best full and short papers is going to be invited to submit an extended version of their work there. -->
 
 ## Important Dates
 ### Full papers
