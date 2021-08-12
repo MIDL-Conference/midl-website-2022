@@ -87,7 +87,7 @@ python-versions = ">=3.6"
 
 [[package]]
 name = "MIDL-website-builder"
-version = "1.18"
+version = "1.19"
 description = "Tool for building static websites for the MIDL conference series"
 category = "main"
 optional = false
@@ -105,8 +105,8 @@ pyyaml = "*"
 [package.source]
 type = "git"
 url = "https://github.com/MIDL-Conference/midl-website-builder.git"
-reference = "1.18"
-resolved_reference = "e8f0198845a34c0286f9220951b5c47633699748"
+reference = "1.19"
+resolved_reference = "58f3b5ba3345f29c179b4b0c89f6402ae71b7538"
 
 [[package]]
 name = "pyscss"
@@ -166,7 +166,7 @@ testing = ["pytest (>=4.6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytes
 [metadata]
 lock-version = "1.1"
 python-versions = "~3.7"
-content-hash = "5311cc3b3fa5953329484b422c1301624dee2d3cfa4ebbbd37c7d1726f1a7447"
+content-hash = "a8bcaabaaaa0b6908e3d5fefa9814027c067343f192f8f3c3233629cbc6c4d9a"
 
 [metadata.files]
 beautifulsoup4 = [
