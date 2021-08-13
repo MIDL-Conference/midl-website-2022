@@ -126,7 +126,7 @@ Short papers are up to 3 pages and can, for example, focus on preliminary novel 
 
 ## Paper registration step (important)
 
-To be able to upload the PDF of a full or short paper before the submission deadlines, authors have to create a submission on openreview with title, abstract and author information a week in advance (paper registration deadline).
+To be able to upload the PDF of a full or short paper before the submission deadlines, authors have to create a submission on openreview with title, abstract and author information a week in advance (paper registration deadline, 10 December 2021).
 
 
 ## Latex template
