@@ -60,6 +60,17 @@ page_class: "sponsors"
 * Ertunc Erdil
 * Georg Brunner -->
 
+## General Support
+
+<center>
+
+| <img src="images/kristine_haberer.jpg" width="100">  |
+|:-:|
+| Kristine Haberer |
+
+</center>
+
+
 [% .logos %]
 [![ETH Zurich, University of Zurich](/images/eth_uzh_logo.jpg){: width="600"}](https://ethz.ch/en.html)
 [% / %]
