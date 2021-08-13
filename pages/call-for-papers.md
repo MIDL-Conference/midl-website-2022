@@ -39,6 +39,7 @@ MIDL is going to have a Special Issue in MedIA (Medical Image Analysis). A selec
 
 ## Important Dates
 ### Full papers
+* **Paper registration deadline** 10 December 2021, 17:00 UTC
 * **Paper submission deadline** 17 December 2021, 17:00 UTC
 * **Reviews due** 28 January 2022 
 * **Rebuttal period** 28 January - 11 February 2022
