@@ -14,7 +14,7 @@ page_class: "sponsors"
 <!-- | ![Ender Konukoglu](images/ender_konukoglu.jpg) |  ![Bjoern Menze](images/bjoern_menze.jpg) |  -->
 |<img src="images/ender_konukoglu.jpg" width="150"> | <img src="images/bjoern_menze.jpg" width="150">|
 |:-:| :-: |
-| [Ender Konukoglu](http://people.ee.ethz.ch/~kender/) <br /> Biomedical Image Computing group, Computer Vision Laboratory, ETH Zürich, Switzerland | [Bjoern Menze](https://www.dqbm.uzh.ch/en/research/groups/menze.html) <br /> Biomedical Image Analysis and Machine Learning, Faculty of Science & Faculty of Medicine, Universität Zürich, Switzerland |
+| [Ender Konukoglu](http://people.ee.ethz.ch/~kender/) <br> Biomedical Image Computing group, Computer Vision Laboratory, ETH Zürich, Switzerland | [Bjoern Menze](https://www.dqbm.uzh.ch/en/research/groups/menze.html) <br> Biomedical Image Analysis and Machine Learning, Faculty of Science & Faculty of Medicine, Universität Zürich, Switzerland |
 
 
 <!-- * [Ender Konukoglu](http://people.ee.ethz.ch/~kender/), Biomedical Image Computing group, Computer Vision Laboratory, ETH Zürich, Switzerland   -->
@@ -25,7 +25,7 @@ page_class: "sponsors"
 ## Program Chairs
 | <img src="images/archana_venkataraman.png" width="150"> |  <img src="images/christian_baumgartner.jpeg" width="150">  |  <img src="images/qi_dou.png" width="150"> |
 |:-:| :-: | :-: |
-| [Archana Venkataraman](https://engineering.jhu.edu/ece/faculty/archana-venkataraman/) <br /> John C. Malone Assistant Professor, Department of Electrical Engineering, Johns Hopkins University | [Christian F. Baumgartner](https://baumgach.github.io) <br /> Group leader, Machine Learning in Medical Image Analysis, University of Tübingen | [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/) <br /> Assistant Professor, Department of Computer Science and Engineering, The Chinese University of Hong Kong|
+| [Archana Venkataraman](https://engineering.jhu.edu/ece/faculty/archana-venkataraman/) <br> John C. Malone Assistant Professor, Department of Electrical Engineering, Johns Hopkins University | [Christian F. Baumgartner](https://baumgach.github.io) <br> Group leader, Machine Learning in Medical Image Analysis, University of Tübingen | [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/) <br> Assistant Professor, Department of Computer Science and Engineering, The Chinese University of Hong Kong|
 <!-- * [Archana Venkataraman](https://engineering.jhu.edu/ece/faculty/archana-venkataraman/), John C. Malone Assistant Professor, Department of Electrical Engineering, Johns Hopkins University -->
 <!-- 
 * [Christian F. Baumgartner](https://baumgach.github.io), Group leader, Machine Learning in Medical Image Analysis, University of Tübingen -->

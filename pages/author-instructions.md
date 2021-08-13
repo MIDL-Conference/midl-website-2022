@@ -98,6 +98,7 @@ To submit a paper, authors need to have an updated [OpenReview account](http://o
 
 **Inquiries to the program chairs can be addressed directly to [pc@2022.midl.io](mailto:pc@2022.midl.io).**
 
+--- 
 <!-- ## Full papers
 
 Full papers contain well-validated applications or methodological contributions of deep learning algorithms in medical imaging. The paper length is strictly limited to 8 pages with as many pages as needed for the references and appendix section (all in a single pdf). Full papers will go through a **single-blind** peer-reviewing process via OpenReview, with a two-week period for author rebuttal and discussion. All accepted papers will be presented as posters with a selection of these papers will also be invited for oral presentation.
