@@ -46,9 +46,11 @@ title: "Important Dates"
 
 [% / %]
 
+<!--
+
 ---
 
-<!-- ## iCalendar
+## iCalendar
 An online iCalendar with all dates and schedule is [available](https://www.rob.uni-luebeck.de/midl2021_cal/MIDL%202021.ics).
 It can conveniently be subscribed to and integrated in many calendar applications:
 

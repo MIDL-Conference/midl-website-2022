@@ -18,7 +18,7 @@ You can find here the [call for papers](/call-for-papers.html), [important dates
 [author instructions](/author-instructions.html), information about the [conference venue](/venue.html).
  <!-- and details about [registration for the conference /TBA](/registration.html). -->
 
-Questions and inquiries can be addressed directly to [2022@midl.io ](mailto:2022@midl.io).
+Questions and inquiries can be addressed directly to [2022@midl.io](mailto:2022@midl.io).
 
 ---
 

@@ -24,7 +24,9 @@ The poster sessions, industry exhibition TBD -->
     <span class="credits">
         Image credit: Zürich Tourismus
     </span>
+
 ## Travel Information
+
 <img alt="Zurich Travel Information" src="/images/zurich_info.jpg">
     <span class="credits">
         Image credit: Zürich Tourismus

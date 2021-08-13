@@ -86,11 +86,11 @@ Paper submission and reviewing has closed the proceedings are in preparation. Th
 MIDL 2022 submissions follow two tracks: full and short papers. All accepted full papers will be published as a volume in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/). We will be using [openreview.net](https://openreview.net) as a submission and reviewing platform, with a two-week period for author rebuttal and discussion for full-paper submissions.
 
 
-Full papers contain methodological developments or well-validated applications of deep learning algorithms in medical imaging. The paper length is strictly **limited to 8** pages with as many extra pages as needed for the references, the acknowledgements and appendix section (all in a single pdf). The papers will go through a full, **single-blind** reviewing process via OpenReview, with a two-week period for author rebuttal and discussion. A selection of full papers will be invited for oral presentation. All accepted full papers will be published as a volume in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/).
+Full papers contain methodological developments or well-validated applications of deep learning algorithms in medical imaging. The paper length is strictly **limited to 8** pages with as many extra pages as needed for the references, the acknowledgements and appendix section (all in a single pdf). The papers will go through a full, single-blind reviewing process via OpenReview, with a two-week period for author rebuttal and discussion. A selection of full papers will be invited for oral presentation. All accepted full papers will be published in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/).
 
-Short papers are **strictly limited to 3 pages (including references)** and can, for example, focus on novel methodological ideas without extensive validation. We also specifically accept short papers discussing recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees. Selection of short papers is based on a light **single-blind** review process via OpenReview, without a discussion period. All accepted short papers will be presented at the conference.
+Short papers are **strictly limited to 3 pages (including references)** and can, for example, focus on novel methodological ideas without extensive validation. We also specifically accept short papers discussing recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees. Selection of short papers is based on a light single-blind review process via OpenReview, without a discussion period. All accepted short papers will be presented at the conference.
 
-To submit a paper, authors need to have an updated OpenReview account. Visit [http://openreview.net/profile](http://openreview.net/profile) after logging in. 
+To submit a paper, authors need to have an updated [OpenReview account](http://openreview.net/profile). 
 
 <!-- {{ button("OpenReview conference website", "https://openreview.net/group?id=MIDL.io/2022/Conference") }} -->
 
@@ -98,6 +98,7 @@ To submit a paper, authors need to have an updated OpenReview account. Visit [ht
 
 **Inquiries to the program chairs can be addressed directly to [pc@2022.midl.io](mailto:pc@2022.midl.io).**
 
+--- 
 <!-- ## Full papers
 
 Full papers contain well-validated applications or methodological contributions of deep learning algorithms in medical imaging. The paper length is strictly limited to 8 pages with as many pages as needed for the references and appendix section (all in a single pdf). Full papers will go through a **single-blind** peer-reviewing process via OpenReview, with a two-week period for author rebuttal and discussion. All accepted papers will be presented as posters with a selection of these papers will also be invited for oral presentation.

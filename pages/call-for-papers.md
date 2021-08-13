@@ -38,6 +38,8 @@ Short papers are up to 3 pages and can, for example, focus on novel methodologic
 MIDL is going to have a Special Issue in MedIA (Medical Image Analysis). A selection of the best full and short papers is going to be invited to submit an extended version of their work there. -->
 
 ## Important Dates
+
+[% .deadlines %]
 ### Full papers
 * **Paper registration deadline** 10 December 2021, 17:00 UTC
 * **Paper submission deadline** 17 December 2021, 17:00 UTC
@@ -45,15 +47,9 @@ MIDL is going to have a Special Issue in MedIA (Medical Image Analysis). A selec
 * **Rebuttal period** 28 January - 11 February 2022
 * **Final decisions** 27 February 2022
 
-
 ### Short papers
-
 * **Paper submission deadline**  22 April 2022, 17:00 UTC
 * **Final decisions** 6 May 2022
+[% / %]
 
-
-For submission deadlines and the schedule of the review process, see [Important Dates](/dates.html).
-
-### Author Instructions
-
-Full author instructions can be found on the [dedicated page](/author-instructions.html).
+For submission deadlines and the schedule of the review process see [Important Dates](/dates.html). For submission details see [Author Instructions](/author-instructions.html).
