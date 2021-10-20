@@ -14,6 +14,7 @@ page_class: "sponsors"
 </p>
 
 We are hoping to see many of you at Zurich for MIDL 2022!
+The conference is planned as a hybrid event.
 You can find here the [call for papers](/call-for-papers.html), [important dates](/dates.html),
 [author instructions](/author-instructions.html), information about the [conference venue](/venue.html).
  <!-- and details about [registration for the conference /TBA](/registration.html). -->
