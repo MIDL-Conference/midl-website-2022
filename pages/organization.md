@@ -23,9 +23,9 @@ page_class: "sponsors"
 
 
 ## Program Chairs
-| <img src="images/archana_venkataraman.png" width="150"> |  <img src="images/christian_baumgartner.jpg" width="150">  |  <img src="images/qi_dou.png" width="150"> |
-|:-:| :-: | :-: |
-| [Archana Venkataraman](https://engineering.jhu.edu/ece/faculty/archana-venkataraman/) <br> John C. Malone Assistant Professor, Department of Electrical Engineering, Johns Hopkins University | [Christian F. Baumgartner](https://baumgach.github.io) <br> Group leader, Machine Learning in Medical Image Analysis, University of Tübingen | [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/) <br> Assistant Professor, Department of Computer Science and Engineering, The Chinese University of Hong Kong|
+| <img src="images/archana_venkataraman.png" width="150"> |  <img src="images/christian_baumgartner.jpg" width="150">  |  <img src="images/qi_dou.png" width="150"> | <img src="images/shadi_albarqouni.jpg" width="150"> | 
+|:-:| :-: | :-: | :-: |
+| [Archana Venkataraman](https://engineering.jhu.edu/ece/faculty/archana-venkataraman/) <br> John C. Malone Assistant Professor, Department of Electrical Engineering, Johns Hopkins University | [Christian F. Baumgartner](https://baumgach.github.io) <br> Group leader, Machine Learning in Medical Image Analysis, University of Tübingen | [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/) <br> Assistant Professor, Department of Computer Science and Engineering, The Chinese University of Hong Kong| [Shadi Albarqouni](https://albarqouni.github.io) <br> AI Young Investigator Group Leader at Helmholtz AI|
 <!-- * [Archana Venkataraman](https://engineering.jhu.edu/ece/faculty/archana-venkataraman/), John C. Malone Assistant Professor, Department of Electrical Engineering, Johns Hopkins University -->
 <!-- 
 * [Christian F. Baumgartner](https://baumgach.github.io), Group leader, Machine Learning in Medical Image Analysis, University of Tübingen -->
