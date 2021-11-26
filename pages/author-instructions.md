@@ -171,14 +171,3 @@ If an author withdraws the paper, it will be deleted from the OpenReview hosting
 1. On February 27th, authors will be notified about the acceptance or rejection of their paper (full paper). For short papers the decisions will be made available on May 6th.
 1. Once the process is complete and a final decision is reached, the authors can choose to delete rejected submissions from the OpenReview hosting site.
 1. Papers that are not accepted will be considered non-archival, and may be submitted elsewhere at the discretion of the authors. We strongly encourage taking into account the reviewers comments before resubmitting. During submission, the authors will have the option to indicate whether to have their submissions, the reviews, and the comments to be deleted from the OpenReview site, in case their submission is rejected.
-
-
-## Review Guidelines
-
-We are committed to openness and transparency. We perform an open review process, have open access for all papers presented at MIDL, are transparent with regard to sponsorship packages and involvement from industry at the conference, provide freely available recordings of all presentations on the MIDL website, and we will urge MIDL contributors to use an open access policy as much as possible for the data and code. Reviews should be conducted with these guiding principles in mind.
-
-1. Reviewers should always provide positive, constructive reviews and be as open as possible.
-1. The review should include a short summary, a list of pros and cons and preferably ideas regarding related and future work.
-1. Comments regarding lack of novelty need to be substantiated, e.g. by providing reference(s) to previous work.
-1. Reviewers can be anonymous but they are eligible for the outstanding reviewer award only if they sign the review.
-1. Reviewers should engage in discussion with the authors during the rebuttal period.
