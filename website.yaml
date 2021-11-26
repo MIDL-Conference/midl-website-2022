@@ -32,7 +32,7 @@ nav:
     icon: "pen-nib"
   - title: "Review Guidelines"
     path: "/review-guidelines.html"
-    icon: "pen-nib"
+    icon: "search"
   - title: "Important Dates"
     path: "/dates.html"
     icon: "calendar"
