@@ -4,7 +4,7 @@ title: "Review guidelines"
 
 {% from "_macros.html" import button %}
 
-## Review Guidelines
+# Review Guidelines
 
 We are committed to openness and transparency. We perform an open review process, have open access for all papers presented at MIDL, are transparent with regard to sponsorship packages and involvement from industry at the conference, provide freely available recordings of all presentations on the MIDL website, and we will urge MIDL contributors to use an open access policy as much as possible for the data and code. Reviews should be conducted with these guiding principles in mind.
 
