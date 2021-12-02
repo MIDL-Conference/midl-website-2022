@@ -96,7 +96,7 @@ To submit a paper, authors need to have an updated [OpenReview account](http://o
 
 <!-- After the registration period is over the Submission button will be inactive. To upload your pdf, select your paper and press “Revision”. -->
 
-**Inquiries to the program chairs can be addressed directly to [pc@2022.midl.io](mailto:pc@2022.midl.io).**
+Inquiries to the program chairs can be addressed directly to [pc@2022.midl.io](mailto:pc@2022.midl.io).
 
 --- 
 <!-- ## Full papers
@@ -137,6 +137,7 @@ To prepare your submission to MIDL 2022 either as a full or short paper, please 
 
 <!-- **Make sure that the submitted PDF is anonymous**. Only the final, accepted version should have author names. -->
 
+---
 
 ## Dual submission policy
 ### Full papers
@@ -158,6 +159,7 @@ After the submission deadline and during the paper review/rebuttal/discussion pr
 After the decisions are announced, it will be possible for authors to withdraw a rejected paper.
 If an author withdraws the paper, it will be deleted from the OpenReview hosting site. -->
 
+---
 
 ## Review Process
 1. Submissions can be made either as a full or short paper.
