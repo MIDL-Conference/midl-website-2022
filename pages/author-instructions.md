@@ -90,9 +90,9 @@ Full papers contain methodological developments or well-validated applications o
 
 Short papers are **strictly limited to 3 pages (including references)** and can, for example, focus on novel methodological ideas without extensive validation. We also specifically accept short papers discussing recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees. Selection of short papers is based on a light single-blind review process via OpenReview, without a discussion period. All accepted short papers will be presented at the conference.
 
-To submit a paper, authors need to have an updated [OpenReview account](http://openreview.net/profile). 
-The submission link is [here](https://openreview.net/group?id=MIDL.io/2022/Conference).
-<!-- {{ button("OpenReview conference website", "https://openreview.net/group?id=MIDL.io/2022/Conference") }} -->
+To submit a paper, authors need to have an updated [OpenReview account](http://openreview.net/profile).
+
+{{ button("Submit a paper", "https://openreview.net/group?id=MIDL.io/2022/Conference") }}
 
 <!-- After the registration period is over the Submission button will be inactive. To upload your pdf, select your paper and press “Revision”. -->
 
