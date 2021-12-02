@@ -23,11 +23,7 @@ Questions and inquiries can be addressed directly to [2022@midl.io](mailto:2022@
 
 ## Call for Reviewers
 
-Dear colleagues,
-
 If you would like to support MIDL 2022 as a reviewer you can apply under the following [link](https://docs.google.com/forms/d/e/1FAIpQLSfwjljOBuiKWCpEeQEv7n-vwTH13emgct_I1Dx3XROnnpBOng/viewform?usp=send_form) until December 3, 2021. 
-
-The MIDL 2022 team
 
 ---
 
