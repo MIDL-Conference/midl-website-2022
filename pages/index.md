@@ -21,9 +21,9 @@ You can find here the [call for papers](/call-for-papers.html), [important dates
 
 Questions and inquiries can be addressed directly to [2022@midl.io](mailto:2022@midl.io).
 
-## Call for Reviewers
+<!-- ## Call for Reviewers
 
-If you would like to support MIDL 2022 as a reviewer you can apply under the following [link](https://docs.google.com/forms/d/e/1FAIpQLSfwjljOBuiKWCpEeQEv7n-vwTH13emgct_I1Dx3XROnnpBOng/viewform?usp=send_form) until December 3, 2021. 
+If you would like to support MIDL 2022 as a reviewer you can apply under the following [link](https://docs.google.com/forms/d/e/1FAIpQLSfwjljOBuiKWCpEeQEv7n-vwTH13emgct_I1Dx3XROnnpBOng/viewform?usp=send_form) until December 3, 2021.  -->
 
 ---
 
