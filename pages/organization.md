@@ -34,6 +34,42 @@ page_class: "sponsors"
 
 <!-- * [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/), Assistant Professor, Department of Computer Science and Engineering, The Chinese University of Hong Kong -->
 
+## Track Chairs
+
+* Adrian V Dalca
+* Adrien Depeursinge
+* Andrew P. King
+* Carole Frindel
+* Caroline Petitjean
+* Dwarikanath Mahapatra
+* Enzo Ferrante
+* Emma Claire Robinson
+* Francesco Ciompi
+* Guang Yang
+* Huazhu Fu
+* Ilker Hacihaliloglu
+* Ingerid Reinertsen
+* Ismail Ben Ayed
+* Jelmer M. Wolterink
+* Hao Chen
+* Jianming Liang
+* Juan Eugenio Iglesias
+* Jonas Richiardi
+* Jose Dolz
+* Konstantinos Kamnitsas
+* Baiying Lei
+* Lisa M. Koch
+* Mathias Unberath
+* Minjeong Kim
+* Nicha C Dvornek
+* Ninon Burgos
+* Pierrick Coupe
+* Ryutaro Tanno
+* Sandy Engelhardt
+* Sila Kurugol
+* Veronika Cheplygina
+* Xiahai Zhuang
+
 ## Website, Proceedings and Email Communication
 <center>
 

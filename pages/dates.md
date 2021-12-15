@@ -10,8 +10,8 @@ title: "Important Dates"
 ### Full Papers
 * <del>**Paper registration deadline** 10 December 2021, 17:00 [UTC](https://www.timeanddate.com/time/map/) </del> removed
 * **Paper submission deadline** 17 December 2021, 17:00 [UTC](https://www.timeanddate.com/time/map/)
-* **Reviews due** 28 January 2022 
-* **Rebuttal period** 28 January - 11 February 2022
+* **Reviews due** 24 January 2022 
+* **Rebuttal period** 1 February - 11 February 2022
  * **Final decisions** 27 February 2022
 
 
