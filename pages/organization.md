@@ -34,7 +34,7 @@ page_class: "sponsors"
 
 <!-- * [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/), Assistant Professor, Department of Computer Science and Engineering, The Chinese University of Hong Kong -->
 
-## Track Chairs
+## Technical Committee
 
 * Adrian V Dalca
 * Adrien Depeursinge
