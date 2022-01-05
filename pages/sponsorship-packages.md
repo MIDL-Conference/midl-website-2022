@@ -37,8 +37,7 @@ Additional components for the virtual part of the conference
 
 * Virtual conference room for each sponsor
 * Virtual bulletin board for messages from the sponsors like job adverts, etc.
-* Special sessions for virtual participants, held during the lunch and coffee breaks, where sponsors can present their company, their product(s) or talk about job openings.
-Announced in the program.
+* Special sessions for virtual participants, held during the lunch and coffee breaks, where sponsors can present their company, their product(s) or talk about job openings. Announced in the program.
 * One additional registration for virtual participation
 * Featured position on the online job board
 
@@ -49,7 +48,9 @@ Announced in the program.
 
 * Company name and logo on the conference website
 * Optional: one registration for the entire conference (+250 €)
+
 Additional components for the virtual part of the conference
+
 * Virtual conference room for each sponsor
 * Virtual bulletin board for messages from the sponsors like job adverts, etc.
 * One registration for virtual participation
