@@ -18,6 +18,7 @@ page_class: "sponsors"
 <li>Optional: named sponsor for a best paper or best poster award (+ an appropriate award sum)</li>
 <li>Optional: booth in the exhibition space co-located with posters (+1,750 €)  </li>
 </ul>
+
 Additional components for the virtual part of the conference  
 
 * Virtual conference room for each sponsor
