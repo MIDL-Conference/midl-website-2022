@@ -25,8 +25,10 @@ Additional components for the virtual part of the conference
 * Virtual bulletin board for messages from the sponsors like job adverts, etc.
 * Three additional registrations for virtual participation  
 
-* Special sessions for virtual participants, held during the lunch and coffee breaks, where sponsors can present their company, their product(s) or talk about job openings. Announced in the program.
-* Featured position on the online job board  
+<ul>
+<li>Special sessions for virtual participants, held during the lunch and coffee breaks, where sponsors can present their company, their product(s) or talk about job openings. Announced in the program. </li>
+<li>Featured position on the online job board </li>
+</ul>
 
 * Short commercials shown during the breaks in our YouTube live stream, the corresponding virtual rooms, and on the main stage.
 
@@ -46,8 +48,10 @@ Additional components for the virtual part of the conference
 * Virtual bulletin board for messages from the sponsors like job adverts, etc.
 * One additional registration for virtual participation  
 
-* Special sessions for virtual participants, held during the lunch and coffee breaks, where sponsors can present their company, their product(s) or talk about job openings. Announced in the program.
-* Featured position on the online job board
+<ul>
+<li>Special sessions for virtual participants, held during the lunch and coffee breaks, where sponsors can present their company, their product(s) or talk about job openings. Announced in the program. </li>
+<li>Featured position on the online job board </li>
+</ul>
 
 ---
 
