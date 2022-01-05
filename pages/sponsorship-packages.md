@@ -11,13 +11,13 @@ page_class: "sponsors"
 
 * Company name and logo on the conference banners and in the conference program book  
 
-
-* Acknowledgement during opening and closing address
-* Company flyer or documentation included in attendee welcome package
-* One page advert in conference program book
-* Optional: named sponsor for a best paper or best poster award (+ an appropriate award sum)
-* Optional: booth in the exhibition space co-located with posters (+1,750 €)  
-
+<ul>
+<li>Acknowledgement during opening and closing address</li>
+<li>Company flyer or documentation included in attendee welcome package</li>
+<li>One page advert in conference program book</li>
+<li>Optional: named sponsor for a best paper or best poster award (+ an appropriate award sum)</li>
+<li>Optional: booth in the exhibition space co-located with posters (+1,750 €)  </li>
+</ul>
 Additional components for the virtual part of the conference  
 
 * Virtual conference room for each sponsor
