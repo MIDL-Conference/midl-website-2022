@@ -16,6 +16,7 @@ page_class: "sponsors"
 * Optional: booth in the exhibition space co-located with posters (+1,750 €)
 
 Additional components for the virtual part of the conference
+
 * Virtual conference room for each sponsor
 * Virtual bulletin board for messages from the sponsors like job adverts, etc.
 * Special sessions for virtual participants, held during the lunch and coffee breaks, where sponsors can present their company, their product(s) or talk about job openings. Announced in the program.
