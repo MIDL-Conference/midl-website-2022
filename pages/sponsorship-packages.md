@@ -32,7 +32,9 @@ Additional components for the virtual part of the conference
 * Company name and logo on the conference website
 * Company name and logo on the conference banners and in the conference program book
 * One registration for the entire conference
+
 Additional components for the virtual part of the conference
+
 * Virtual conference room for each sponsor
 * Virtual bulletin board for messages from the sponsors like job adverts, etc.
 * Special sessions for virtual participants, held during the lunch and coffee breaks, where sponsors can present their company, their product(s) or talk about job openings.
