@@ -11,6 +11,7 @@ page_class: "sponsors"
 
 * Company name and logo on the conference banners and in the conference program book  
 
+
 * Acknowledgement during opening and closing address
 * Company flyer or documentation included in attendee welcome package
 * One page advert in conference program book
