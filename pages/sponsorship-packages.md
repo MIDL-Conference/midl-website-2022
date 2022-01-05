@@ -11,7 +11,7 @@ page_class: "sponsors"
 
 * Company name and logo on the conference banners and in the conference program book  
 
-* Acknowledgment during the opening and closing address
+* Acknowledgement during opening and closing address
 * Company flyer or documentation included in attendee welcome package
 * One page advert in conference program book
 * Optional: named sponsor for a best paper or best poster award (+ an appropriate award sum)
