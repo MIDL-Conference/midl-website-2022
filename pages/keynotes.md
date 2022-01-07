@@ -17,7 +17,7 @@ page_class: "keynotes"
 
 ***
 
-## 	Prof. Dr. Julia Schnabel![Portrait of Julia Schnabel](/images/keynotes/julia_schabel_2.png){: width="180" }
+## 	Prof. Dr. Julia Schnabel![Portrait of Julia Schnabel](/images/keynotes/julia_schnabel_2.png){: width="180" }
 ### Professor of Computational Imaging and AI in Medicine, Technical University of Munich
 
 #### 
