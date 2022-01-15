@@ -6,7 +6,13 @@ page_class: "keynotes"
 # Tutorials 
 
 ## Prof. Dr. Jonas Peters![Portrait of Jonas Peters](/images/tutorials/jonas_martin_peters_2.png){: width="180" }
-### Tutorial on Causal Inference
+### Causality: Models, Learning, and Invariance
+
+In science, we often want to understand how a system reacts under interventions (e.g., under gene knock-out experiments or a change of policy). These questions go beyond statistical dependences and can therefore not be answered by standard regression or classification techniques. In this tutorial we will learn about the powerful language 
+of causality and recent developments in the field. No prior knowledge about causality is required.
+
+More precisely, we introduce structural causal models and formalize interventional distributions. We define causal effects and show how to compute them if the causal structure is known. We discuss assumptions under which causal structure becomes identifiable from observational (and interventional) data and describe corresponding methodology. If time allows, we present connections between causality and distributional robustness.
+
 #### 
 
 **Biography:** [Jonas](http://web.math.ku.dk/~peters/) is a professor in statistics at the Department of Mathematical Sciences at the University of Copenhagen. Previously, he has worked at the Max-Planck-Institute for Intelligent Systems in Tuebingen and at the Seminar for Statistics, ETH Zurich. He studied Mathematics at the University of Heidelberg and the University of Cambridge. In his 
