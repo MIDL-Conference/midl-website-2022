@@ -6,7 +6,7 @@ page_class: "keynotes"
 # Tutorials 
 
 ## Prof. Dr. Jonas Peters![Portrait of Jonas Peters](/images/tutorials/jonas_martin_peters_2.png){: width="180" }
-### Causality: Models, Learning, and Invariance
+### **Causality: Models, Learning, and Invariance**
 
 In science, we often want to understand how a system reacts under interventions (e.g., under gene knock-out experiments or a change of policy). These questions go beyond statistical dependences and can therefore not be answered by standard regression or classification techniques. In this tutorial we will learn about the powerful language 
 of causality and recent developments in the field. No prior knowledge about causality is required.
