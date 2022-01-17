@@ -8,6 +8,7 @@ With the success of last years' MIDL satellite event, MIDL Doctoral Symposium, w
 
 The MIDL Doctoral Symposium 2022 will be a full-day event with a virtual morning lecture session and an afternoon session with in-person extracurricular activities. This way, students can develop their scientific knowledge and connect in person with fellow students. An informal get-together with dinner for the evening is planned to wrap up MIDL 2022. 
 
-The selection process includes applications and candidates with high motivation who are in an early stage of their research career. The application will open in March and close in mid-May.
+The selection process includes applications and candidates with high motivation who are in an early stage of their research career. 
+
 
 Further information and a detailed program to be posted in conjuring with the application opening.
