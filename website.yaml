@@ -56,7 +56,7 @@ nav:
     icon: "users"
   - title: "COVID-19"
     path: "/covid-19.html"
-    icon: "virus"
+    icon: "syringe"
 
 
 
