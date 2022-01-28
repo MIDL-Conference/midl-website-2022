@@ -28,7 +28,7 @@ page_class: "keynotes"
 
 ***
 
-## Prof. Dr. Klaas P. Prüssmann![Portrait of Klaas Pruessmann](/images/keynotes/klaas_pruessmann_2.png){: width="180" }
+## Prof. Dr. Klaas P. Prüssmann![Portrait of Klaas Pruessmann](/images/keynotes/klaas_pruessmann_crop.png){: width="180" }
 
 ### Professor for Bioimaging, Institute of Biomedical Engineering, ETH Zürich and University of Zürich
 
