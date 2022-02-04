@@ -30,7 +30,7 @@ Additional components for the virtual part of the conference
 <li>Featured position on the online job board </li>
 </ul>
 
-* Short commercials shown during the breaks in our YouTube live stream, the corresponding virtual rooms, and on the main stage.
+* Short commercials shown during the breaks in our live stream, the corresponding virtual rooms, and on the main stage.
 
 ---
 
