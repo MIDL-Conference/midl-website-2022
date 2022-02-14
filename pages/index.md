@@ -60,8 +60,8 @@ Due to large number of requests, requirements to register an abstract for the co
 ### Silver sponsors
 
 [% .logos %]
-[![Balzano Informatik AG](static/images/sponsors/balzano.png){: height="120"}](https://www.balzano.net)
-[![Varian](static/images/sponsors/varian.png){: height="120"}](https://www.varian.com/en-ch)
+[![Balzano Informatik AG](/images/sponsors/balzano.png){: height="120"}](https://www.balzano.net)
+[![Varian](/images/sponsors/varian.png){: height="120"}](https://www.varian.com/en-ch)
 
 [% / %]
 
