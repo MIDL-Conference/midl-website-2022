@@ -66,5 +66,13 @@ Due to large number of requests, requirements to register an abstract for the co
 [% / %]
 
 ---
+### Bronze sponsors
 
+[% .logos %]
+[![GyroTools LLC](/images/sponsors/gyrotools.png){: height="120"}](https://www.gyrotools.com/gt/)
+
+
+[% / %]
+
+---
 
