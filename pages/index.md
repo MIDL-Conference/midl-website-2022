@@ -62,7 +62,7 @@ Due to large number of requests, requirements to register an abstract for the co
 [% .logos %]
 [![Balzano Informatik AG](/images/sponsors/balzano.png){: height="120"}](https://www.balzano.net)
 [![Varian](/images/sponsors/varian.png){: height="120"}](https://www.varian.com/en-ch)
-
+[![Align](/images/sponsors/align.png){: height="120"}](https://www.aligntech.com)
 [% / %]
 
 ---
