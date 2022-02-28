@@ -242,7 +242,7 @@ jQuery(document).ready(function($) {
 			<th class="col4" id='cmentor'>Welcome and Orals</th>
 			<th class="col5" id='cmentor'>Orals</th>
 			<th class="col6" id='cmentor'>Orals</th>
-			<a href='#doctoral_symposium'><th class="col7"  rowspan="9" '>Doctoral Symposium</th></a>
+			<th class="col7"  rowspan="9" '><a href='#doctoral_symposium'>Doctoral Symposium</a></th>
 		</tr>
 		<tr>
 			<th colspan="3" >Coffee break</th>
