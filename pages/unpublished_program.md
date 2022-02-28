@@ -242,13 +242,13 @@ jQuery(document).ready(function($) {
 			<th class="col4" id='cmentor'>Welcome and Orals</th>
 			<th class="col5" id='cmentor'>Orals</th>
 			<th class="col6" id='cmentor'>Orals</th>
-			<a href='2022.midl.io/doctoral_symposium.html'><th class="col7"  rowspan="9" '>Doctoral Symposium</th></a>
+			<a href='#doctoral_symposium'><th class="col7"  rowspan="9" '>Doctoral Symposium</th></a>
 		</tr>
 		<tr>
 			<th colspan="3" >Coffee break</th>
 		</tr>
 		<tr>
-			<th colspan="3" id='clong_v' >Poster Session onsite and virtual</th>
+			<th colspan="3" id='clong_v' >Poster session onsite and virtual</th>
 		</tr>
 		<tr>
 			<th colspan="3">Lunch</th>
