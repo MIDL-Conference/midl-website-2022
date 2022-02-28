@@ -218,13 +218,13 @@ jQuery(document).ready(function($) {
 <table id="program">
 	<thead>
 		<tr>
-			<th class="col1" >PDT UTC-7</th>
-			<th class="col2" >CET UTC+1</th>
-			<th class="col3" colspan="1" ><b>5th July</b></th>
-			<th class="col4" colspan="1" ><b>6th July</b></th>
-			<th class="col5" colspan="1" ><b>7th July</b></th>
-			<th class="col6" colspan="1" ><b>8th July</b></th>
-			<th class="col7" colspan="1" ><b>9th July</b></th>
+			<th class="col1" id='t01'>PDT UTC-7</th>
+			<th class="col2" id='t01'>CET UTC+1</th>
+			<th class="col3" colspan="1" id='t00'><b>5th July</b></th>
+			<th class="col4" colspan="1" id='t00'><b>6th July</b></th>
+			<th class="col5" colspan="1" id='t00'><b>7th July</b></th>
+			<th class="col6" colspan="1" id='t00'><b>8th July</b></th>
+			<th class="col7" colspan="1" id='t00'><b>9th July</b></th>
 		</tr>
 	</thead>
 	<tbody>
@@ -236,37 +236,37 @@ jQuery(document).ready(function($) {
 			<th ></th>
 		</tr>
 		<tr>
-			<th class="col1"  rowspan="9">01.15-09.00</th>
-			<th class="col2" rowspan="9">10.15-18.00</th>
-			<th class="col3" rowspan="9" href='2022.midl.io/tutorials.html'>Tutorials</th>
-			<th class="col4" >Welcome and Orals</th>
-			<th class="col5" >Orals</th>
-			<th class="col6" >Orals</th>
+			<th class="col1"  rowspan="9" id='t01'>01.15-09.00</th>
+			<th class="col2" rowspan="9" id='t01'>10.15-18.00</th>
+			<a href='2022.midl.io/tutorials.html'><th class="col3" rowspan="9">Tutorials</th></a>
+			<th class="col4" id='cmentor'>Welcome and Orals</th>
+			<th class="col5" id='cmentor'>Orals</th>
+			<th class="col6" id='cmentor'>Orals</th>
 			<a href='2022.midl.io/doctoral_symposium.html'><th class="col7"  rowspan="9" '>Doctoral Symposium</th></a>
 		</tr>
 		<tr>
 			<th colspan="3" >Coffee break</th>
 		</tr>
 		<tr>
-			<th colspan="3" >Poster Session onsite and virtual</th>
+			<th colspan="3" id='clong_v' >Poster Session onsite and virtual</th>
 		</tr>
 		<tr>
 			<th colspan="3">Lunch</th>
 		</tr>
 		<tr>
-			<th colspan="3" >Orals</th>
+			<th colspan="3" id='cmentor' >Orals</th>
 		</tr>
 		<tr>
-			<th colspan="3">Keynotes</th>
+			<th colspan="3" id='cshort_v'>Keynotes</th>
 		</tr>
 		<tr>
 			<th colspan="3">Coffee break</th>
 		</tr>
 		<tr>
-			<th colspan="3" >Orals</th>
+			<th colspan="3" id='cmentor'>Orals</th>
 		</tr>
 		<tr>
-			<th colspan="3" >Poster Session onsite and virtual</th>
+			<th colspan="3"  id='clong_v' >Poster Session onsite and virtual</th>
 		</tr>
 		<tr>
 			<th class="col1" ></th>
