@@ -238,7 +238,7 @@ jQuery(document).ready(function($) {
 		<tr>
 			<th class="col1"  rowspan="9" id='t01'>01.15-09.00</th>
 			<th class="col2" rowspan="9" id='t01'>10.15-18.00</th>
-			<a href='2022.midl.io/tutorials.html'><th class="col3" rowspan="9">Tutorials</th></a>
+			<th class="col3" rowspan="9"><a href='2022.midl.io/tutorials.html'>Tutorials</a></th>
 			<th class="col4" id='cmentor'>Welcome and Orals</th>
 			<th class="col5" id='cmentor'>Orals</th>
 			<th class="col6" id='cmentor'>Orals</th>
