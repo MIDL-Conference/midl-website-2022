@@ -238,11 +238,11 @@ jQuery(document).ready(function($) {
 		<tr>
 			<th class="col1"  rowspan="9" id='t01'>01.15-09.00</th>
 			<th class="col2" rowspan="9" id='t01'>10.15-18.00</th>
-			<th class="col3" rowspan="9"><a href='2022.midl.io/tutorials.html'>Tutorials</a></th>
+			<th class="col3" rowspan="9"><a href='tutorials.html'>Tutorials</a></th>
 			<th class="col4" id='cmentor'>Welcome and Orals</th>
 			<th class="col5" id='cmentor'>Orals</th>
 			<th class="col6" id='cmentor'>Orals</th>
-			<th class="col7"  rowspan="9" '><a href='2022.midl.io/doctoral_symposium.html'>Doctoral Symposium</a></th>
+			<th class="col7"  rowspan="9" '><a href='doctoral_symposium.html'>Doctoral Symposium</a></th>
 		</tr>
 		<tr>
 			<th colspan="3" >Coffee break</th>
