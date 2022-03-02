@@ -12,8 +12,8 @@ title: "Important Dates"
 * <del>**Paper submission deadline** 17 December 2021, 23:59 [UTC](https://www.timeanddate.com/time/map/) </del> 
 * <del>**Reviews due** 24 January 2022 </del>
 * <del> **Announcement of reviews**  31 January 2022, 23:59 [UTC](https://www.timeanddate.com/time/map/)</del>
-* **Rebuttal period** 1 February - 11 February 2022
- * **Final decisions** 27 February 2022
+* <del>**Rebuttal period** 1 February - 11 February 2022</del>
+* <del>**Final decisions** 27 February 2022</del>
 
 
 ### Short Papers
