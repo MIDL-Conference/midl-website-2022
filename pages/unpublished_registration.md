@@ -35,7 +35,7 @@ For the student and junior postdoc discounts a proof is required and needs to be
 Video recordings and photos are taken during the event and may be shared publicly during and after the event.
 
 ## Cancellation options:
-Written requests for full reimbursement of costs will be accepted until 01.05.2022, for the reimbursement of 70% of costs until 14.05.2022. Please send an e-mail to registration@2022.midl.io
+Written requests for full reimbursement of costs will be accepted until 01.05.2022, for the reimbursement of 70% of costs until 14.05.2022. Please send an e-mail to [registration@2022.midl.io](mailto:registration@2022.midl.io)
 These dates will not apply if the Swiss COVID restrictions prevent the organisation of the conference. In this case the conference will take place solely virtually and the difference to the onsite fee will be reimbursed.
 
 ## Visa application and Invitation Letters:
