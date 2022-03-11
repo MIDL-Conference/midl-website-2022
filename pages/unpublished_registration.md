@@ -30,7 +30,7 @@ In case of a **cancellation of the onsite conference** event by the MIDL 2022 ch
 Our aim is to keep the registration fees as low as possible for every attendee and have an enjoyable and productive onsite event in Zürich. 
 
 ## Standard Registration
-If you would like to register for an onsite or virtual participation and you are not using the hybrid ticket, please use the following Link:
+If you would like to register for an onsite or virtual participation and you are not using the hybrid ticket, please use the following link:
 [https://ethzurich.eventsair.com/midl-2022/reg/](https://ethzurich.eventsair.com/midl-2022/reg/)
 
 The early-bird option ends on 14.05.2022, midnight.
@@ -40,6 +40,7 @@ Video recordings and photos are taken during the event and may be shared publicl
 
 ## Cancellation options:
 Written requests for full reimbursement of costs will be accepted until 01.05.2022, for the reimbursement of 70% of costs until 14.05.2022. Please send an e-mail to [registration@2022.midl.io](mailto:registration@2022.midl.io)
+
 These dates will not apply if the Swiss COVID restrictions prevent the organisation of the conference. In this case the conference will take place solely virtually and the difference to the onsite fee will be reimbursed.
 
 ## Visa application and Invitation Letters:
