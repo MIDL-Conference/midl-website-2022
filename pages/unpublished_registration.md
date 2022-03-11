@@ -28,7 +28,7 @@ Our aim is to keep the registration fees as low as possible for every attendee a
 
 ## Standard Registration
 If you would like to register for an onsite or virtual participation and you are not using the hybrid ticket, please use the following Link:
- https://ethzurich.eventsair.com/midl-2022/reg/
+[https://ethzurich.eventsair.com/midl-2022/reg/](https://ethzurich.eventsair.com/midl-2022/reg/)
 
 The early-bird option ends on 14.05.2022, midnight.
 For the student and junior postdoc discounts a proof is required and needs to be uploaded during the registration process (student ID, copy of PhD certificate with date)
@@ -42,7 +42,7 @@ These dates will not apply if the Swiss COVID restrictions prevent the organisat
 Please keep in mind that the Visa application procedure may take some time. Therefore, please register on time.
 Invitation Letters for Visa applications can be requested during the registration process.
 
-For authors of extended short paper abstracts planning to register conditionally upon acceptance of their extended abstract submission, to help with visa processing times, an invitation letter can be made available in advance through an early submission of a valid extended abstract. Validity of the submission will be judged by the conference organisers. Early extended abstract submissions may be updated until the standard submission deadline and will follow the same review / decision process and timeline as any other extended abstract. Early submissions must be performed through the normal abstract submission procedure using OpenReview, additionally, an email linking to the submission and asking for an invitation letter should be made to 2022@midl.io.
+For authors of extended short paper abstracts planning to register conditionally upon acceptance of their extended abstract submission, to help with visa processing times, an invitation letter can be made available in advance through an early submission of a valid extended abstract. Validity of the submission will be judged by the conference organisers. Early extended abstract submissions may be updated until the standard submission deadline and will follow the same review / decision process and timeline as any other extended abstract. Early submissions must be performed through the normal abstract submission procedure using OpenReview, additionally, an email linking to the submission and asking for an invitation letter should be made to [2022@midl.io](mailto:2022@midl.io).
 
 ## Childcare 
 ETH and UZH offer various programs for children of different ages during the conference. For any further information please have a look on our [webpage](https://2022.midl.io/childcare.html) and send us an e-mail until 05.06.2022 at latest if you are interested [childcare@2022.midl.io](mailto:childcare@2022.midl.io).
