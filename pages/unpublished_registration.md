@@ -25,7 +25,7 @@ The **MIDL 2022 Hybrid Attendance Fellowship** will reduce the conference fees o
 
 If an upfront payment of the higher fees for a hybrid attendance is not possible for individual authors, they can reach out to the conference chairs already before the conference at [2022@midl.io](mailto:2022@midl.io).
 
-In case of a **cancellation of the onsite conference*** event by the MIDL 2022 chairs, all hybrid conference registrations will be transformed into virtual conference registrations, and fees will be refunded accordingly.
+In case of a **cancellation of the onsite conference** event by the MIDL 2022 chairs, all hybrid conference registrations will be transformed into virtual conference registrations, and fees will be refunded accordingly.
 
 Our aim is to keep the registration fees as low as possible for every attendee and have an enjoyable and productive onsite event in Zürich. 
 
