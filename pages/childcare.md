@@ -17,4 +17,4 @@ In case of further questions, please do not hesitate to contact us per mail via 
 Feel free to visit our organization of childcare: [kihz Mobil](https://www.kihz.uzh.ch/en/kihz-mobil.html)
 
  <img src="images/childcare/Bild1.png" width="200">  <img src="images/childcare/Bild2.png" width="200">  
- <img src="images/childcare/Bild3.png" width="200"> <img src="images/childcare/Bild4.png" width="200">  
+ <img src="images/childcare/Bild3.png" width="200">
