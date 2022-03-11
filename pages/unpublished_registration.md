@@ -4,12 +4,12 @@ title: "Registration"
 
 # Registration (Unpublished)
 ## Registration Fees:
-Early-Bird Onsite Participant, Standard: 550 CHF
-Early-Bird Onsite Participant, Student/junior postdoc: 420 CHF
-Onsite Participant, Standard: 700 CHF
-Onsite Participant, Student/junior postdoc: 580 CHF
-Onsite Participant for the Tutorials on 05.07.2022: 26 CHF
-Virtual Participant: 80 CHF
+* Early-Bird Onsite Participant, Standard: 550 CHF
+* Early-Bird Onsite Participant, Student/junior postdoc: 420 CHF
+* Onsite Participant, Standard: 700 CHF
+* Onsite Participant, Student/junior postdoc: 580 CHF
+* Onsite Participant for the Tutorials on 05.07.2022: 26 CHF
+* Virtual Participant: 80 CHF
 
 The conference is planned as an onsite event in Zurich with the option to participate virtually, if a visit to Zurich is not possible.
 
