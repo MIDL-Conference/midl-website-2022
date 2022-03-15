@@ -44,7 +44,7 @@ Three separate fields have to be uploaded in OpenReview:
 
 10. Include the main PDF and all the Figures in the zip folder.
 
-11. Fill out and sign the PMLR Publication Agreement (http://proceedings.mlr.press/pmlr-license-agreement.pdf) and add it in PDF format to the zip folder as part of your latex project.
+11. Fill out and sign the PMLR Publication Agreement ([http://proceedings.mlr.press/pmlr-license-agreement.pdf](http://proceedings.mlr.press/pmlr-license-agreement.pdf)) and add it in PDF format to the zip folder as part of your latex project.
 
 
 ### 2.   Camera ready PDF for OpenReview:
