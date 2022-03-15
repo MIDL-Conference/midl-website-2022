@@ -60,7 +60,7 @@ The authors **must** create one @InProceedings entry for each paper and upload i
 * pages: The page numbers in “startpage–endpage” format
 * abstract: The paper’s abstract. 
     * It can include maths in valid LaTeX.
-    * Make sure there are no special characters in the abstract, such as those [arising from copying and pasting ligatures from the pdf](superuser.com/questions/375449/why-does-the-text-fi-get-cut-when-i-copy-from-a-pdf-or-print-a-document).
+    * Make sure there are no special characters in the abstract, such as those [arising from copying and pasting ligatures from the pdf](http://superuser.com/questions/375449/why-does-the-text-fi-get-cut-when-i-copy-from-a-pdf-or-print-a-document).
     * You can use \<em> tags for emphasis.
     * You can use \<b> for bold.
     * You can use \<ul> tags for bullets.
