@@ -61,10 +61,10 @@ The authors **must** create one @InProceedings entry for each paper and upload i
 * abstract: The paper’s abstract. 
     * It can include maths in valid LaTeX.
     * Make sure there are no special characters in the abstract, such as those [arising from copying and pasting ligatures from the pdf](http://superuser.com/questions/375449/why-does-the-text-fi-get-cut-when-i-copy-from-a-pdf-or-print-a-document).
-    * You can use \<em> tags for emphasis.
-    * You can use \<b> for bold.
-    * You can use \<ul> tags for bullets.
-    * You can use \<ol> for numerated lists.
+    * You can use `<em>` tags for emphasis.
+    * You can use `<b>` for bold.
+    * You can use `<ul>` tags for bullets.
+    * You can use `<ol>` for numerated lists.
 * Other fields may also appear in the @InProceedings entries but will be ignored at present.
 
 
