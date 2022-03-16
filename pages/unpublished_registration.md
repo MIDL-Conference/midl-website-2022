@@ -15,7 +15,6 @@ The **early-bird** registration option will end on 14.05.2022, midnight Zurich t
 For **students and junior postdocs** a discount will apply. To be eligible a proof is required that needs to be uploaded during the registration process (student ID, copy of a PhD certificate dated 2020 or later).
 
 ## Registration Fees and Registration:
-Our aim is to keep the registration fees as low as possible for every attendee and have an enjoyable and productive onsite event in Zürich. 
 
 * Early-Bird Hybrid Participant, Standard: 550 CHF
 * Early-Bird Hybrid Participant, Student/junior postdoc: 420 CHF
@@ -28,6 +27,8 @@ If you would like to register for either option, please use the following link:
 [https://ethzurich.eventsair.com/midl-2022/reg/](https://ethzurich.eventsair.com/midl-2022/reg/)
 
 Please note that video recordings and photos will be taken during the event, both onsite in Zurich and via the conference streaming platform. All registrants agree that such photos and recordings may be shared publicly during and after the event.
+
+Our aim is to keep the registration fees as low as possible for every attendee and have an enjoyable and productive onsite event in Zürich. 
 
 ## Hybrid Registration for Presenting Authors:
 
