@@ -12,7 +12,7 @@ The following links provide you with the most up-to-date information about the s
 
 **Measures in Switzerland** : [link](https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html)
 
-Currently, you need a Swiss COVID certificate to attend various indoor and outdoor events, [this page](https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/covid-zertifikat/covid-zertifikat-erhalt-gueltigkeit.html) shows how you can get one.
+<!-- Currently, you need a Swiss COVID certificate to attend various indoor and outdoor events, [this page](https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/covid-zertifikat/covid-zertifikat-erhalt-gueltigkeit.html) shows how you can get one. -->
 
 **Latest press news**: [link](https://www.admin.ch/gov/en/start/documentation/media-releases/media-releases-federal-council.msg-id-86839.html)
 
