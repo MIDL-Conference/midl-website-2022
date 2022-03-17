@@ -53,4 +53,5 @@ Authors of short papers, who do not want to register before the short paper deci
 Please keep in mind that the Visa application procedure may take some time. Therefore, please register on time. 
 
 ## Childcare 
+
 ETH and UZH offer various programs for children of different ages during the conference. For any further information please have a look on our [webpage](https://2022.midl.io/childcare.html) and send us an e-mail until 05.06.2022 at latest if you are interested [childcare@2022.midl.io](mailto:childcare@2022.midl.io).
