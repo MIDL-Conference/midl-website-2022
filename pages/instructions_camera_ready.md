@@ -48,6 +48,8 @@ Items 1) and 3) will be submitted in the same zip file as "supplementary materia
 
 11. Fill out and sign the PMLR Publication Agreement ([http://proceedings.mlr.press/pmlr-license-agreement.pdf](http://proceedings.mlr.press/pmlr-license-agreement.pdf)) and add it in PDF format to the zip folder as part of your latex project.
 
+Please leave \jmlrvolume{-- Under Review} and \editors{Under Review for MIDL 2022} as it is.
+
 
 ### 2. Camera ready PDF for OpenReview:
 
