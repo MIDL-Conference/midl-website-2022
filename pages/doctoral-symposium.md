@@ -11,4 +11,34 @@ The MIDL Doctoral Symposium 2022 will be a full-day event with a virtual morning
 The selection process includes applications and candidates with high motivation who are in an early stage of their research career. 
 
 
-Further information and a detailed program to be posted in conjuring with the application opening.
+## Schedule 
+
+| Time         | Program                                             |
+|--------------|-----------------------------------------------------|
+| 08.30- 12.30 | Invited speaker and workshop (hybrid participation) |
+| 12.30-14.30  | Lunch                                               |
+| 14.30-18.30  | In person social event - Hike & Games               |
+| 18.30-       | In person dinner                                    |
+
+## Detailed Program
+**08:30 - 12:30 Invited speaker and workshop (hybrid participation)**
+
+Speaker and further details TBA.
+
+**12:30 - 14:30 Lunch**
+
+For those participating in person, we will have optional lunch to meet and connect while fueling up for the afternoon activities. (Paid by participants)
+
+**14:30 - 18:30 In-person social event - Hike & Games**  
+While in Switzerland, hiking is a must! If the weather permits, we will hike along the ridge of Zürich’s own mountain, Uetliberg. So bring your sporting shoes and join us while exploring Zürich from above with the alps on the horizon. While hiking, we will also have social activities and games for everyone to connect and meet fellow students from other universities. The hike will end at lake Zürich where we will take the boat back to ETH.
+
+**18:30 - ? In-person dinner**
+
+Together, we will enjoy a relaxed, informal dinner where food and drinks will be provided. Participants can socialize and stay as long as they like. 
+
+## Other Info
+Thank you to the sponsors of MIDL 2022 who will cover the cost of the doctoral symposium!
+
+A finalized schedule and more information will be sent when final decisions are made. All times in given in CET. 
+
+If you have any questions, don’t hesitate to contact us: [2022@midl.io](mailto:2022@midl.io)
