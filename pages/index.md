@@ -61,7 +61,7 @@ Due to large number of requests, requirements to register an abstract for the co
 ### Gold sponsors 
 
 [% .logos %]
-[![ImFusion](/images/sponsors/imfusion.png){: height="120"}](https://www.imfusion.com)
+[![ImFusion](/images/sponsors/imfusion.png){: height="60"}](https://www.imfusion.com)
 [% / %]
 
 ### Silver sponsors
