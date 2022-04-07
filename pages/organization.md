@@ -101,10 +101,13 @@ page_class: "sponsors"
 ## General Support
 
 <center>
-
+<!-- 
 | <img src="images/kristine_haberer.jpg" width="100">  |
 |:-:|
-| Kristine Haberer |
+| Kristine Haberer | -->
+| <img src="images/carina_volk.jpg" width="100">  |
+|:-:|
+| Carina Volk |
 
 </center>
 
