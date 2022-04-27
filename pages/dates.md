@@ -17,7 +17,7 @@ title: "Important Dates"
 
 
 ### Short Papers
-* **Paper submission deadline** 22 April 2022, 23:59 [UTC](https://www.timeanddate.com/time/map/)
+* <del>**Paper submission deadline** 22 April 2022, 23:59 [UTC](https://www.timeanddate.com/time/map/)</del>
 * **Final decisions** 6 May 2022
 
 <!-- ### Full Papers
