@@ -98,17 +98,25 @@ page_class: "sponsors"
 * Ertunc Erdil
 * Georg Brunner -->
 
-## General Support
-
+## Administration and Sponsorship
 <center>
+
+| <img src="images/kristine_haberer.jpg" width="100">  |
+|:-:|
+| Kristine Haberer |
+
+</center>
+
+## General Support
+<center>
+
+| <img src="images/carina_volk.jpg" width="100">  |
+|:-:|
+| Carina Volk |
 <!-- 
 | <img src="images/kristine_haberer.jpg" width="100">  |
 |:-:|
 | Kristine Haberer | -->
-| <img src="images/carina_volk.jpg" width="100">  |
-|:-:|
-| Carina Volk |
-
 </center>
 
 
