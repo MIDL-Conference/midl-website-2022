@@ -101,9 +101,9 @@ page_class: "sponsors"
 ## Administration and Sponsorship
 <center>
 
-| <img src="images/kristine_haberer.jpg" width="100">  |
-|:-:|
-| Kristine Haberer |
+| <img src="images/kristine_haberer.jpg" width="100">  |||||| <img src="images/arka_mitra.jpg" width="100"> |
+|:-:|||||| :-: |
+| Kristine Haberer |||||| Arka Mitra |
 
 </center>
 
