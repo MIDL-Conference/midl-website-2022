@@ -103,7 +103,7 @@ page_class: "sponsors"
 
 | <img src="images/kristine_haberer.jpg" width="100">  |||||| <img src="images/arka_mitra.jpg" width="100"> |
 |:-:|||||| :-: |
-| Kristine Haberer |||||| Arka Mitra 
+| Kristine Haberer |||||| Arka Mitra |
 
 </center>
 
