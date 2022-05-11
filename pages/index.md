@@ -62,6 +62,7 @@ Due to large number of requests, requirements to register an abstract for the co
 
 [% .logos %]
 [![ImFusion](/images/sponsors/imfusion.png){: height="60"}](https://www.imfusion.com)
+[% / %]
 [![Siemens Healthineers ](/images/sponsors/siemens-healthineers.jpg){: height="120"}](http://www.usa.siemens.com/healthineers)
 [% / %]
 
