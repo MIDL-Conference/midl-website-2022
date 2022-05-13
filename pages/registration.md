@@ -12,7 +12,7 @@ A **hybrid conference registration** will allow you to join the meeting either '
 
 A **virtual conference registration** will allow you to join the meeting virtually via the conference streaming platform. If you do not plan to travel to Zurich, but only to participate virtually, please register as a ‘virtual participant’. (If you happen to be a presenting author, please see the section below.)
 
-The **early-bird** registration option will end on 14 May 2022, midnight Zurich time.
+The **early-bird** registration option will end on 20 May 2022, midnight Zurich time.
 
 For **students and junior postdocs** a discount will apply. To be eligible a proof is required that needs to be uploaded during the registration process (student ID, copy of a PhD certificate dated 2020 or later).
 
@@ -37,13 +37,13 @@ Our aim is to keep the registration fees as low as possible for every attendee a
 
 All **presenting authors** need to register for a hybrid conference participation. If they know at the time of the registration that they will not be able to attend the meeting in Zurich onsite, but only virtually, they can indicate this during the registration process. This will make them eligible for the ‘MIDL 2022 Hybrid Attendance Fellowship’ that will reduce their conference fees to the fees of a virtual participation.
 
-All **first authors** will receive an individual registration link for the hybrid  participation. This link can be used only once by any of the authors. The hybrid registration needs to take place until **14 May 2022**, i.e., during the early-bird registration time frame. Additional authors can apply via the regular registration process (link above). 
+All **first authors** will receive an individual registration link for the hybrid  participation. This link can be used only once by any of the authors. The hybrid registration needs to take place until **20 May 2022**, i.e., during the early-bird registration time frame. Additional authors can apply via the regular registration process (link above). 
 
 The **MIDL 2022 Hybrid Attendance Fellowship** will reduce the conference fees of presenting authors who intend to join the conference via the conference streaming platform only. Authors can apply for it during the registration process, briefly explaining their need for a conference fee reduction, e.g., because of limited available funding at their home institution. The fellowships will be assigned by the MIDL Chairs based on the indicated reasons and the availability of funds (that will depend on the total number of attendees of the onsite conference). Assigned fellowships will be made available as a refund after the conference. If an upfront payment of the higher fees for a hybrid attendance is not possible for individual authors, they can reach out to the conference chairs already before the conference at [2022@midl.io](mailto:2022@midl.io).
 
 ## Cancellation options
 
-Written requests for full reimbursement of costs will be accepted until 1 May 2022, for the reimbursement of 70% of costs until 14 May 2022. Please send an e-mail to [registration@2022.midl.io](mailto:registration@2022.midl.io)
+Written requests for full reimbursement of costs will be accepted until 1 May 2022, for the reimbursement of 70% of costs until 20 May 2022. Please send an e-mail to [registration@2022.midl.io](mailto:registration@2022.midl.io)
 
 These dates will not apply if the Swiss COVID restrictions prevent the organisation of the conference. In this case the conference will take place solely virtually and the difference to the onsite fee will be reimbursed.
 
