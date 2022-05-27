@@ -8,6 +8,8 @@ As the MIDL 2022 organization committee, we would like to provide the best exper
 
 The following links provide you with the most up-to-date information about the situation in Switzerland. Persons with specific health conditions are advised to not participate on-site.
 
+**Testing for COVID-19** : [link](https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/testen.html)
+
 **Entering Switzerland** : [link](https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/quarantaene-einreisende.html)
 
 **Measures in Switzerland** : [link](https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html)
