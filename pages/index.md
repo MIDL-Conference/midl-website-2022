@@ -70,8 +70,8 @@ Due to large number of requests, requirements to register an abstract for the co
 
 [% .logos %]
 [![Balzano Informatik AG](/images/sponsors/balzano-2.png){: height="80"}](https://www.scandiags.com)
-[![Varian](/images/sponsors/varian.png){: height="120"}](https://www.varian.com/en-ch)
-[![Align](/images/sponsors/align.png){: height="80"}](https://www.aligntech.com)
+[![Varian](/images/sponsors/varian.png){: height="70"}](https://www.varian.com/en-ch)
+[![Align](/images/sponsors/align.png){: height="70"}](https://www.aligntech.com)
 [% / %]
 
 ---
