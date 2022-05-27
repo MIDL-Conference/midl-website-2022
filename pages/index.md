@@ -61,21 +61,17 @@ Due to large number of requests, requirements to register an abstract for the co
 ### Gold sponsors 
 
 [% .logos %]
-[![ImFusion](/images/sponsors/imfusion.png){: height="60"}](https://www.imfusion.com)
----
-[![Siemens Healthineers ](/images/sponsors/siemens-healthineers.jpg){: height="80"}](http://www.usa.siemens.com/healthineers)
----
-[![Amazon](/images/sponsors/aws.jpg){: height="120"}](https://aws.amazon.com)
+[![ImFusion](/images/sponsors/imfusion.png){: height="30"}](https://www.imfusion.com)
+[![Siemens Healthineers ](/images/sponsors/siemens-healthineers.jpg){: height="60"}](http://www.usa.siemens.com/healthineers)
+[![Amazon](/images/sponsors/aws.jpg){: height="60"}](https://aws.amazon.com)
 [% / %]
 
 ### Silver sponsors
 
 [% .logos %]
-[![Balzano Informatik AG](/images/sponsors/balzano-2.png){: height="120"}](https://www.scandiags.com)
----
+[![Balzano Informatik AG](/images/sponsors/balzano-2.png){: height="80"}](https://www.scandiags.com)
 [![Varian](/images/sponsors/varian.png){: height="120"}](https://www.varian.com/en-ch)
----
-[![Align](/images/sponsors/align.png){: height="120"}](https://www.aligntech.com)
+[![Align](/images/sponsors/align.png){: height="80"}](https://www.aligntech.com)
 [% / %]
 
 ---
