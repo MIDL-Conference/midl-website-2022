@@ -62,9 +62,9 @@ Due to large number of requests, requirements to register an abstract for the co
 
 [% .logos %]
 [![ImFusion](/images/sponsors/imfusion.png){: height="60"}](https://www.imfusion.com)
-
-[![Siemens Healthineers ](/images/sponsors/siemens-healthineers.jpg){: height="120"}](http://www.usa.siemens.com/healthineers)
-
+---
+[![Siemens Healthineers ](/images/sponsors/siemens-healthineers.jpg){: height="80"}](http://www.usa.siemens.com/healthineers)
+---
 [![Amazon](/images/sponsors/aws.jpg){: height="120"}](https://aws.amazon.com)
 [% / %]
 
@@ -72,7 +72,9 @@ Due to large number of requests, requirements to register an abstract for the co
 
 [% .logos %]
 [![Balzano Informatik AG](/images/sponsors/balzano-2.png){: height="120"}](https://www.scandiags.com)
+---
 [![Varian](/images/sponsors/varian.png){: height="120"}](https://www.varian.com/en-ch)
+---
 [![Align](/images/sponsors/align.png){: height="120"}](https://www.aligntech.com)
 [% / %]
 
