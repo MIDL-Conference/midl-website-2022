@@ -315,7 +315,7 @@ id="hide-show-timezones">
 <hr> -->
 
 
-<!-- <table cellspacing="0" border="0">
+<table cellspacing="0" border="0">
 	<colgroup span="6" width="138"></colgroup>
 	<tr>
 		<td>Tutorials</td>
@@ -434,4 +434,4 @@ id="hide-show-timezones">
 		<td align="left" valign=top><br></td>
 		<td align="left" valign=top><br></td>
 	</tr>
-</table> -->
+</table>
