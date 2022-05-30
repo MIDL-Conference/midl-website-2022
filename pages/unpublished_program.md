@@ -318,7 +318,6 @@ id="hide-show-timezones">
 <table cellspacing="0" border="0">
 	<colgroup span="6" width="138"></colgroup>
 	<tr>
-		<td>Tutorials</td>
 		<td id='t00'>July 5, 2022</td>
 		<td id='t00'>July 6, 2022</td>
 		<td id='t00'>July 7, 2022</td>
@@ -326,10 +325,10 @@ id="hide-show-timezones">
 		<td id='t00'>July 9, 2022</td>
 	</tr>
 	<tr>
-		<td id='t01' rowspan=3>09:00 - 10:00</td>
-		<td id='cspecial_t' rowspan=9><a href='tutorials.html'>Tutorial I</a></td>
-		<td colspan=3 rowspan=2>Registration, Poster Setup</b></td>
-		<td rowspan=9><a href='doctoral-symposium.html'>Doctoral Symposium</a></td>
+		<td id='t01' rowspan=3 height="80" align="center">09:00 - 10:00</td>
+		<td id='cposter_r' align="center" rowspan=9><a href='tutorials.html'>Tutorial I</a></td>
+		<td colspan=3 align="center" id='cbreak_r' rowspan=2>Registration, Poster Setup</b></td>
+		<td rowspan=9 align="center"><a href='doctoral-symposium.html'>Doctoral Symposium</a></td>
 	</tr>
 	<tr>
 		<td><br></td>
@@ -368,9 +367,9 @@ id="hide-show-timezones">
 	<tr>
 		<td id='t01' rowspan=3 height="99" align="center" >12:00 - 13:00</td>
 		<td align="left" valign=bottom><br></td>
-		<td >Sponsor event / Lunch </td>
-		<td >Sponsor event / Lunch </td>
-		<td >Sponsor event / Lunch </td>
+		<td id='cbreak_r'>Sponsor event / Lunch </td>
+		<td id='cbreak_r'>Sponsor event / Lunch </td>
+		<td id='cbreak_r'>Sponsor event / Lunch </td>
 		<td align="left" valign=top><br></td>
 	</tr>
 	<tr>
@@ -400,7 +399,7 @@ id="hide-show-timezones">
 	</tr>
 	<tr>
 		<td id='t01' rowspan=3 height="80" align="center" >14:00 - 15:00</td>
-		<td rowspan=9 id='cspecial_t'><a href='tutorials.html'>Tutorial II</a></td>
+		<td rowspan=9 align="center" id='cposter_r'><a href='tutorials.html'>Tutorial II</a></td>
 		<td id='cshort_v' align="center" rowspan=3 >Keynote 1</td>
 		<td id='cshort_v' align="center" rowspan=3 >Keynote 2</td>
 		<td id='cshort_v' align="center" rowspan=3 >Keynote 3</td>
