@@ -199,7 +199,16 @@ page_class: "keynotes"
 
     #cposter{   background-color: #248F85;}
 
-
+/* td { 
+  border: solid;
+  border-width: 1px 0;
+}
+td:first-child {
+  border-top: none;
+}
+td:last-child {
+  border-bottom: none;
+} */
 </style>
 <script>
 jQuery(document).ready(function($) {
@@ -375,26 +384,26 @@ id="hide-show-timezones">
 		<td align="left" valign=top><br></td>
 	</tr>
 	<tr>
-        <td id='t01' rowspan=2 height="54" align="center" >12:20 - 13:00</td>
-		<td align="left" valign=bottom><br></td>
+    <td id='t01' rowspan=2 height="54" align="center" >12:20 - 13:00</td>
+		<td align="left" rowspan=5 valign=bottom><br></td>
 		<td colspan=3 rowspan=3 id='cbreak' align="center" >Lunch</td>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
-		<td align="left" valign=bottom><br></td>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=bottom><br></td>
+		<td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
 		<td id='t01' rowspan=3 height="80" align="center" >13:00 - 14:00</td>
-		<td align="left" valign=bottom><br></td>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=bottom><br></td>
+		<td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
-		<td align="left" valign=bottom><br></td>
+		<!-- <td align="left" valign=bottom><br></td> -->
 		<td id='cmentor' align="center" rowspan=2 >Oral 1.2</td>
 		<td id='cmentor' align="center" rowspan=2 >Oral 2.2</td>
 		<td id='cmentor' align="center" rowspan=2 >Oral 3.2</td>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
 		<td align="left" valign=bottom><br></td>
@@ -432,9 +441,109 @@ id="hide-show-timezones">
 	</tr>
 	<tr>
 		<td align="left" valign=top><br></td>
-		<td align="left" valign=top><br></td>
-		<td align="left" valign=top><br></td>
-		<td align="left" valign=top><br></td>
-		<td align="left" valign=top><br></td>
 	</tr>
+  <tr>
+		<td id='t01' rowspan=3 height="80" align="center">16:00 - 17:00</b></td>
+		<!-- <td rowspan=3><br></td> -->
+		<!-- <td ><br></td> -->
+	</tr>
+	<tr>
+		<td rowspan=3 id='cmentor' align="center" rowspan=2 >Oral 1.3</td>
+		<td rowspan=3 id='cmentor' align="center" rowspan=2 >Oral 2.3</td>
+		<td rowspan=3 id='cmentor' align="center" rowspan=2>Oral 3.3</td>
+		<td ><br></td>
+	</tr>
+	<tr>
+		<td ><br></b></td>
+	</tr>
+	<tr>
+		<td id='t01' rowspan=3 height="80" align="center" >17:00 - 18:00</b></td>
+		<td ><br></td>
+		<td ><br></td>
+		<td ><br></td>
+	</tr>
+	<tr>
+		<td ><br></td>
+		<td rowspan=5 id="cspecial" align="center">Get together</td>
+		<td ><br></td>
+		<td align="center" id="cshort" >Awards</td>
+		<td ><br></td>
+	</tr>
+	<tr>
+		<td ><br></td>
+		<td ><br></td>
+		<td align="center" id="cshort">Closing ceremony</td>
+		<td ><br></td>
+	</tr>
+	<tr>
+		<td id='t01' rowspan=3 height="80" align="center">18:00 - 19:00</b></td>
+		<td ><br></td>
+		<td align="center" id="cspecial">Gala Dinner</td>
+		<td ><br></td>
+		<td ><br></td>
+    <td ><br></td>
+		<td ><br></td>
+	</tr>
+	<tr>
+		<td ><br></b></td>
+		<td ><br></td>
+		<td ><br></td>
+		<td ><br></td>
+		<td ><br></td>
+	</tr>
+	<tr>
+		<td ><br></b></td>
+		<td ><br></td>
+		<td ><br></td>
+		<td ><br></td>
+		<td ><br></td>
+	</tr>
+	<!-- <tr>
+		<td id='t01' rowspan=3 height="80" align="center">19:00 - 20:00</b></td>
+		<td ><br></td>
+		<td ><br></td>
+		<td ><br></td>
+		<td ><br></td>
+		<td ><br></td>
+    <td ><br></td>
+		<td ><br></td>
+		<td ><br></td>
+	</tr>
+	<tr>
+		<td ><br></b></td>
+		<td ><br></td>
+		<td ><br></td>
+		<td ><br></td>
+		<td ><br></td>
+		<td ><br></td>
+	</tr>
+	<tr>
+		<td ><br></b></td>
+		<td ><br></td>
+		<td ><br></td>
+		<td ><br></td>
+		<td ><br></td>
+		<td ><br></td>
+	</tr>
+	<tr>
+		<td id='t01' rowspan=3 height="80" align="center">20:00 - 21:00</b></td>
+		<td ><br></td>
+		<td ><br></td>
+		<td ><br></td>
+		<td ><br></td>
+		<td ><br></td>
+    <td ><br></td>
+		<td ><br></td>
+	</tr>
+	<tr>
+		<td ><br></b></td>
+		<td ><br></td>
+		<td ><br></td>
+		<td ><br></td>
+		<td ><br></td>
+		<td ><br></td>
+    	<td ><br></td>
+		<td ><br></td>
+		<td ><br></td>
+	</tr> -->
 </table>
