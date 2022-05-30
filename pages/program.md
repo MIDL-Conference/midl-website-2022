@@ -199,7 +199,7 @@ page_class: "keynotes"
 
     #cposter{   background-color: #248F85;}
 
-/* td { 
+td { 
   border: solid;
   border-width: 1px 0;
 }
@@ -208,7 +208,7 @@ td:first-child {
 }
 td:last-child {
   border-bottom: none;
-} */
+}
 </style>
 <script>
 jQuery(document).ready(function($) {
@@ -341,39 +341,39 @@ id="hide-show-timezones">
 		<td id='ckeynote' rowspan=21 align="center"><a href='doctoral-symposium.html'>Doctoral Symposium</a></td>
 	</tr>
 	<tr>
-		<td><br></td>
+		<!-- <td><br></td> -->
 	</tr>
 	<tr>
 		<td align="center">Welcome</td>
 		<td id='cmentor' align="center" rowspan=3>Oral 2.1</td>
 		<td id='cmentor' align="center" rowspan=3>Oral 3.1</td>
-		<td><br></td>
+		<!-- <td><br></td> -->
 	</tr>
 	<tr>
 		<td id='t01' rowspan=2 height="54" align="center" >10:00 - 10:40</td>
 		<td id='cmentor' align="center" rowspan=2 >Oral 1.1</td>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
     	<td id='t01' rowspan=1 height="27" align="center" >10:40 - 11:00</td>
 		<td id='cbreak' colspan=3 align="center">Coffee Break</td>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
 		<td id='t01' rowspan=3 height="80" align="center" >11:00 - 12:00</td>
 		<td id='clong_v' align="center" rowspan=3 >Poster 1.1</td>
 		<td id='clong_v' align="center" rowspan=3 >Poster 2.1</td>
 		<td id='clong_v' align="center" rowspan=3 >Poster 3.1</td>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
 		<td id='t01' rowspan=1 height="27" align="center" >12:00 - 12:20</td>
@@ -381,7 +381,7 @@ id="hide-show-timezones">
 		<td id='cbreak'  align="center">Sponsor event / Lunch </td>
 		<td id='cbreak' align="center">Sponsor event / Lunch </td>
 		<td id='cbreak' align="center">Sponsor event / Lunch </td>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
     <td id='t01' rowspan=2 height="54" align="center" >12:20 - 13:00</td>
@@ -406,8 +406,8 @@ id="hide-show-timezones">
 		<!-- <td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
-		<td align="left" valign=bottom><br></td>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=bottom><br></td>
+		<td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
 		<td id='t01' rowspan=3 height="80" align="center" >14:00 - 15:00</td>
@@ -415,21 +415,21 @@ id="hide-show-timezones">
 		<td id='cshort_v' align="center" rowspan=3 >Keynote 1</td>
 		<td id='cshort_v' align="center" rowspan=3 >Keynote 2</td>
 		<td id='cshort_v' align="center" rowspan=3 >Keynote 3</td>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
-		<td align="left" valign=top><br></td>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=top><br></td>
+		<td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
-		<td align="left" valign=top><br></td>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=top><br></td>
+		<td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
 		<td id='t01' rowspan=1 height="27" align="center" >15:00 - 15:20</td>
 		<!-- <td align="left" valign=top><br></td> -->
 		<td id='cbreak'align="center" colspan=3 >Coffee Break</td>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
 		<!-- <td align="left" valign=top><br></td> -->
@@ -437,7 +437,7 @@ id="hide-show-timezones">
 		<td id='clong_v' rowspan=2 align="center" >Poster 1.2</td>
 		<td id='clong_v' rowspan=2 align="center" >Poster 2.2</td>
 		<td id='clong_v' rowspan=2 align="center" >Poster 2.3</td>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
 		<td align="left" valign=top><br></td>
@@ -451,52 +451,52 @@ id="hide-show-timezones">
 		<td rowspan=3 id='cmentor' align="center" rowspan=2 >Oral 1.3</td>
 		<td rowspan=3 id='cmentor' align="center" rowspan=2 >Oral 2.3</td>
 		<td rowspan=3 id='cmentor' align="center" rowspan=2>Oral 3.3</td>
-		<td ><br></td>
+		<td rowspan=8><br></td>
 	</tr>
 	<tr>
-		<td ><br></b></td>
+		<!-- <td rowspan=6><br></b></td> -->
 	</tr>
 	<tr>
 		<td id='t01' rowspan=3 height="80" align="center" >17:00 - 18:00</b></td>
-		<td ><br></td>
-		<td ><br></td>
-		<td ><br></td>
+		<td rowspan=6><br></td>
+		<!-- <td ><br></td> -->
+		<!-- <td ><br></td> -->
 	</tr>
 	<tr>
-		<td ><br></td>
+		<!-- <td ><br></td> -->
 		<td rowspan=5 id="cspecial" align="center">Get together</td>
-		<td ><br></td>
+		<td rowspan=2><br></td>
 		<td align="center" id="cshort" >Awards</td>
-		<td ><br></td>
+		<!-- <td ><br></td> -->
 	</tr>
 	<tr>
-		<td ><br></td>
-		<td ><br></td>
+		<!-- <td ><br></td> -->
+		<!-- <td ><br></td> -->
 		<td align="center" id="cshort">Closing ceremony</td>
-		<td ><br></td>
+		<!-- <td ><br></td> -->
 	</tr>
 	<tr>
 		<td id='t01' rowspan=3 height="80" align="center">18:00 - 19:00</b></td>
-		<td ><br></td>
-		<td align="center" id="cspecial">Gala Dinner</td>
-		<td ><br></td>
-		<td ><br></td>
-    <td ><br></td>
-		<td ><br></td>
+		<!-- <td ><br></td> -->
+		<td rowspan=4 align="center" id="cspecial">Gala Dinner</td>
+		<td rowspan =3><br></td>
+		<!-- <td ><br></td> -->
+    <!-- <td ><br></td> -->
+		<!-- <td ><br></td> -->
 	</tr>
 	<tr>
-		<td ><br></b></td>
-		<td ><br></td>
-		<td ><br></td>
-		<td ><br></td>
-		<td ><br></td>
+		<!-- <td ><br></b></td> -->
+		<!-- <td ><br></td> -->
+		<!-- <td ><br></td>
+		<td ><br></td> -->
+		<!-- <td ><br></td> -->
 	</tr>
 	<tr>
-		<td ><br></b></td>
+		<!-- <td ><br></b></td> -->
+		<!-- <td ><br></td>
 		<td ><br></td>
-		<td ><br></td>
-		<td ><br></td>
-		<td ><br></td>
+		<td ><br></td> -->
+		<!-- <td ><br></td> -->
 	</tr>
 	<!-- <tr>
 		<td id='t01' rowspan=3 height="80" align="center">19:00 - 20:00</b></td>
