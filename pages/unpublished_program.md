@@ -319,11 +319,11 @@ id="hide-show-timezones">
 	<colgroup span="6" width="138"></colgroup>
 	<tr>
         <td><br></td>
-		<td id='t00'>July 5, 2022</td>
-		<td id='t00'>July 6, 2022</td>
-		<td id='t00'>July 7, 2022</td>
-		<td id='t00'>July 8, 2022</td>
-		<td id='t00'>July 9, 2022</td>
+		<td align="center" id='t00'>July 5, 2022</td>
+		<td align="center" id='t00'>July 6, 2022</td>
+		<td align="center" id='t00'>July 7, 2022</td>
+		<td align="center" id='t00'>July 8, 2022</td>
+		<td align="center" id='t00'>July 9, 2022</td>
 	</tr>
 	<tr>
 		<td id='t01' rowspan=3 height="80" align="center">09:00 - 10:00</td>
@@ -416,12 +416,12 @@ id="hide-show-timezones">
 	</tr>
 	<tr>
 		<td id='t01' rowspan=3 height="80" align="center" >15:00 - 16:00</td>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=top><br></td> -->
 		<td id='cbreak'align="center" colspan=3 >Coffee Break</td>
 		<td align="left" valign=top><br></td>
 	</tr>
 	<tr>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=top><br></td> -->
 		<td id='clong_v' align="center" >Poster 1.2</td>
 		<td id='clong_v' align="center" >Poster 2.2</td>
 		<td id='clong_v' align="center" >Poster 2.3</td>
