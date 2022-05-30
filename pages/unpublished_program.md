@@ -341,7 +341,7 @@ id="hide-show-timezones">
 		<td><br></td>
 	</tr>
 	<tr>
-		<td id='t01' rowspan=2 height="80" align="center" >10:00 - 10:40</td>
+		<td id='t01' rowspan=2 height="54" align="center" >10:00 - 10:40</td>
 		<td id='cmentor' align="center" rowspan=2 >Oral 1.1</td>
 		<td align="left" valign=top><br></td>
 	</tr>
@@ -349,7 +349,7 @@ id="hide-show-timezones">
 		<td align="left" valign=top><br></td>
 	</tr>
 	<tr>
-    	<td id='t01' rowspan=1 height="80" align="center" >10:40 - 11:00</td>
+    	<td id='t01' rowspan=1 height="27" align="center" >10:40 - 11:00</td>
 		<td id='cbreak' colspan=3 align="center">Coffee Break</td>
 		<td align="left" valign=top><br></td>
 	</tr>
@@ -367,7 +367,7 @@ id="hide-show-timezones">
 		<td align="left" valign=top><br></td>
 	</tr>
 	<tr>
-		<td id='t01' rowspan=1 height="99" align="center" >12:00 - 12:20</td>
+		<td id='t01' rowspan=1 height="27" align="center" >12:00 - 12:20</td>
 		<td align="left" valign=bottom><br></td>
 		<td id='cbreak'  align="center">Sponsor event / Lunch </td>
 		<td id='cbreak' align="center">Sponsor event / Lunch </td>
@@ -375,7 +375,7 @@ id="hide-show-timezones">
 		<td align="left" valign=top><br></td>
 	</tr>
 	<tr>
-        <td id='t01' rowspan=2 height="99" align="center" >12:20 - 13:00</td>
+        <td id='t01' rowspan=2 height="54" align="center" >12:20 - 13:00</td>
 		<td align="left" valign=bottom><br></td>
 		<td colspan=3 rowspan=3 id='cbreak' align="center" >Lunch</td>
 		<td align="left" valign=top><br></td>
@@ -417,14 +417,14 @@ id="hide-show-timezones">
 		<td align="left" valign=top><br></td>
 	</tr>
 	<tr>
-		<td id='t01' rowspan=1 height="80" align="center" >15:00 - 15:20</td>
+		<td id='t01' rowspan=1 height="27" align="center" >15:00 - 15:20</td>
 		<!-- <td align="left" valign=top><br></td> -->
 		<td id='cbreak'align="center" colspan=3 >Coffee Break</td>
 		<td align="left" valign=top><br></td>
 	</tr>
 	<tr>
 		<!-- <td align="left" valign=top><br></td> -->
-        <td id='t01' rowspan=2 height="80" align="center" >15:20 - 16:00</td>
+        <td id='t01' rowspan=2 height="54" align="center" >15:20 - 16:00</td>
 		<td id='clong_v' rowspan=2 align="center" >Poster 1.2</td>
 		<td id='clong_v' rowspan=2 align="center" >Poster 2.2</td>
 		<td id='clong_v' rowspan=2 align="center" >Poster 2.3</td>
