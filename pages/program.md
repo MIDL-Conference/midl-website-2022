@@ -315,21 +315,21 @@ id="hide-show-timezones">
 <hr> -->
 
 
-<!-- <table cellspacing="0" border="0">
+<table cellspacing="0" border="0">
 	<colgroup span="6" width="138"></colgroup>
 	<tr>
-		<td>Tutorials</td>
-		<td id='t00'>July 5, 2022</td>
-		<td id='t00'>July 6, 2022</td>
-		<td id='t00'>July 7, 2022</td>
-		<td id='t00'>July 8, 2022</td>
-		<td id='t00'>July 9, 2022</td>
+        <td><br></td>
+		<td align="center" id='t00'>July 5, 2022</td>
+		<td align="center" id='t00'>July 6, 2022</td>
+		<td align="center" id='t00'>July 7, 2022</td>
+		<td align="center" id='t00'>July 8, 2022</td>
+		<td align="center" id='t00'>July 9, 2022</td>
 	</tr>
 	<tr>
-		<td id='t01' rowspan=3>09:00 - 10:00</td>
-		<td id='cspecial_t' rowspan=9><a href='tutorials.html'>Tutorial I</a></td>
-		<td colspan=3 rowspan=2>Registration, Poster Setup</b></td>
-		<td rowspan=9><a href='doctoral-symposium.html'>Doctoral Symposium</a></td>
+		<td id='t01' rowspan=3 height="80" align="center">09:00 - 10:00</td>
+		<td id='ckeynote' align="center" rowspan=9><a href='tutorials.html'>Tutorial I</a></td>
+		<td colspan=3 align="center" id='cbreak' rowspan=2>Registration, Poster Setup</b></td>
+		<td id='ckeynote' rowspan=21 align="center"><a href='doctoral-symposium.html'>Doctoral Symposium</a></td>
 	</tr>
 	<tr>
 		<td><br></td>
@@ -341,7 +341,7 @@ id="hide-show-timezones">
 		<td><br></td>
 	</tr>
 	<tr>
-		<td id='t01' rowspan=3 height="80" align="center" >10:00 - 11:00</td>
+		<td id='t01' rowspan=2 height="54" align="center" >10:00 - 10:40</td>
 		<td id='cmentor' align="center" rowspan=2 >Oral 1.1</td>
 		<td align="left" valign=top><br></td>
 	</tr>
@@ -349,6 +349,7 @@ id="hide-show-timezones">
 		<td align="left" valign=top><br></td>
 	</tr>
 	<tr>
+    	<td id='t01' rowspan=1 height="27" align="center" >10:40 - 11:00</td>
 		<td id='cbreak' colspan=3 align="center">Coffee Break</td>
 		<td align="left" valign=top><br></td>
 	</tr>
@@ -366,16 +367,17 @@ id="hide-show-timezones">
 		<td align="left" valign=top><br></td>
 	</tr>
 	<tr>
-		<td id='t01' rowspan=3 height="99" align="center" >12:00 - 13:00</td>
+		<td id='t01' rowspan=1 height="27" align="center" >12:00 - 12:20</td>
 		<td align="left" valign=bottom><br></td>
-		<td >Sponsor event / Lunch </td>
-		<td >Sponsor event / Lunch </td>
-		<td >Sponsor event / Lunch </td>
+		<td id='cbreak'  align="center">Sponsor event / Lunch </td>
+		<td id='cbreak' align="center">Sponsor event / Lunch </td>
+		<td id='cbreak' align="center">Sponsor event / Lunch </td>
 		<td align="left" valign=top><br></td>
 	</tr>
 	<tr>
+        <td id='t01' rowspan=2 height="54" align="center" >12:20 - 13:00</td>
 		<td align="left" valign=bottom><br></td>
-		<td colspan=3 rowspan=3 align="center" >Lunch</td>
+		<td colspan=3 rowspan=3 id='cbreak' align="center" >Lunch</td>
 		<td align="left" valign=top><br></td>
 	</tr>
 	<tr>
@@ -389,9 +391,9 @@ id="hide-show-timezones">
 	</tr>
 	<tr>
 		<td align="left" valign=bottom><br></td>
-		<td id='cmentor' align="center" rowspan=2 >Oral 1.2</td>
-		<td id='cmentor' align="center" rowspan=2 >Oral 2.2</td>
-		<td id='cmentor' align="center" rowspan=2 >Oral 3.2</td>
+		<th id='cmentor' align="center" rowspan=2 >Oral 1.2</th>
+		<th id='cmentor' align="center" rowspan=2 >Oral 2.2</th>
+		<th id='cmentor' align="center" rowspan=2 >Oral 3.2</th>
 		<td align="left" valign=top><br></td>
 	</tr>
 	<tr>
@@ -400,7 +402,7 @@ id="hide-show-timezones">
 	</tr>
 	<tr>
 		<td id='t01' rowspan=3 height="80" align="center" >14:00 - 15:00</td>
-		<td rowspan=9 id='cspecial_t'><a href='tutorials.html'>Tutorial II</a></td>
+		<td rowspan=9 align="center" id='ckeynote'><a href='tutorials.html'>Tutorial II</a></td>
 		<td id='cshort_v' align="center" rowspan=3 >Keynote 1</td>
 		<td id='cshort_v' align="center" rowspan=3 >Keynote 2</td>
 		<td id='cshort_v' align="center" rowspan=3 >Keynote 3</td>
@@ -415,16 +417,17 @@ id="hide-show-timezones">
 		<td align="left" valign=top><br></td>
 	</tr>
 	<tr>
-		<td id='t01' rowspan=3 height="80" align="center" >15:00 - 16:00</td>
-		<td align="left" valign=top><br></td>
+		<td id='t01' rowspan=1 height="27" align="center" >15:00 - 15:20</td>
+		<!-- <td align="left" valign=top><br></td> -->
 		<td id='cbreak'align="center" colspan=3 >Coffee Break</td>
 		<td align="left" valign=top><br></td>
 	</tr>
 	<tr>
-		<td align="left" valign=top><br></td>
-		<td id='clong_v' align="center" >Poster 1.2</td>
-		<td id='clong_v' align="center" >Poster 2.2</td>
-		<td id='clong_v' align="center" >Poster 2.3</td>
+		<!-- <td align="left" valign=top><br></td> -->
+        <td id='t01' rowspan=2 height="54" align="center" >15:20 - 16:00</td>
+		<td id='clong_v' rowspan=2 align="center" >Poster 1.2</td>
+		<td id='clong_v' rowspan=2 align="center" >Poster 2.2</td>
+		<td id='clong_v' rowspan=2 align="center" >Poster 2.3</td>
 		<td align="left" valign=top><br></td>
 	</tr>
 	<tr>
@@ -434,4 +437,4 @@ id="hide-show-timezones">
 		<td align="left" valign=top><br></td>
 		<td align="left" valign=top><br></td>
 	</tr>
-</table> -->
+</table>
