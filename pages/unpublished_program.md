@@ -327,9 +327,9 @@ id="hide-show-timezones">
 	</tr>
 	<tr>
 		<td id='t01' rowspan=3 height="80" align="center">09:00 - 10:00</td>
-		<td id='cposter' align="center" rowspan=9><a href='tutorials.html'>Tutorial I</a></td>
+		<td id='ckeynote' align="center" rowspan=9><a href='tutorials.html'>Tutorial I</a></td>
 		<td colspan=3 align="center" id='cbreak' rowspan=2>Registration, Poster Setup</b></td>
-		<td rowspan=21 align="center"><a href='doctoral-symposium.html'>Doctoral Symposium</a></td>
+		<td id='ckeynote' rowspan=21 align="center"><a href='doctoral-symposium.html'>Doctoral Symposium</a></td>
 	</tr>
 	<tr>
 		<td><br></td>
@@ -400,7 +400,7 @@ id="hide-show-timezones">
 	</tr>
 	<tr>
 		<td id='t01' rowspan=3 height="80" align="center" >14:00 - 15:00</td>
-		<td rowspan=9 align="center" id='cposter'><a href='tutorials.html'>Tutorial II</a></td>
+		<td rowspan=9 align="center" id='ckeynote'><a href='tutorials.html'>Tutorial II</a></td>
 		<td id='cshort_v' align="center" rowspan=3 >Keynote 1</td>
 		<td id='cshort_v' align="center" rowspan=3 >Keynote 2</td>
 		<td id='cshort_v' align="center" rowspan=3 >Keynote 3</td>
@@ -422,9 +422,9 @@ id="hide-show-timezones">
 	</tr>
 	<tr>
 		<!-- <td align="left" valign=top><br></td> -->
-		<td id='clong_v' align="center" >Poster 1.2</td>
-		<td id='clong_v' align="center" >Poster 2.2</td>
-		<td id='clong_v' align="center" >Poster 2.3</td>
+		<td id='clong_v' rowspan=2 align="center" >Poster 1.2</td>
+		<td id='clong_v' rowspan=2 align="center" >Poster 2.2</td>
+		<td id='clong_v' rowspan=2 align="center" >Poster 2.3</td>
 		<td align="left" valign=top><br></td>
 	</tr>
 	<tr>
