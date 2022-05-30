@@ -199,6 +199,10 @@ page_class: "keynotes"
 
     #cposter{   background-color: #248F85;}
 
+td { 
+  border: solid;
+  border-width: 1px 0;
+}
 
 </style>
 <script>
@@ -391,9 +395,9 @@ id="hide-show-timezones">
 	</tr>
 	<tr>
 		<td align="left" valign=bottom><br></td>
-		<th id='cmentor' align="center" rowspan=2 >Oral 1.2</th>
-		<th id='cmentor' align="center" rowspan=2 >Oral 2.2</th>
-		<th id='cmentor' align="center" rowspan=2 >Oral 3.2</th>
+		<td id='cmentor' align="center" rowspan=2 >Oral 1.2</td>
+		<td id='cmentor' align="center" rowspan=2 >Oral 2.2</td>
+		<td id='cmentor' align="center" rowspan=2 >Oral 3.2</td>
 		<td align="left" valign=top><br></td>
 	</tr>
 	<tr>
