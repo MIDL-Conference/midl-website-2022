@@ -203,7 +203,12 @@ td {
   border: solid;
   border-width: 1px 0;
 }
-
+td:first-child {
+  border-top: none;
+}
+td:last-child {
+  border-bottom: none;
+}
 </style>
 <script>
 jQuery(document).ready(function($) {
@@ -380,18 +385,18 @@ id="hide-show-timezones">
 	</tr>
 	<tr>
         <td id='t01' rowspan=2 height="54" align="center" >12:20 - 13:00</td>
-		<td align="left" valign=bottom><br></td>
+		<td align="left" rowspan=4 valign=bottom><br></td>
 		<td colspan=3 rowspan=3 id='cbreak' align="center" >Lunch</td>
 		<td align="left" valign=top><br></td>
 	</tr>
-	<tr>
+	<!-- <tr>
 		<td align="left" valign=bottom><br></td>
 		<td align="left" valign=top><br></td>
-	</tr>
+	</tr> -->
 	<tr>
 		<td id='t01' rowspan=3 height="80" align="center" >13:00 - 14:00</td>
-		<td align="left" valign=bottom><br></td>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=bottom><br></td>
+		<td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
 		<td align="left" valign=bottom><br></td>
