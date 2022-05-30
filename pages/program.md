@@ -384,26 +384,26 @@ id="hide-show-timezones">
 		<td align="left" valign=top><br></td>
 	</tr>
 	<tr>
-        <td id='t01' rowspan=2 height="54" align="center" >12:20 - 13:00</td>
-		<td align="left" valign=bottom><br></td>
+    <td id='t01' rowspan=2 height="54" align="center" >12:20 - 13:00</td>
+		<td align="left" rowspan=5 valign=bottom><br></td>
 		<td colspan=3 rowspan=3 id='cbreak' align="center" >Lunch</td>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
-		<td align="left" valign=bottom><br></td>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=bottom><br></td>
+		<td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
 		<td id='t01' rowspan=3 height="80" align="center" >13:00 - 14:00</td>
-		<td align="left" valign=bottom><br></td>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=bottom><br></td>
+		<td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
-		<td align="left" valign=bottom><br></td>
+		<!-- <td align="left" valign=bottom><br></td> -->
 		<td id='cmentor' align="center" rowspan=2 >Oral 1.2</td>
 		<td id='cmentor' align="center" rowspan=2 >Oral 2.2</td>
 		<td id='cmentor' align="center" rowspan=2 >Oral 3.2</td>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
 		<td align="left" valign=bottom><br></td>
