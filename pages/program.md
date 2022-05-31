@@ -308,7 +308,7 @@ jQuery(document).ready(function($) {
 		<td id='t00' class='col2' rowspan=2 align="right" valign=top  >13:20</td>
 		<td id='t01' rowspan=2 align="right" valign=top  >19:20</td>
 		<td rowspan=2 align="left" valign=bottom><br></td>
-		<td id='clong' rowspan=2 align="center" valign=middle  >Oral 1.2</td>
+		<td id='clong' rowspan=2 align="center" valign=middle  ><a href='orals.html#oral1-2' style='color:white'>Oral 1.2</a></td>
 		<td id='clong' rowspan=2 align="center" valign=middle  >Oral 2.2</td>
 		<td id='clong' rowspan=2 align="center" valign=middle  >Oral 3.2</td>
 		</tr>
@@ -349,7 +349,7 @@ jQuery(document).ready(function($) {
 		<td id='t01' class='col1' rowspan=3 height="43" align="right" valign=top >07:20</td>
 		<td id='t00' class='col2' rowspan=3 align="right" valign=top >16:20</td>
 		<td id='t01' rowspan=3 align="right" valign=top >22:20</td>
-		<td id='clong' rowspan=3 align="center" valign=middle  >Oral 1.3</td>
+		<td id='clong' rowspan=3 align="center" valign=middle  ><a href='orals.html#oral1-3' style='color:white'>Oral 1.3</a></td>
 		<td id='clong' rowspan=3 align="center" valign=middle  >Oral 2.3</td>
 		<td id='clong' rowspan=3 align="center" valign=middle  >Oral 3.3</td>
 		</tr>
