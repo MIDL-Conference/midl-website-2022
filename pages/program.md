@@ -318,7 +318,7 @@ jQuery(document).ready(function($) {
 		<td id='t01' class='col1' rowspan=3 height="32" align="right" valign=top >05:00</td>
 		<td id='t00' class='col2' rowspan=3 align="right" valign=top >14:00</td>
 		<td id='t01' rowspan=3 align="right" valign=top >20:00</td>
-		<td id='cmentor' rowspan=9 align="center" valign=middle  ><a href='tutorials.html'>Tutorial I</a></td>
+		<td id='cmentor' rowspan=9 align="center" valign=middle  ><a href='tutorials.html'>Tutorial II</a></td>
 		<td id='ckeynote' rowspan=3 align="center" valign=middle  >Keynote 1</td>
 		<td id='ckeynote' rowspan=3 align="center" valign=middle  >Keynote 2</td>
 		<td id='ckeynote' rowspan=3 align="center" valign=middle  >Keynote 3</td>
