@@ -324,7 +324,7 @@ id="hide-show-timezones">
 <hr> -->
 
 
-<table cellspacing="0" border="0">
+<table id="program" cellspacing="0" border="0">
 	<colgroup span="6" width="138"></colgroup>
 	<tr>
         <td><br></td>
