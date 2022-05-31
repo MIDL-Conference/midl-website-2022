@@ -243,9 +243,9 @@ jQuery(document).ready(function($) {
 		<td id='t01' class='col1' rowspan=2 height="25" align="right" valign=top  >00:00</td>
 		<td id='t00' class='col2' rowspan=2 align="right" valign=top  >09:00</td>
 		<td id='t01' rowspan=2 align="right" valign=top  >15:00</td>
-		<td id='cmentor' rowspan=9 align="center" valign=middle  >Tutorial I</td>
+		<td id='cmentor' rowspan=9 align="center" valign=middle  ><a href='tutorials.html'>Tutorial I</a></td>
 		<td id='cshort' colspan=3 rowspan=2 align="center" valign=middle >Registration, Poster Setup</td>
-		<td id='cmentor' rowspan=27 align="center" valign=middle  >Doctoral Symposium</td>
+		<td id='cmentor' rowspan=27 align="center" valign=middle  ><a href='doctoral-symposium.html'>Doctoral Symposium</a></td>
 	</tr>
 	<tr>
 		</tr>
@@ -318,7 +318,7 @@ jQuery(document).ready(function($) {
 		<td id='t01' class='col1' rowspan=3 height="32" align="right" valign=top >05:00</td>
 		<td id='t00' class='col2' rowspan=3 align="right" valign=top >14:00</td>
 		<td id='t01' rowspan=3 align="right" valign=top >20:00</td>
-		<td id='cmentor' rowspan=9 align="center" valign=middle  >Tutorial II</td>
+		<td id='cmentor' rowspan=9 align="center" valign=middle  ><a href='tutorials.html'>Tutorial I</a></td>
 		<td id='ckeynote' rowspan=3 align="center" valign=middle  >Keynote 1</td>
 		<td id='ckeynote' rowspan=3 align="center" valign=middle  >Keynote 2</td>
 		<td id='ckeynote' rowspan=3 align="center" valign=middle  >Keynote 3</td>
