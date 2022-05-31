@@ -4,8 +4,8 @@ page_class: "keynotes"
 ---
 # Scientific program
 
-## Wednesday 7th July
-<a id="oral1-1"></a><h3>Oral Session 1.1 - 13:00 - 13:30 (UTC+2)</h3>
+## Wednesday 6th July
+<a id="oral1-1"></a><h3>Oral Session 1.1 - 10:00 - 10:40 (UTC+2)</h3>
 [% .papers %]
 {{ paper('Left Ventricle Contouring in Cardiac Images Based on Deep Reinforcement Learning',
         'Sixing Yin, Yameng Han, Judong Pan, Yining Wang, Shufang Li',
