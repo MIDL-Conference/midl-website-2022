@@ -1,7 +1,9 @@
 ---
 title: "Oral Presentations"
-page_class: "keynotes"
 ---
+
+{% from "_macros.html" import paper %}
+
 # Scientific program
 
 ## Wednesday 6th July
