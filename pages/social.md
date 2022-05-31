@@ -4,20 +4,31 @@ title: "Social events"
 
 # Social events
 
-## Sports Event 
-**Time:** 
----
+## Sports Event: MIDL RUN 2022
+Make sure to pack your running shoes when you go to MIDL 2022 in Zürich! With green surroundings, Zürich offers excellent opportunities for running and walking. On the morning of July 7th, Thursday, we are organizing a joint 5 km long run on Züriberg. The track goes through the forest and offering great views over Zürich. 
 
-## Drinks Reception 
+### Where?
+We will meet at: 
+[**ASVZ Sport Center Fluntern**](https://goo.gl/maps/mHtt8VGyYR1i3W4EA)
 
-**Venue:**  
-**Time:** 
+This is the planned 5 km track to run:
+[**Link to running route**](https://onthegomap.com/s/47qhq6sk)
+
+### When?
+08.00, July 7th, Thursday
+
+### Other info
+We will have access to the changing rooms at ASVZ Sport Center Fluntern with the availability to change and shower.
+The track is paved and offers both asphalt and gravel, so bring an all round jogging shoe. 
+We will adapt the run pace so everyone can keep up. (~6.30 min/km)
+
+If you have any questions, please contact Jonatan Kronander on +41 77 986 9621 or [jonatank@ee.ethz.ch](mailto:jonatank@ee.ethz.ch).
 
 ---
 
 ## Gala Dinner
 
 **Venue:** [Schützenhaus Albisgütli](https://g.page/Albisguetli?share) 
-**Time:** Thursday, July 7, TBD
+**Time:** Thursday, July 7th, 18:00
 
 
