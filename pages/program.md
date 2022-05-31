@@ -440,7 +440,7 @@ id="hide-show-timezones">
 		<!-- <td align="left" valign=top><br></td> -->
 	</tr>
 	<tr>
-		<td align="left" valign=top><br></td>
+		<!-- <td align="left" valign=top><br></td> -->
 	</tr>
   <tr>
 		<td id='t01' rowspan=3 height="80" align="center">16:00 - 17:00</b></td>
