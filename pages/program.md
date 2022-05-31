@@ -261,7 +261,7 @@ jQuery(document).ready(function($) {
 		<td id='t01' class='col1' rowspan=2 height="25" align="right" valign=top  >01:00</td>
 		<td id='t00' class='col2' rowspan=2 align="right" valign=top  >10:00</td>
 		<td id='t01' rowspan=2 align="right" valign=top  >16:00</td>
-		<td id='clong' rowspan=2 align="center" valign=middle  ><a href='#oral1-1' style='color:white'>Oral 1.1</a></td>
+		<th id='clong' rowspan=2 align="center" valign=middle  ><a href='#oral1-1' style='color:white'>Oral 1.1</a></th>
 		</tr>
 	<tr>
 		</tr>
