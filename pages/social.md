@@ -19,3 +19,5 @@ title: "Social events"
 
 **Venue:** [Schützenhaus Albisgütli](https://g.page/Albisguetli?share) 
 **Time:** Thursday, July 7, TBD
+
+
