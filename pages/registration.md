@@ -57,4 +57,4 @@ Please keep in mind that the Visa application procedure may take some time. Ther
 
 ## Childcare
 
-ETH and UZH offer various programs for children of different ages during the conference. For any further information please have a look on our [webpage](https://2022.midl.io/childcare.html) and send us an e-mail until 5 June 2022 at latest if you are interested [childcare@2022.midl.io](mailto:childcare@2022.midl.io).
+ETH and UZH offer various programs for children of different ages during the conference. Please note that this service is not included in the registration fee. For any further information and price rates please have a look on our [webpage](https://2022.midl.io/childcare.html) and send us an e-mail until 5 June 2022 at latest if you are interested [childcare@2022.midl.io](mailto:childcare@2022.midl.io).
