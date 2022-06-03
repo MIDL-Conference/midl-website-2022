@@ -363,7 +363,7 @@ jQuery(document).ready(function($) {
 		<td id='t00' class='col2' align="right" valign=bottom >17:20</td>
 		<td id='t01' align="right" valign=bottom  >23:20</td>
 		<td align="left" valign=bottom><br></td>
-		<td id='cshort_v' rowspan=5 align="center" valign=middle  >Get together</td>
+		<td id='cshort_v' rowspan=8 align="center" valign=middle  >Get together</td>
 		<td align="left" valign=middle><br></td>
 		<td id='cshort_v' align="center" valign=middle  >Awards</td>
 	<tr>
