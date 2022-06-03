@@ -240,6 +240,16 @@ jQuery(document).ready(function($) {
 		<td id='t00' align="center" valign=bottom >July 9, 2022</td>
 	</tr>
 	<tr>
+		<td id='t01' class='col1' rowspan=1 height="25" align="right" valign=top  >23:00</td>
+		<td id='t00' class='col2' rowspan=1 align="right" valign=top  >08:00</td>
+		<td id='t01' rowspan=1 align="right" valign=top  >14:00</td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+		<td id='cspecial' align="center" valign=middle><a href='social.html'>Sports Event</a></td>
+		<td align="left" valign=bottom><br></td>
+		<td align="left" valign=bottom><br></td>
+	</tr>
+	<tr>
 		<td id='t01' class='col1' rowspan=2 height="25" align="right" valign=top  >00:00</td>
 		<td id='t00' class='col2' rowspan=2 align="right" valign=top  >09:00</td>
 		<td id='t01' rowspan=2 align="right" valign=top  >15:00</td>
