@@ -154,7 +154,7 @@ title: "Oral Presentations"
         paper='papers/F1.html') 
 }}
 
-{{ paper('Learning Morphological Feature Perturbations for Semi-Supervised Segmentation',
+{{ paper('Learning Morphological Feature Perturbations for Calibrated Semi-Supervised Segmentation',
         'Moucheng Xu, Yukun Zhou, Chen Jin, Stefano B Blumberg, Frederick Wilson, Marius De Groot, Daniel C. Alexander, Neil Oxtoby, Joseph Jacob',
         openreview='https://openreview.net/forum?id=OL6tAasXCmi',
         pdf='https://openreview.net/pdf?id=OL6tAasXCmi',
