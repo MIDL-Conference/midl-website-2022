@@ -245,7 +245,7 @@ jQuery(document).ready(function($) {
 		<td id='t01' rowspan=1 align="right" valign=top  >14:00</td>
 		<td align="left" valign=bottom><br></td>
 		<td align="left" valign=bottom><br></td>
-		<td id='cspecial' align="center" valign=middle><a href='social.html'>Sports Event</a></td>
+		<td id='cspecial' align="center" style='color:white' valign=middle><a href='social.html'>Sports Event</a></td>
 		<td align="left" valign=bottom><br></td>
 		<td align="left" valign=bottom><br></td>
 	</tr>
