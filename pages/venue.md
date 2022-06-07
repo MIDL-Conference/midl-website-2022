@@ -13,6 +13,12 @@ The conference will be held on the main central campus of ETH Zurich.
 <!-- The keynotes and oral sessions will be presented in TBD
 
 The poster sessions, industry exhibition TBD -->
+
+## Wi-Fi Connection
+
+Visitors can connect to Wi-Fi in the venue by using "public" as network name. You need to enter your mobile number to receive a password. Further details can be found [on this website](https://unlimited.ethz.ch/display/itkb/Wi-Fi#WiFi-Guests).
+
+
 ## Accommodation Options 
 
 Here you can find a list of hotels as suggestions, please note that participants should book the rooms themselves.
