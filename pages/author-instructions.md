@@ -89,6 +89,7 @@ A detailed schedule can be found at [MIDL 2021 Program](https://2021.midl.io/pro
 
 Paper submission and reviewing has closed the proceedings are in preparation. The information below are only for reference. -->
 ----------
+## Submission Instructions
 MIDL 2022 submissions follow two tracks: full and short papers. All accepted full papers will be published as a volume in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/). We will be using [openreview.net](https://openreview.net) as a submission and reviewing platform, with a two-week period for author rebuttal and discussion for full-paper submissions.
 
 
