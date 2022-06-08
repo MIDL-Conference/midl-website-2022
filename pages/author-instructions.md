@@ -3,7 +3,13 @@ title: "Author instructions"
 ---
 
 {% from "_macros.html" import button %}
+# Author Instructions
 
+## Details of virtual presentations
+
+In MIDL2022, we will be using the online platform [iStage](https://www.istage.ch/login). Each registered author will be granted access to the platform, and the instructions to log in to the platform will be sent to the email address used during the event registration.
+
+Each paper will have a virtual poster booth on iStage and the pre-recorded presentations will be online to the participants anytime during the event. Additionally, there will be virtual live poster presentation sessions during the dedicated time slot for each paper that will be announced in the conference program. Presenting author(s) are expected to join the virtual meeting room in their booth and present their poster to the participants via screen sharing. During the presentations, authors will have the opportunity to answer any questions from the participants and interact with them.
 
 <!-- # Author instructions
 
@@ -82,7 +88,7 @@ Each day we will have a live keynote with subsequent live questions. So be there
 A detailed schedule can be found at [MIDL 2021 Program](https://2021.midl.io/program.html)
 
 Paper submission and reviewing has closed the proceedings are in preparation. The information below are only for reference. -->
-# Author Instructions
+----------
 MIDL 2022 submissions follow two tracks: full and short papers. All accepted full papers will be published as a volume in the [Proceedings of Machine Learning Research](http://proceedings.mlr.press/). We will be using [openreview.net](https://openreview.net) as a submission and reviewing platform, with a two-week period for author rebuttal and discussion for full-paper submissions.
 
 
