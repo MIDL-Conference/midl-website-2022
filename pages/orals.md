@@ -15,8 +15,7 @@ title: "Oral Presentations"
         'Sixing Yin, Yameng Han, Judong Pan, Yining Wang, Shufang Li',
         openreview='https://openreview.net/forum?id=2CakDDr9e9L',
         pdf='https://openreview.net/pdf?id=2CakDDr9e9L',
-        paper='papers/A1.html',
-        virtual = 1 ) 
+        paper='papers/A1.html') 
 }}
 
 {{ paper('Learning Shape Reconstruction from Sparse Measurements with Neural Implicit Functions',
@@ -39,8 +38,7 @@ title: "Oral Presentations"
         'Xuan Kan, Hejie Cui, Joshua Lukemire, Ying Guo, Carl Yang',
         openreview='https://openreview.net/forum?id=oWFphg2IKon',
         pdf='https://openreview.net/pdf?id=oWFphg2IKon',
-        paper='papers/B1.html',
-        virtual =1) 
+        paper='papers/B1.html') 
 }}
 
 {{ paper('Self-supervised learning for analysis of temporal and morphological drug effects in cancer cell imaging data ',
@@ -120,8 +118,7 @@ title: "Oral Presentations"
         'Dewei Hu, Hao Li, Han Liu, Ipek Oguz',
         openreview='https://openreview.net/forum?id=mB_V8ThxY8Z',
         pdf='https://openreview.net/pdf?id=mB_V8ThxY8Z',
-        paper='papers/D4.html',
-        virtual =1)
+        paper='papers/D4.html')
 }} 
 [% / %]
 
@@ -145,8 +142,7 @@ title: "Oral Presentations"
         'Weicheng Zhu, Carlos Fernandez-Granda, Narges Razavian',
         openreview='https://openreview.net/forum?id=QBg9YNm26FF',
         pdf='https://openreview.net/pdf?id=QBg9YNm26FF',
-        paper='papers/E3.html',
-        virtual =1)
+        paper='papers/E3.html')
 }} 
 [% / %]
 <a id="oral2-3"></a><h3>Oral Session 2.3: Segmentation II - 16:20 - 17:20 (UTC+2)</h3>
@@ -187,8 +183,7 @@ title: "Oral Presentations"
         'Mark S Graham, Petru-Daniel Tudosiu, Paul Wright, Walter Hugo Lopez Pinaya, Jean-Marie U-King-Im, Yee Mah, James Teo, Rolf H. Jäger, David Werring, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardoso',
         openreview='https://openreview.net/forum?id=En7660i-CLJ',
         pdf='https://openreview.net/pdf?id=En7660i-CLJ',
-        paper='papers/G1.html',
-        virtual=1) 
+        paper='papers/G1.html') 
 }}
 
 {{ paper('VORTEX: Physics-Driven Data Augmentations Using Consistency Training for Robust Accelerated MRI Reconstruction',
@@ -218,8 +213,7 @@ title: "Oral Presentations"
         'Yanwu Yang, Guo Xutao, Chenfei Ye, Yang Xiang, Ting Ma',
         openreview='https://openreview.net/forum?id=nxA2bZff3iQ',
         pdf='https://openreview.net/pdf?id=nxA2bZff3iQ',
-        paper='papers/H1.html',
-        virtual =1) 
+        paper='papers/H1.html') 
 }}
 
 {{ paper('Personalized Prediction of Future Lesion Activity and Treatment Effect in Multiple Sclerosis from Baseline MRI',
@@ -242,8 +236,7 @@ title: "Oral Presentations"
         'Damir Vrabac, Akshay Smit, Yujie He, Andrew Y. Ng, Andrew Beam, Pranav Rajpurkar',
         openreview='https://openreview.net/forum?id=GgLjvwvB8yF',
         pdf='https://openreview.net/pdf?id=GgLjvwvB8yF',
-        paper='papers/I1.html',
-        virtual =1) 
+        paper='papers/I1.html') 
 }}
 
 {{ paper('Differentiable Boundary Point Extraction for Weakly Supervised Star-shaped Object Segmentation',
