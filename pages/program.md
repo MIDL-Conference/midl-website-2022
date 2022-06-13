@@ -250,9 +250,9 @@ jQuery(document).ready(function($) {
 		<td align="left" valign=bottom><br></td>
 	</tr>
 	<tr>
-		<td id='t01' class='col1' rowspan=2 height="25" align="right" valign=top  >00:00</td>
-		<td id='t00' class='col2' rowspan=2 align="right" valign=top  >09:00</td>
-		<td id='t01' rowspan=2 align="right" valign=top  >15:00</td>
+		<td id='t01' class='col1' rowspan=2 height="25" align="right" valign=top  >23:30</td>
+		<td id='t00' class='col2' rowspan=2 align="right" valign=top  >08:30</td>
+		<td id='t01' rowspan=2 align="right" valign=top  >14:30</td>
 		<td id='cmentor' rowspan=9 align="center" valign=middle  ><a href='tutorials.html'>Tutorial I</a></td>
 		<td id='cshort' colspan=3 rowspan=2 align="center" valign=middle >Registration, Poster Setup</td>
 		<td id='cmentor' rowspan=27 align="center" valign=middle  ><a href='doctoral-symposium.html'>Doctoral Symposium</a></td>
@@ -264,14 +264,14 @@ jQuery(document).ready(function($) {
 		<td id='t00' class='col2' align="right" valign=bottom  >09:40</td>
 		<td id='t01' align="right" valign=bottom  >15:40</td>
 		<td id='cspecial' align="center" valign=middle  >Welcome</td>
-		<td id='clong' rowspan=3 align="center" valign=middle  ><a href='orals.html#oral2-1' style='color:white'>Oral 2.1</a></td>
-		<td id='clong' rowspan=3 align="center" valign=middle  ><a href='orals.html#oral3-1' style='color:white'>Oral 3.1</a></td>
+		<td id='clong' rowspan=3 align="center" valign=middle  ><a href='orals.html#oral2-1' style='color:white'>Oral 2.1: Domain Adaptation and Model Generalization</a></td>
+		<td id='clong' rowspan=3 align="center" valign=middle  ><a href='orals.html#oral3-1' style='color:white'>Oral 3.1: Trustworthy AI</a></td>
 		</tr>
 	<tr>
 		<td id='t01' class='col1' rowspan=2 height="25" align="right" valign=top  >01:00</td>
 		<td id='t00' class='col2' rowspan=2 align="right" valign=top  >10:00</td>
 		<td id='t01' rowspan=2 align="right" valign=top  >16:00</td>
-		<td id='clong' rowspan=2 align="center" valign=middle  ><a href='orals.html#oral1-1' style='color:white'>Oral 1.1</a></td>
+		<td id='clong' rowspan=2 align="center" valign=middle  ><a href='orals.html#oral1-1' style='color:white'>Oral 1.1: Segmentation I</a></td>
 		</tr>
 	<tr>
 		</tr>
@@ -318,9 +318,9 @@ jQuery(document).ready(function($) {
 		<td id='t00' class='col2' rowspan=2 align="right" valign=top  >13:20</td>
 		<td id='t01' rowspan=2 align="right" valign=top  >19:20</td>
 		<td rowspan=2 align="left" valign=bottom><br></td>
-		<td id='clong' rowspan=2 align="center" valign=middle  ><a href='orals.html#oral1-2' style='color:white'>Oral 1.2</a></td>
-		<td id='clong' rowspan=2 align="center" valign=middle  ><a href='orals.html#oral2-2' style='color:white'>Oral 2.2</a></td>
-		<td id='clong' rowspan=2 align="center" valign=middle  ><a href='orals.html#oral3-2' style='color:white'>Oral 3.2</a></td>
+		<td id='clong' rowspan=2 align="center" valign=middle  ><a href='orals.html#oral1-2' style='color:white'>Oral 1.2: Explainable AI</a></td>
+		<td id='clong' rowspan=2 align="center" valign=middle  ><a href='orals.html#oral2-2' style='color:white'>Oral 2.2: Unsupervised and Representation Learning</a></td>
+		<td id='clong' rowspan=2 align="center" valign=middle  ><a href='orals.html#oral3-2' style='color:white'>Oral 3.2: Computer Aided Detection and Diagnosis</a></td>
 		</tr>
 	<tr>
 		</tr>
@@ -329,9 +329,9 @@ jQuery(document).ready(function($) {
 		<td id='t00' class='col2' rowspan=3 align="right" valign=top >14:00</td>
 		<td id='t01' rowspan=3 align="right" valign=top >20:00</td>
 		<td id='cmentor' rowspan=9 align="center" valign=middle  ><a href='tutorials.html'>Tutorial II</a></td>
-		<td id='ckeynote' rowspan=3 align="center" valign=middle  >Keynote 1</td>
-		<td id='ckeynote' rowspan=3 align="center" valign=middle  >Keynote 2</td>
-		<td id='ckeynote' rowspan=3 align="center" valign=middle  >Keynote 3</td>
+		<td id='ckeynote' rowspan=3 align="center" valign=middle ><a href='keynotes.html'>Keynote: Dorin Comaniciu </a></td>
+		<td id='ckeynote' rowspan=3 align="center" valign=middle  ><a href='keynotes.html'>Keynote: Julia Schnabel</a></td>
+		<td id='ckeynote' rowspan=3 align="center" valign=middle  ><a href='keynotes.html'>Keynote: Klaas Prüssmann</a></td>
 		</tr>
 	<tr>
 		</tr>
@@ -359,9 +359,9 @@ jQuery(document).ready(function($) {
 		<td id='t01' class='col1' rowspan=3 height="43" align="right" valign=top >07:20</td>
 		<td id='t00' class='col2' rowspan=3 align="right" valign=top >16:20</td>
 		<td id='t01' rowspan=3 align="right" valign=top >22:20</td>
-		<td id='clong' rowspan=3 align="center" valign=middle  ><a href='orals.html#oral1-3' style='color:white'>Oral 1.3</a></td>
-		<td id='clong' rowspan=3 align="center" valign=middle  ><a href='orals.html#oral2-3' style='color:white'>Oral 2.3</a></td>
-		<td id='clong' rowspan=3 align="center" valign=middle  ><a href='orals.html#oral3-3' style='color:white'>Oral 3.3</a></td>
+		<td id='clong' rowspan=3 align="center" valign=middle  ><a href='orals.html#oral1-3' style='color:white'>Oral 1.3: Registration</a></td>
+		<td id='clong' rowspan=3 align="center" valign=middle  ><a href='orals.html#oral2-3' style='color:white'>Oral 2.3:  Segmentation II</a></td>
+		<td id='clong' rowspan=3 align="center" valign=middle  ><a href='orals.html#oral3-3' style='color:white'>Oral 3.3: Data Efficient Learning</a></td>
 		</tr>
 	<tr>
 		</tr>

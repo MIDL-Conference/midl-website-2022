@@ -8,14 +8,15 @@ title: "Oral Presentations"
 
 ## Wednesday 6th July
 
-<a id="oral1-1"></a><h3>Oral Session 1.1 - 10:00 - 10:40 (UTC+2)</h3>
+<a id="oral1-1"></a><h3>Oral Session 1.1: Segmentation I - 10:00 - 10:40 (UTC+2)</h3>
                         
 [% .papers %]
 {{ paper('Left Ventricle Contouring in Cardiac Images Based on Deep Reinforcement Learning',
         'Sixing Yin, Yameng Han, Judong Pan, Yining Wang, Shufang Li',
         openreview='https://openreview.net/forum?id=2CakDDr9e9L',
         pdf='https://openreview.net/pdf?id=2CakDDr9e9L',
-        paper='papers/A1.html') 
+        paper='papers/A1.html',
+        virtual = 1 ) 
 }}
 
 {{ paper('Learning Shape Reconstruction from Sparse Measurements with Neural Implicit Functions',
@@ -32,13 +33,14 @@ title: "Oral Presentations"
         paper='papers/A3.html')
 }} 
 [% / %]
-<a id="oral1-2"></a><h3>Oral Session 1.2 - 13:20 - 14:00 (UTC+2)</h3>
+<a id="oral1-2"></a><h3>Oral Session 1.2: Explainable AI - 13:20 - 14:00 (UTC+2)</h3>
 [% .papers %]
 {{ paper('FBNETGEN: Task-aware GNN-based fMRI Analysis via Functional Brain Network Generation',
         'Xuan Kan, Hejie Cui, Joshua Lukemire, Ying Guo, Carl Yang',
         openreview='https://openreview.net/forum?id=oWFphg2IKon',
         pdf='https://openreview.net/pdf?id=oWFphg2IKon',
-        paper='papers/B1.html') 
+        paper='papers/B1.html',
+        virtual =1) 
 }}
 
 {{ paper('Self-supervised learning for analysis of temporal and morphological drug effects in cancer cell imaging data ',
@@ -56,7 +58,7 @@ title: "Oral Presentations"
 }} 
 [% / %]
 
-<a id="oral1-3"></a><h3>Oral Session 1.3 - 16:20 - 17:20 (UTC+2)</h3>
+<a id="oral1-3"></a><h3>Oral Session 1.3: Registration - 16:20 - 17:20 (UTC+2)</h3>
 
 [% .papers %]
 {{ paper('KeypointMorph: Robust Multi-modal Affine Registration via Unsupervised Keypoint Detection',
@@ -90,7 +92,7 @@ title: "Oral Presentations"
 
 ## Thursday 7th July
 
-<a id="oral2-1"></a><h3>Oral Session 2.1 - 09:40 - 10:40 (UTC+2)</h3>
+<a id="oral2-1"></a><h3>Oral Session 2.1: Domain Adaptation and Model Generalization - 09:40 - 10:40 (UTC+2)</h3>
 
 [% .papers %]
 {{ paper('OptTTA: Learnable Test-Time Augmentation for Source-Free Medical Image Segmentation Under Domain Shift',
@@ -118,11 +120,12 @@ title: "Oral Presentations"
         'Dewei Hu, Hao Li, Han Liu, Ipek Oguz',
         openreview='https://openreview.net/forum?id=mB_V8ThxY8Z',
         pdf='https://openreview.net/pdf?id=mB_V8ThxY8Z',
-        paper='papers/D4.html')
+        paper='papers/D4.html',
+        virtual =1)
 }} 
 [% / %]
 
-<a id="oral2-2"></a><h3>Oral Session 2.2 - 13:20 - 14:00 (UTC+2)</h3>
+<a id="oral2-2"></a><h3>Oral Session 2.2: Unsupervised and Representation Learning - 13:20 - 14:00 (UTC+2)</h3>
 [% .papers %]
 {{ paper('Self-Supervised Representation Learning for High-Content Screening',
         'Daniel Siegismund, Mario Wieser, Stephan Heyse, Stephan Steigele',
@@ -142,10 +145,11 @@ title: "Oral Presentations"
         'Weicheng Zhu, Carlos Fernandez-Granda, Narges Razavian',
         openreview='https://openreview.net/forum?id=QBg9YNm26FF',
         pdf='https://openreview.net/pdf?id=QBg9YNm26FF',
-        paper='papers/E3.html')
+        paper='papers/E3.html',
+        virtual =1)
 }} 
 [% / %]
-<a id="oral2-3"></a><h3>Oral Session 2.3 - 16:20 - 17:20 (UTC+2)</h3>
+<a id="oral2-3"></a><h3>Oral Session 2.3: Segmentation II - 16:20 - 17:20 (UTC+2)</h3>
 [% .papers %]
 {{ paper('Memory-efficient Segmentation for Volumetric High-resolution MicroCT Images',
         'Yuan Wang, Laura Blackie, Irene Miguel-Aliaga, Wenjia Bai',
@@ -177,13 +181,14 @@ title: "Oral Presentations"
 [% / %]
 ## Friday 8th July
 
-<a id="oral3-1"></a><h3>Oral Session 3.1 - 09:40 - 10:40 (UTC+2)</h3>
+<a id="oral3-1"></a><h3>Oral Session 3.1: Trustworthy AI - 09:40 - 10:40 (UTC+2)</h3>
 [% .papers %]
 {{ paper('Transformer-based out-of-distribution detection for clinically safe segmentation',
         'Mark S Graham, Petru-Daniel Tudosiu, Paul Wright, Walter Hugo Lopez Pinaya, Jean-Marie U-King-Im, Yee Mah, James Teo, Rolf H. Jäger, David Werring, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardoso',
         openreview='https://openreview.net/forum?id=En7660i-CLJ',
         pdf='https://openreview.net/pdf?id=En7660i-CLJ',
-        paper='papers/G1.html') 
+        paper='papers/G1.html',
+        virtual=1) 
 }}
 
 {{ paper('VORTEX: Physics-Driven Data Augmentations Using Consistency Training for Robust Accelerated MRI Reconstruction',
@@ -207,13 +212,14 @@ title: "Oral Presentations"
         paper='papers/G4.html')
 }} 
 [% / %]
-<a id="oral3-2"></a><h3>Oral Session 3.2 - 13:20 - 14:00 (UTC+2)</h3>
+<a id="oral3-2"></a><h3>Oral Session 3.2: Computer Aided Detection and Diagnosis - 13:20 - 14:00 (UTC+2)</h3>
 [% .papers %]
 {{ paper('Regularizing Brain Age Prediction via Gated Knowledge Distillation',
         'Yanwu Yang, Guo Xutao, Chenfei Ye, Yang Xiang, Ting Ma',
         openreview='https://openreview.net/forum?id=nxA2bZff3iQ',
         pdf='https://openreview.net/pdf?id=nxA2bZff3iQ',
-        paper='papers/H1.html') 
+        paper='papers/H1.html',
+        virtual =1) 
 }}
 
 {{ paper('Personalized Prediction of Future Lesion Activity and Treatment Effect in Multiple Sclerosis from Baseline MRI',
@@ -230,13 +236,14 @@ title: "Oral Presentations"
         paper='papers/H3.html')
 }} 
 [% / %]
-<a id="oral3-3"></a><h3>Oral Session 3.3 - 16:20 - 17:20 (UTC+2)</h3>
+<a id="oral3-3"></a><h3>Oral Session 3.3: Data Efficient Learning - 16:20 - 17:20 (UTC+2)</h3>
 [% .papers %]
 {{ paper('MedSelect: Selective Labeling for Medical Image Classification Using Meta-Learning',
         'Damir Vrabac, Akshay Smit, Yujie He, Andrew Y. Ng, Andrew Beam, Pranav Rajpurkar',
         openreview='https://openreview.net/forum?id=GgLjvwvB8yF',
         pdf='https://openreview.net/pdf?id=GgLjvwvB8yF',
-        paper='papers/I1.html') 
+        paper='papers/I1.html',
+        virtual =1) 
 }}
 
 {{ paper('Differentiable Boundary Point Extraction for Weakly Supervised Star-shaped Object Segmentation',
