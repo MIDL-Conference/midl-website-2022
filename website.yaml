@@ -27,15 +27,9 @@ nav:
   - title: "Registration"
     path: "/registration.html"
     icon: "edit"
-  - title: "Call for Papers"
-    path: "/call-for-papers.html"
-    icon: "bullhorn"
   - title: "Author Instructions"
     path: "/author-instructions.html"
     icon: "pen-nib"
-  - title: "Review Guidelines"
-    path: "/review-guidelines.html"
-    icon: "search"
   - title: "Important Dates"
     path: "/dates.html"
     icon: "calendar"
@@ -69,7 +63,5 @@ nav:
   - title: "COVID-19"
     path: "/covid-19.html"
     icon: "syringe"
-
-
 
 cdn: "https://static.midl.io"
