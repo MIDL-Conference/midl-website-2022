@@ -79,8 +79,7 @@ Due to large number of requests, requirements to register an abstract for the co
 
 [% .logos %]
 [![GyroTools LLC](/images/sponsors/gyrotools.png){: height="60"}](https://www.gyrotools.com/gt/)
-
-
+[![HeartFlow](/images/sponsors/heartflow.jpg){: height="60"}](https://www.heartflow.com)
 [% / %]
 
 ---
