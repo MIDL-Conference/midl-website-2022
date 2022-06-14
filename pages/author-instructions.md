@@ -5,6 +5,10 @@ title: "Author instructions"
 {% from "_macros.html" import button %}
 # Author Instructions
 
+## Details of onsite presentations
+
+All articles that will be presented on site will have a physical poster presentation. Please prepare an A0 size portrait poster.
+
 ## Details of virtual presentations
 
 In MIDL2022, we will be using the online platform [iStage](https://www.istage.ch/login). Each registered author will be granted access to the platform, and the instructions to log in to the platform will be sent to the email address used during the event registration.
