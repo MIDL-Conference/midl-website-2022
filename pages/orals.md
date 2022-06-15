@@ -32,6 +32,186 @@ title: "Oral Presentations"
         paper='papers/A3.html')
 }} 
 [% / %]
+<a id="poster1-1"></a><h3>Poster Session 1.1: 11:00 - 12:00 (UTC+2)</h3>
+
+[% .papers %]
+{{ paper('Explainability Guided COVID-19 Detection in CT Scans',
+'Ameen Ali Ali, Tal Shaharabany, Lior Wolf',
+openreview='https://openreview.net/forum?id=KWucjFOxEb2',
+pdf='https://openreview.net/pdf?id=KWucjFOxEb2')
+}}
+{{ paper('Inference of captions from histopathological patches',
+'Masayuki Tsuneki, Fahdi Kanavati',
+openreview='https://openreview.net/forum?id=9gKn7SDb83v',
+pdf='https://openreview.net/pdf?id=9gKn7SDb83v')
+}}
+{{ paper('JOINED: Prior Guided Multitask Learning for Joint Optic Disc&frasl;Cup Segmentation and Fovea Detection',
+'Huaqing He, Li Lin, Zhiyuan Cai, Xiaoying Tang',
+openreview='https://openreview.net/forum?id=HU6-t9oKvRW',
+pdf='https://openreview.net/pdf?id=HU6-t9oKvRW')
+}}
+{{ paper('Practical uncertainty quantification for brain tumor segmentation',
+'Moritz Fuchs, Camila Gonzalez, Anirban Mukhopadhyay',
+openreview='https://openreview.net/forum?id=Srl3-HnY14U',
+pdf='https://openreview.net/pdf?id=Srl3-HnY14U')
+}}
+{{ paper('Automatic planning of liver tumor thermal ablation using deep reinforcement learning',
+'Krishna Chaitanya, Chloe Audigier, Laura Elena Balascuta, Tommaso Mansi',
+openreview='https://openreview.net/forum?id=ehsvFoQaz-W',
+pdf='https://openreview.net/pdf?id=ehsvFoQaz-W')
+}}
+{{ paper('AdwU-Net: Adaptive Depth and Width U-Net for Medical Image Segmentation by Differentiable Neural Architecture Search',
+'Ziyan Huang, Zehua Wang, Zhikai Yang, Lixu Gu',
+openreview='https://openreview.net/forum?id=kF-d1SKWJpS',
+pdf='https://openreview.net/pdf?id=kF-d1SKWJpS')
+}}
+{{ paper('SMU-Net: Style matching U-Net for brain tumor segmentation with missing modalities',
+'Reza Azad, Nika Khosravi, Dorit Merhof',
+openreview='https://openreview.net/forum?id=X5H_eVaqtb',
+pdf='https://openreview.net/pdf?id=X5H_eVaqtb')
+}}
+{{ paper('Region Aware Transformer for Automatic Breast Ultrasound Tumor Segmentation',
+'Xiner Zhu, Haoji Hu, Hualiang Wang, Jincao Yao, 李 伟 liwei, Di Ou, Dong Xu',
+openreview='https://openreview.net/forum?id=2bVDHzy7xwV',
+pdf='https://openreview.net/pdf?id=2bVDHzy7xwV')
+}}
+{{ paper('YAMU: Yet Another Modified U-Net Architecture for Semantic Segmentation',
+'Pranab Samanta, Nitin Singhal',
+openreview='https://openreview.net/forum?id=RPFCw3VU6R9',
+pdf='https://openreview.net/pdf?id=RPFCw3VU6R9')
+}}
+{{ paper('Attention Guided Deep Supervision Model for Prostate Segmentation in MultiSite Heterogeneous MRI Data',
+'Kuruparan Shanmugalingam, Arcot Sowmya, Daniel Moses, Erik Meijering',
+openreview='https://openreview.net/forum?id=5RBBK1iTs2C',
+pdf='https://openreview.net/pdf?id=5RBBK1iTs2C')
+}}
+{{ paper('Anomaly-Aware 3D Segmentation of Knee Magnetic Resonance Images',
+'Boyeong Woo, Craig Engstrom, Jurgen Fripp, Stuart Crozier, Shekhar S. Chandra',
+openreview='https://openreview.net/forum?id=Blt5-qTxdKo',
+pdf='https://openreview.net/pdf?id=Blt5-qTxdKo')
+}}
+{{ paper('Hybrid Ladder Transformers with Efficient Parallel-Cross Attention for Medical Image Segmentation',
+'Haozhe Luo, Yu Changdong, Raghavendra Selvan',
+openreview='https://openreview.net/forum?id=swvVpnzro9q',
+pdf='https://openreview.net/pdf?id=swvVpnzro9q')
+}}
+{{ paper('Efficient tool segmentation for endoscopic videos in the wild',
+'Clara Tomasini, Iñigo Alonso, Luis Riazuelo, Ana C Murillo',
+openreview='https://openreview.net/forum?id=DPkb7gxt6gZ',
+pdf='https://openreview.net/pdf?id=DPkb7gxt6gZ')
+}}
+{{ paper('Holistic Modeling in Medical Image Segmentation Using Spatial Recurrence',
+'João B. S. Carvalho, João Santinha, Đorđe Miladinović, Carlos Cotrini, Joachim M. Buhmann',
+openreview='https://openreview.net/forum?id=avqFDNyt0Dj',
+pdf='https://openreview.net/pdf?id=avqFDNyt0Dj')
+}}
+{{ paper('Confidence Histograms for Model Reliability Analysis and Temperature Calibration',
+'Farina Kock, Felix Thielke, Grzegorz Chlebus, Hans Meine',
+openreview='https://openreview.net/forum?id=p2f6ROn1h02',
+pdf='https://openreview.net/pdf?id=p2f6ROn1h02')
+}}
+{{ paper('Automatic Segmentation of Head and Neck Tumor: How Powerful Transformers Are?',
+'Ikboljon Sobirov, Otabek Nazarov, Hussain Alasmawi, Mohammad Yaqub',
+openreview='https://openreview.net/forum?id=reIO5WfgbLd',
+pdf='https://openreview.net/pdf?id=reIO5WfgbLd')
+}}
+{{ paper('Learning Robust Representation for Laryngeal Cancer Classification in Vocal Folds from Narrow Band Images',
+'Debayan Bhattacharya, Finn Behrendt, Axelle Felicio-Briegel, Veronika Volgger, Dennis Eggert, Christian Betz, Alexander Schlaefer',
+openreview='https://openreview.net/forum?id=nJd70UxI5hH',
+pdf='https://openreview.net/pdf?id=nJd70UxI5hH')
+}}
+{{ paper('Position Classifier: Rethinking Position Encoding on Chest X-ray Diseases Identification',
+'Yu Wen Fang, Fang-Yi Su, Jung-Hsien Chiang',
+openreview='https://openreview.net/forum?id=EpQzz2J4Ft',
+pdf='https://openreview.net/pdf?id=EpQzz2J4Ft')
+}}
+{{ paper('Classification of visibility in multi-stain microscopy images',
+'Jonathan Ganz, Christof Bertram, Robert Klopfleisch, Samir Jabari, Katharina Breininger, Marc Aubreville',
+openreview='https://openreview.net/forum?id=-GsA-mUVmm',
+pdf='https://openreview.net/pdf?id=-GsA-mUVmm')
+}}
+{{ paper('Classification and Segmentation of Vulvovaginal Candidiasis in Microscopic Leucorrhea Images Based on Combined Deep Learning Model',
+'Yiyao Ma, Yifei Xu, Wei Li',
+openreview='https://openreview.net/forum?id=_wSgnVQJnN8',
+pdf='https://openreview.net/pdf?id=_wSgnVQJnN8')
+}}
+{{ paper('SinusNet: Label-Free Segmentation of Maxillary Sinus Lesion in CBCT Images',
+'DaEl Kim, Su Yang, Seryong Kang, Jin Kim, Soyoung Chun, MinHyuk Choi, Won-Jin Yi',
+openreview='https://openreview.net/forum?id=YrcmnyRKnyi',
+pdf='https://openreview.net/pdf?id=YrcmnyRKnyi')
+}}
+{{ paper('Deeply supervised network for white matter hyperintensities segmentation with transfer learning',
+'Yilei Wu, Fang Ji, Yao Feng Chong, Li-Hsian Christopher Chen, Juan Helen Zhou',
+openreview='https://openreview.net/forum?id=KbXNnCCXN-i',
+pdf='https://openreview.net/pdf?id=KbXNnCCXN-i')
+}}
+{{ paper('Gleason grading of prostate cancer using artificial intelligence: lessons learned from the PANDA challenge',
+'Kimmo Kartasalo, Peter Ström, Martin Eklund, Wouter Bulten, Hans Pinckaers, Geert Litjens, Po-Hsuan Cameron Chen, Kunal Nagpal, Pekka Ruusuvuori',
+openreview='https://openreview.net/forum?id=rg2xsj5Lm3',
+pdf='https://openreview.net/pdf?id=rg2xsj5Lm3')
+}}
+{{ paper('Physical Color Calibration of Digital Pathology Scanners for Deep Learning Based Diagnosis of Prostate Cancer',
+'Xiaoyi Ji, Richard Salmon, Nita Mulliqi, Henrik Olsson, Lars Egevad, Pekka Ruusuvuori, Martin Eklund, Kimmo Kartasalo',
+openreview='https://openreview.net/forum?id=aYBUqtibfRT',
+pdf='https://openreview.net/pdf?id=aYBUqtibfRT')
+}}
+{{ paper('Deep Learning for Automatic Segmentation of Background Parenchymal Enhancement in Breast MRI',
+'Sylwia Nowakowska, Karol Borkowski, Carlotta Ruppert, Patryk Hejduk, Alexander Ciritsis, Anna Landsmann, Magda Macron, Nicole Berger, Andreas Boss, Cristina Rossi',
+openreview='https://openreview.net/forum?id=6WMpziPQwnT',
+pdf='https://openreview.net/pdf?id=6WMpziPQwnT')
+}}
+{{ paper('SwinFPN: Leveraging Vision Transformers for 3D Organs-At-Risk Detection',
+'Bastian Wittmann, Suprosanna Shit, Fernando Navarro, Jan C. Peeken, Stephanie E. Combs, Bjoern Menze',
+openreview='https://openreview.net/forum?id=yiIz7DhgRU5',
+pdf='https://openreview.net/pdf?id=yiIz7DhgRU5')
+}}
+{{ paper('Segmentation of post-operative glioblastoma',
+'Ragnhild Holden Helland, David Bouget, Alexandros Ferles, Roelant S. Eijgelaar, Ole Solheim, Philip C. De Witt Hamer, Ingerid Reinertsen',
+openreview='https://openreview.net/forum?id=IlIx-gSpZEo',
+pdf='https://openreview.net/pdf?id=IlIx-gSpZEo')
+}}
+{{ paper('Masked Autoencoders Pre-training in Multiple Instance Learning for Whole Slide Image Classification',
+'Jianpeng An, Yunhao Bai, Huazhen Chen, Zhongke Gao, Geert Litjens',
+openreview='https://openreview.net/forum?id=rV5gzFDn5PF',
+pdf='https://openreview.net/pdf?id=rV5gzFDn5PF')
+}}
+{{ paper('Prostate Cancer Diagnosis and Grading in Whole Slide Images of Core Needle Biopsies',
+'Nitin Singhal, Nilanjan Chattopadhyay, Pranab Samanta, Saikiran Bonthu',
+openreview='https://openreview.net/forum?id=w2UnVmH3PN',
+pdf='https://openreview.net/pdf?id=w2UnVmH3PN')
+}}
+{{ paper('Automated tool to quantitatively assess bone disease on Whole-Body Diffusion Weighted Imaging for patients with Advanced Prostate Cancer',
+'Antonio Candito, Matthew D Blackledge, Richard Holbrey, Dow-Mu Koh',
+openreview='https://openreview.net/forum?id=5oPy4t-2iKE',
+pdf='https://openreview.net/pdf?id=5oPy4t-2iKE')
+}}
+{{ paper('Looking for abnormalities using asymmetrical information from bilateral mammograms',
+'Xin Wang, Yuan Gao, Tianyu Zhang, Luyi Han, Regina Beets-Tan, Ritse Mann',
+openreview='https://openreview.net/forum?id=FsGMbJwz4jG',
+pdf='https://openreview.net/pdf?id=FsGMbJwz4jG')
+}}
+{{ paper('On the pitfalls of deep image segmentation for lightsheet microscopy',
+'Rami Al-Maskari, Johannes C. Paetzold, Izabela Horvath, Ali Erturk, Bjoern Menze',
+openreview='https://openreview.net/forum?id=3Krfu84W-Wx',
+pdf='https://openreview.net/pdf?id=3Krfu84W-Wx')
+}}
+{{ paper('Scoliosis Measurement on DXA Scans Using a Combined Deep Learning and Spinal Geometry Approach',
+'Emmanuelle Bourigault, Amir Jamaludin, Timor Kadir, Andrew Zisserman',
+openreview='https://openreview.net/forum?id=4enF5ipqKJQ',
+pdf='https://openreview.net/pdf?id=4enF5ipqKJQ')
+}}
+{{ paper('Non-stationary deep lifting with application to acute brain infarct segmentation',
+'Nadja Gruber, Markus Haltmeier, Annemieke ter Telgte, Johannes Schwab, Elke Gizewski, Malik Galijasevic',
+openreview='https://openreview.net/forum?id=pgoioZJ6y9A',
+pdf='https://openreview.net/pdf?id=pgoioZJ6y9A')
+}}
+{{ paper('Strategies for Meta-Learning with Diverse Tasks',
+'Stefano Woerner, Christian F. Baumgartner',
+openreview='https://openreview.net/forum?id=SNWV4Qlk53G',
+pdf='https://openreview.net/pdf?id=SNWV4Qlk53G')
+}}
+[% / %]
+
 <a id="oral1-2"></a><h3>Oral Session 1.2: Explainable AI - 13:20 - 14:00 (UTC+2)</h3>
 [% .papers %]
 {{ paper('FBNETGEN: Task-aware GNN-based fMRI Analysis via Functional Brain Network Generation',
@@ -56,6 +236,145 @@ title: "Oral Presentations"
 }} 
 [% / %]
 
+<a id="poster1-2"></a><h3>Poster Session 1.2 - 15:20 - 16:20 (UTC+2)</h3>
+
+[% .papers %]
+{{ paper('Learned Half-Quadratic Splitting Network for MR Image Reconstruction',
+'Bingyu Xin, Timothy S Phan, Leon Axel, Dimitris N. Metaxas',
+openreview='https://openreview.net/forum?id=h7rXUbALijU',
+pdf='https://openreview.net/pdf?id=h7rXUbALijU')
+}}
+{{ paper('Improving Explainability of Disentangled Representations using Multipath-Attribution Mappings',
+'Lukas Klein, João B. S. Carvalho, Mennatallah El-Assady, Paolo Penna, Joachim M. Buhmann, Paul F Jaeger',
+openreview='https://openreview.net/forum?id=3uQ2Z0MhnoE',
+pdf='https://openreview.net/pdf?id=3uQ2Z0MhnoE')
+}}
+{{ paper('Vision Transformers Enable Fast and Robust Accelerated MRI',
+'Kang Lin, Reinhard Heckel',
+openreview='https://openreview.net/forum?id=cNX6LASbv6',
+pdf='https://openreview.net/pdf?id=cNX6LASbv6')
+}}
+{{ paper('Negative Evidence Matters in Interpretable Histology Image Classification',
+'Soufiane Belharbi, Marco Pedersoli, Ismail Ben Ayed, Luke McCaffrey, Eric Granger',
+openreview='https://openreview.net/forum?id=FF6XuIyeF6V',
+pdf='https://openreview.net/pdf?id=FF6XuIyeF6V')
+}}
+{{ paper('Warmstart Approach for Accelerating Deep Image Prior Reconstruction in Dynamic Tomography',
+'Tobias Knopp, Mirco Grosser',
+openreview='https://openreview.net/forum?id=aWD0kzMmyD_',
+pdf='https://openreview.net/pdf?id=aWD0kzMmyD_')
+}}
+{{ paper('SynthMap: a generative model for synthesis of 3D datasets for quantitative MRI parameter mapping of myelin water fraction',
+'Serge Vasylechko, Simon Keith Warfield, Sila Kurugol, Onur Afacan',
+openreview='https://openreview.net/forum?id=qWkGHtDCATs',
+pdf='https://openreview.net/pdf?id=qWkGHtDCATs')
+}}
+{{ paper('Deep Learning Radiographic Assessment of Pulmonary Edema: Training with Serum Biomarkers',
+'Justin Huynh, Samira Masoudi, Abraham Noorbakhsh, Amin Mahmoodi, Kyle Hasenstab, Micheal Pazzani, Albert Hsiao',
+openreview='https://openreview.net/forum?id=NyxXpTbHUCJ',
+pdf='https://openreview.net/pdf?id=NyxXpTbHUCJ')
+}}
+{{ paper('Leveraging Uncertainty for Deep Interpretable Classification and Weakly-Supervised  Segmentation of Histology Images',
+'Soufiane Belharbi, Jérôme Rony, Jose Dolz, Ismail Ben Ayed, Luke McCaffrey, Eric Granger',
+openreview='https://openreview.net/forum?id=wrz7c--ACPC',
+pdf='https://openreview.net/pdf?id=wrz7c--ACPC')
+}}
+{{ paper('A glimpse of ClinicaDL, an open-source software for reproducible deep learning in neuroimaging',
+'Elina Thibeau-Sutre, Mauricio Díaz, Ravi Hassanaly, Olivier Colliot, Ninon Burgos',
+openreview='https://openreview.net/forum?id=gsqiNMdPSYK',
+pdf='https://openreview.net/pdf?id=gsqiNMdPSYK')
+}}
+{{ paper('Representing 3D Ultrasound with Neural Fields',
+'Ang Nan Gu, Purang Abolmaesumi, Christina Luong, Kwang Moo Yi',
+openreview='https://openreview.net/forum?id=1EDRk-CyQou',
+pdf='https://openreview.net/pdf?id=1EDRk-CyQou')
+}}
+{{ paper('Clustered-CAM: Visual Explanations for Deep Convolutional Networks for Thyroid Nodule Ultrasound Image Classification',
+'Ali Eskandari, Hongbo Du, Alaa Alzoubi',
+openreview='https://openreview.net/forum?id=wwpkJsAiIjH',
+pdf='https://openreview.net/pdf?id=wwpkJsAiIjH')
+}}
+{{ paper('On the performance of learned and fixed-framelet shrinkage networks for low-dose CT denoising',
+'Luis Albert Zavala Mondragon, Peter H.N. de With, Fons van der Sommen',
+openreview='https://openreview.net/forum?id=WGLqD0zHXy9',
+pdf='https://openreview.net/pdf?id=WGLqD0zHXy9')
+}}
+{{ paper('Primal-Dual UNet for Sparse View Cone Beam Computed Tomography Volume Reconstruction',
+'Philipp Ernst, Soumick Chatterjee, Georg Rose, Andreas Nürnberger',
+openreview='https://openreview.net/forum?id=RVKcDeJ2fCi',
+pdf='https://openreview.net/pdf?id=RVKcDeJ2fCi')
+}}
+{{ paper('The do&apos;s and don&apos;ts of reinforcement learning for tractography',
+'Antoine Theberge, Christian Desrosiers, Pierre-marc Jodoin, Maxime Descoteaux',
+openreview='https://openreview.net/forum?id=H7xbw-1MVPg',
+pdf='https://openreview.net/pdf?id=H7xbw-1MVPg')
+}}
+{{ paper('Field Strength Agnostic Cardiac MR Image Segmentation',
+'Seb Harrevelt, Yasmina Al Khalil, Sina Amirrajab, Josien P.W. Pluim, Marcel Breeuwer, Alexander Raaijmakers',
+openreview='https://openreview.net/forum?id=92wsWX2o70',
+pdf='https://openreview.net/pdf?id=92wsWX2o70')
+}}
+{{ paper('Scale-Agnostic Super-Resolution in MRI using Feature-Based Coordinate Networks',
+'Dave Van Veen, Rogier Van der Sluijs, Batu Ozturkler, Arjun D Desai, Christian Bluethgen, Robert D. Boutin, Marc H. Willis, Gordon Wetzstein, David B. Lindell, Shreyas Vasanawala, John M. Pauly, Akshay Chaudhari',
+openreview='https://openreview.net/forum?id=DRz8TyVQPVi',
+pdf='https://openreview.net/pdf?id=DRz8TyVQPVi')
+}}
+{{ paper('A Python application programming interface for accessing Philips iSyntax whole slide images for computational pathology',
+'Nita Mulliqi, Kimmo Kartasalo, Henrik Olsson, Xiaoyi Ji, Lars Egevad, Martin Eklund, Pekka Ruusuvuori',
+openreview='https://openreview.net/forum?id=bPNitiwp0nP',
+pdf='https://openreview.net/pdf?id=bPNitiwp0nP')
+}}
+{{ paper('Deep learning–based synthesis of hyperpolarized gas MRI ventilation from 3D multi-inflation proton MRI',
+'Joshua Russell Astley, Alberto M Biancardi, Helen Marshall, Laurie J Smith, Paul JC Hughes, Guilhem J Collier, Matthew Q Hatton, Jim M Wild, Bilal Tahir',
+openreview='https://openreview.net/forum?id=K6XpQxGhFtf',
+pdf='https://openreview.net/pdf?id=K6XpQxGhFtf')
+}}
+{{ paper('Do we really need all these preprocessing steps in brain MRI segmentation?',
+'Ekaterina Kondrateva, Polina Druzhinina, Anvar Kurmukov',
+openreview='https://openreview.net/forum?id=7ub0rd8h_Ie',
+pdf='https://openreview.net/pdf?id=7ub0rd8h_Ie')
+}}
+{{ paper('Evaluating graph fairness in transductive learning',
+'Fernanda Lenita Ribeiro, Valentina Shumovskaia, Thomas Davies, Ira Ktena',
+openreview='https://openreview.net/forum?id=RojT1Dh9bzE',
+pdf='https://openreview.net/pdf?id=RojT1Dh9bzE')
+}}
+{{ paper('Can Transformers capture long-range displacements better than CNNs?',
+'Paraskevas Pegios, Steffen Czolbe',
+openreview='https://openreview.net/forum?id=OnzEVyHwPnz',
+pdf='https://openreview.net/pdf?id=OnzEVyHwPnz')
+}}
+{{ paper('Robustness Against Out of Distribution Video Frames in Online Surgical Workflow Recognition with Temporal Convolutional Networks',
+'Amirhossein Bayat, Kadir Kirtac, Salih Karagoz, Julien Schwerin, Michael Stenzel, Marco Smit, Florian Aspart',
+openreview='https://openreview.net/forum?id=yfnDR7kiGQI',
+pdf='https://openreview.net/pdf?id=yfnDR7kiGQI')
+}}
+{{ paper('Dual Branch Prior-SegNet: CNN for Interventional CBCT using Planning Scan and Auxiliary Segmentation Loss',
+'Philipp Ernst, Suhita Ghosh, Georg Rose, Andreas Nürnberger',
+openreview='https://openreview.net/forum?id=uhv14tCLmoB',
+pdf='https://openreview.net/pdf?id=uhv14tCLmoB')
+}}
+{{ paper('The effect of intra-scan motion on AI reconstructions in MRI',
+'Laurens Beljaards, Nicola Pezzotti, Christophe Schülke, Matthias J. P. van Osch, Marius Staring',
+openreview='https://openreview.net/forum?id=y7BbSh__-UZ',
+pdf='https://openreview.net/pdf?id=y7BbSh__-UZ')
+}}
+{{ paper('Efficient Exploitation of Image Repetitions in MR Reconstruction',
+'Fasil Gadjimuradov, Thomas Benkert, Marcel Dominik Nickel, Andreas Maier',
+openreview='https://openreview.net/forum?id=7CnEuy4_Iwv',
+pdf='https://openreview.net/pdf?id=7CnEuy4_Iwv')
+}}
+{{ paper('Learning Registration Models with Differentiable Gauss-Newton Optimisation',
+'Mattias P Heinrich',
+openreview='https://openreview.net/forum?id=2aqkrhzUPyF',
+pdf='https://openreview.net/pdf?id=2aqkrhzUPyF')
+}}
+{{ paper('Medical Image Quality Assurance using Deep Learning',
+'Dženan Zukić, Anne Haley, Curtis Lisle, James Klo, Kilian M. Pohl, Hans J Johnson, Aashish Chaudhary',
+openreview='https://openreview.net/forum?id=dBxvjWJTVW-',
+pdf='https://openreview.net/pdf?id=dBxvjWJTVW-')
+}}
+[% / %]
 <a id="oral1-3"></a><h3>Oral Session 1.3: Registration - 16:20 - 17:20 (UTC+2)</h3>
 
 [% .papers %]
