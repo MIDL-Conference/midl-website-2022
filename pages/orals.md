@@ -702,7 +702,7 @@ openreview='https://openreview.net/forum?id=ABl-dIO4g74',
 pdf='https://openreview.net/pdf?id=ABl-dIO4g74')
 }}
 {{ paper('Capturing Inter-Slice Dependencies of 3D Brain MRI-Scans for Unsupervised Anomaly Detection',
-'Finn Behrendt, Marcel Bengs, Debayan Bhattacharya, Julia KrÃ¼ger, Roland Opfer, Alexander Schlaefer',
+'Finn Behrendt, Marcel Bengs, Debayan Bhattacharya, Julia Krüger, Roland Opfer, Alexander Schlaefer',
 openreview='https://openreview.net/forum?id=db8wDgKH4p4',
 pdf='https://openreview.net/pdf?id=db8wDgKH4p4')
 }}
