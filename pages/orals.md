@@ -642,7 +642,7 @@ openreview='https://openreview.net/forum?id=paGzvj2t_x',
 pdf='https://openreview.net/pdf?id=paGzvj2t_x')
 }}
 {{ paper('MRI bias field correction with an implicitly trained CNN.',
-'Attila Tibor Simko, Tommy LÃ¶fstedt, Anders Garpebring, Tufve Nyholm, Joakim Jonsson',
+'Attila Tibor Simko, Tommy Löfstedt, Anders Garpebring, Tufve Nyholm, Joakim Jonsson',
 openreview='https://openreview.net/forum?id=LbHd47ij5s',
 pdf='https://openreview.net/pdf?id=LbHd47ij5s')
 }}
