@@ -1100,8 +1100,8 @@ pdf='https://openreview.net/pdf?id=tOzkTcofcnN')
 openreview='https://openreview.net/forum?id=laP9b5P22kZ',
 pdf='https://openreview.net/pdf?id=laP9b5P22kZ')
 }}
-{{ paper('Two-Year Overall Survival Prediction in Nonâ€“Small-Cell Lung Cancer Patients Using Pre-Treatment Computed Tomography Images and Deep Neural Networks: A Multicentric Study',
-'zahra Khodabakhshi, Habib Zaidi, Isaac Shiri, Nicolaus Andratschke, stephanie Tanadini-Lang',
+{{ paper('Two-Year Overall Survival Prediction in Non–Small-Cell Lung Cancer Patients Using Pre-Treatment Computed Tomography Images and Deep Neural Networks: A Multicentric Study',
+'Zahra Khodabakhshi, Habib Zaidi, Isaac Shiri, Nicolaus Andratschke, stephanie Tanadini-Lang',
 openreview='https://openreview.net/forum?id=GqWakgLuMOn',
 pdf='https://openreview.net/pdf?id=GqWakgLuMOn')
 }}
