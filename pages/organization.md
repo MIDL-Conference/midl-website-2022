@@ -73,9 +73,13 @@ page_class: "sponsors"
 ## Website, Proceedings and Email Communication
 <center>
 
-| <img src="images/meva_himmetoglu.jpeg" width="100"> ||||||  <img src="images/florian_kofler.png" width="100">  ||||||  <img src="images/gustav_bredell.jpg" width="100"> ||||||<img src="images/nikolas_lessmann.jpg" width="100"> ||||||<img src="images/hongwei_li.jpeg" width="100"> ||||||<img src="images/fernando_navarro_avila.jpg" width="100"> |
-|:-:|||||| :-: |||||| :-: |||||| :-: |||||| :-: |||||| :-: |
-| Meva Himmetoglu |||||| Florian Kofler |||||| Gustav Bredell |||||| Nikolas Lessmann |||||| Hongwei Li |||||| Fernando Navarro Avila |
+| <img src="images/meva_himmetoglu.jpeg" width="100"> ||||||  <img src="images/florian_kofler.png" width="100">  ||||||  <img src="images/gustav_bredell.jpg" width="100"> |
+|:-:|||||| :-: |||||| :-: |
+| Meva Himmetoglu |||||| Florian Kofler |||||| Gustav Bredell |
+
+|<img src="images/nikolas_lessmann.jpg" width="100"> ||||||<img src="images/hongwei_li.jpeg" width="100"> ||||||<img src="images/johannes_paetzold.jpg" width="100"> ||||||<img src="images/fernando_navarro_avila.jpg" width="100"> |
+|:-:|||||| :-: |||||| :-: |||||| :-: |
+| Nikolas Lessmann |||||| Hongwei Li |||||| Johannes C. Paetzold |||||| Fernando Navarro Avila|
 
 </center>
 <!-- * Florian Kofler
