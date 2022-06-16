@@ -1005,6 +1005,106 @@ pdf='https://openreview.net/pdf?id=hTil-xs1xNq')
 openreview='https://openreview.net/forum?id=QDJhkKy5x4q',
 pdf='https://openreview.net/pdf?id=QDJhkKy5x4q')
 }}
+{{ paper('3D convolutional neural networks for outcome prediction in glioblastoma using methionine PET and T1w MRI',
+'Iram Shahzadi, Annekatrin Seidlitz, Alex Zwanenburg, Bettina Beuthien-Baumann, Ivan Platzek, Jörg Kotzerke, Michael Baumann, Mechthild Krause, Steffen Löck',
+openreview='https://openreview.net/forum?id=BLXlChVgVb5',
+pdf='https://openreview.net/pdf?id=BLXlChVgVb5')
+}}
+{{ paper('Convolutional neural networks predict the linear energy transfer for proton-beam radiotherapy of patients with brain tumours',
+'Sebastian Starke, Jan Eulitz, Alex Zwanenburg, Esther G.C. Troost, Mechthild Krause, Armin Lühr, Steffen Löck',
+openreview='https://openreview.net/forum?id=ue4_3NG344g',
+pdf='https://openreview.net/pdf?id=ue4_3NG344g')
+}}
+{{ paper('Transfer Learning Promotes Robust Parametric Mapping of Diffusion Encoded MR Fingerprinting',
+'Alan Finkelstein, Congyu Liao, Xiaozhi Cao, Jianhui Zhong',
+openreview='https://openreview.net/forum?id=pCusj-HT_bi',
+pdf='https://openreview.net/pdf?id=pCusj-HT_bi')
+}}
+{{ paper('A vertebral compression fracture score based on deep generative contextual modeling',
+'Michel Botros, Matthieu Rutten, Twan van Laarhoven, Nikolas Lessmann',
+openreview='https://openreview.net/forum?id=g0L9efmf56G',
+pdf='https://openreview.net/pdf?id=g0L9efmf56G')
+}}
+{{ paper('Toward Automatic Tumor-Stroma Ratio Assessment for Survival Analysis in Colorectal Cancer',
+'Christian Abbet, Linda Studer, Inti Zlobec, Jean-Philippe Thiran',
+openreview='https://openreview.net/forum?id=PMQZGFtItHJ',
+pdf='https://openreview.net/pdf?id=PMQZGFtItHJ')
+}}
+{{ paper('Stain Isolation-based Guidance for Improved Stain Translation',
+'Nicolas Brieu, Felix J. Segerer, Ansh Kapil, Philipp Wortmann, Günter Schmidt',
+openreview='https://openreview.net/forum?id=Sml87FSoVqh',
+pdf='https://openreview.net/pdf?id=Sml87FSoVqh')
+}}
+{{ paper('Automatic Extraction of Spinopelvic Parameters Using Deep Learning to Detect Landmarks as Objects',
+'Ali Asghar Mohammadi Nasrabadi, William McNally, Gemah Moammer, John McPhee',
+openreview='https://openreview.net/forum?id=1WGmOnOjJU-',
+pdf='https://openreview.net/pdf?id=1WGmOnOjJU-')
+}}
+{{ paper('Source-Free Domain Adaptation for Image Segmentation',
+'Mathilde Bateson, Hoel Kervadec, Jose Dolz, Herve Lombaert, Ismail Ben Ayed',
+openreview='https://openreview.net/forum?id=JfGn-feo88D',
+pdf='https://openreview.net/pdf?id=JfGn-feo88D')
+}}
+{{ paper('Predicting Thrombectomy Recanalization from CT Imaging Using Deep Learning Models',
+'Haoyue Zhang, Jennifer Polson, Eric J Yang, Kambiz Nael, William Speier, Corey W. Arnold',
+openreview='https://openreview.net/forum?id=6K7FJWUmSiF',
+pdf='https://openreview.net/pdf?id=6K7FJWUmSiF')
+}}
+{{ paper('Towards more efficient tumor follow-up assessment using AI assistance',
+'Alessa Hering, Felix Peisen, Jan Hendrik Moltz',
+openreview='https://openreview.net/forum?id=4chzvY0rrV',
+pdf='https://openreview.net/pdf?id=4chzvY0rrV')
+}}
+{{ paper('A Simple but Effective Training Process for the Few-shot Prediction Task of Early Rheumatoid Arthritis from MRI',
+'Yanli Li, Denis P. Shamonin, Tahereh Hassanzadeh, Monique Reijnierse, Annette H.M. van der Helm-van Mil, Berend Stoel',
+openreview='https://openreview.net/forum?id=8fk23e6ftYP',
+pdf='https://openreview.net/pdf?id=8fk23e6ftYP')
+}}
+{{ paper('Graph Attention Network for Prostate Cancer Lymph Node Invasion Prediction',
+'Maxence Larose, Nawar Touma, Nicolas Raymond, Danahé LeBlanc, Fatemeh Rasekh, Bertrand Neveu, Hélène Hovington, Martin Vallières, Frédéric Pouliot, Louis Archambault',
+openreview='https://openreview.net/forum?id=zIpx-MISaIA',
+pdf='https://openreview.net/pdf?id=zIpx-MISaIA')
+}}
+{{ paper('Improving CCE video review time with a model based on frame similarity',
+'Pere Gilabert, Santi Seguí',
+openreview='https://openreview.net/forum?id=3lLvO8-a3EE',
+pdf='https://openreview.net/pdf?id=3lLvO8-a3EE')
+}}
+{{ paper('Automated L3-based sarcopenia quantification in CT scans',
+'Othmane Laousy, Guillaume Chassagnon, Nikos Paragios, Marie-Pierre Revel, Maria Vakalopoulou',
+openreview='https://openreview.net/forum?id=7-uT3eV0pI',
+pdf='https://openreview.net/pdf?id=7-uT3eV0pI')
+}}
+{{ paper('Pulmonary Embolus Detection with Dual-Energy CT Data Augmentation',
+'Cornelia Hofsäß, Roman Johannes Gertz, Tanja Lossau, Jens-Peter M. Zemke, Tobias Klinder, Alexander C. Bunck, Hannes Nickisch',
+openreview='https://openreview.net/forum?id=3shWnvRa0P',
+pdf='https://openreview.net/pdf?id=3shWnvRa0P')
+}}
+{{ paper('Focal loss improves repeatability of deep learning models',
+'Syed Rakin Ahmed, Andreanne Lemay, Katharina V Hoebel, Jayashree Kalpathy-cramer',
+openreview='https://openreview.net/forum?id=7Cov6FwmOP1',
+pdf='https://openreview.net/pdf?id=7Cov6FwmOP1')
+}}
+{{ paper('Automated Analysis of Mitral Inflow Doppler using Convolutional Neural Networks',
+'Jevgeni Jevsikov, Elisabeth Sarah Lane, Catherine C Stowell, Matthew J Shun-shin, Darrel P Francis, Massoud Zolgharni',
+openreview='https://openreview.net/forum?id=SBrZSeeIo6N',
+pdf='https://openreview.net/pdf?id=SBrZSeeIo6N')
+}}
+{{ paper('Efficient Transfer Learning for Cardiac landmark Localization Using Rotational Entropy',
+'Samira Masoudi, Kevin Blansit, Naeim Bahrami, Albert Hsiao',
+openreview='https://openreview.net/forum?id=tOzkTcofcnN',
+pdf='https://openreview.net/pdf?id=tOzkTcofcnN')
+}}
+{{ paper('Energy Efficiency of Quantized Neural Networks in Medical Imaging',
+'Priyanshu Sinha, Sai Sreya Tummala, Saptarshi Purkayastha, Judy Gichoya',
+openreview='https://openreview.net/forum?id=laP9b5P22kZ',
+pdf='https://openreview.net/pdf?id=laP9b5P22kZ')
+}}
+{{ paper('Two-Year Overall Survival Prediction in Nonâ€“Small-Cell Lung Cancer Patients Using Pre-Treatment Computed Tomography Images and Deep Neural Networks: A Multicentric Study',
+'zahra Khodabakhshi, Habib Zaidi, Isaac Shiri, Nicolaus Andratschke, stephanie Tanadini-Lang',
+openreview='https://openreview.net/forum?id=GqWakgLuMOn',
+pdf='https://openreview.net/pdf?id=GqWakgLuMOn')
+}}
 [% / %]
 <a id="oral3-3"></a><h3>Oral Session 3.3: Data Efficient Learning - 16:20 - 17:20 (UTC+2)</h3>
 [% .papers %]
