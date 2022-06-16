@@ -955,7 +955,56 @@ pdf='https://openreview.net/pdf?id=aQchDrGRkM-')
 
 <a id="poster3-2"></a><h3>Poster Session 3.2: 15:20 - 16:20 (UTC+2)</h3>
 [% .papers %]
-
+{{ paper('CAD-RADS Scoring using Deep Learning and Task-Specific Centerline Labeling',
+'Felix Denzinger, Michael Wels, Oliver Taubmann, Mehmet Akif Gülsün, Max Schöbinger, Florian André, Sebastian Buß, Johannes Görich, Michael Suehling, Andreas Maier, Katharina Breininger',
+openreview='https://openreview.net/forum?id=vVPMifME8b',
+pdf='https://openreview.net/pdf?id=vVPMifME8b')
+}}
+{{ paper('Hidden in Plain Sight: Subgroup Shifts Escape OOD Detection',
+'Lisa M. Koch, Christian M. Schürch, Arthur Gretton, Philipp Berens',
+openreview='https://openreview.net/forum?id=aZgiUNye2Cz',
+pdf='https://openreview.net/pdf?id=aZgiUNye2Cz')
+}}
+{{ paper('MAF-Net: Multi-branch Anchor-Free Detector for Polyp Localization and Classification in Colonoscopy',
+'Xinzi Sun, Dechun Wang, Qilei Chen, Jing Ni, Shuijiao Chen, Xiaowei Liu, Yu Cao, Benyuan Liu',
+openreview='https://openreview.net/forum?id=smSjbVJvPfN',
+pdf='https://openreview.net/pdf?id=smSjbVJvPfN')
+}}
+{{ paper('Interpretable and Interactive Deep Multiple Instance Learning for Dental Caries Classification in Bitewing X-rays',
+'Benjamin Bergner, Csaba Rohrer, Aiham Taleb, Martha Duchrau, Guilherme De Leon, Jonas Almeida Rodrigues, Falk Schwendicke, Joachim Krois, Christoph Lippert',
+openreview='https://openreview.net/forum?id=NpHKh4YlQ0D',
+pdf='https://openreview.net/pdf?id=NpHKh4YlQ0D')
+}}
+{{ paper('Hierarchical Optimal Transport for Comparing Histopathology Datasets',
+'Anna Yeaton, Rahul G Krishnan, Rebecca Mieloszyk, David Alvarez-Melis, Grace Huynh',
+openreview='https://openreview.net/forum?id=gADV7sV4CMo',
+pdf='https://openreview.net/pdf?id=gADV7sV4CMo')
+}}
+{{ paper('LILE: Look In-Depth before Looking Elsewhere -- A Dual Attention Network using Transformers for Cross-Modal Information Retrieval in Histopathology Archives',
+'Danial Maleki, Hamid Tizhoosh',
+openreview='https://openreview.net/forum?id=ZmsElUaQ0Xm',
+pdf='https://openreview.net/pdf?id=ZmsElUaQ0Xm')
+}}
+{{ paper('Unsupervised Domain Adaptation for Medical Image Segmentation via Self-Training of Early Features',
+'Rasha Sheikh, Thomas Schultz',
+openreview='https://openreview.net/forum?id=wc9qnxw35tS',
+pdf='https://openreview.net/pdf?id=wc9qnxw35tS')
+}}
+{{ paper('Structural Networks for Brain Age Prediction',
+'Oscar Pina, Irene Cumplido-Mayoral, Raffaele Cacciaglia, José María González‐de‐Echávarri, Juan Domingo Gispert, Veronica Vilaplana',
+openreview='https://openreview.net/forum?id=Uf8Ow26cpU',
+pdf='https://openreview.net/pdf?id=Uf8Ow26cpU')
+}}
+{{ paper('A Modular Deep Learning Pipeline for Cell Culture Analysis: Investigating the Proliferation of Cardiomyocytes',
+'Lars Leyendecker, Julius Haas, Tobias Piotrowski, Maik Frye, Cora Becker, Bernd K. Fleischmann, Michael Hesse, Robert H. Schmitt',
+openreview='https://openreview.net/forum?id=hTil-xs1xNq',
+pdf='https://openreview.net/pdf?id=hTil-xs1xNq')
+}}
+{{ paper('Attention-Guided Prostate Lesion Localization and Grade Group Classification with Multiple Instance Learning',
+'Ekaterina Redekop, Karthik V. Sarma, Adam Kinnaird, Anthony Sisk, Steven S. Raman, Leonard S. Marks, William Speier, Corey W. Arnold',
+openreview='https://openreview.net/forum?id=QDJhkKy5x4q',
+pdf='https://openreview.net/pdf?id=QDJhkKy5x4q')
+}}
 [% / %]
 <a id="oral3-3"></a><h3>Oral Session 3.3: Data Efficient Learning - 16:20 - 17:20 (UTC+2)</h3>
 [% .papers %]
