@@ -32,8 +32,8 @@ title: "Oral Presentations"
         paper='papers/A3.html')
 }} 
 [% / %]
-<a id="poster1-1"></a><h3>Poster Session 1.1: 11:00 - 12:00 (UTC+2)</h3>
-
+<a id="poster1-1"></a><h3>Poster Session 1.1 : Onsite 15:20 - 16:20 , Virtual 11:00 - 12:00</h3>
+<a id="long1-1"></a><h3>Long Papers</h3>
 [% .papers %]
 {{ paper('Explainability Guided COVID-19 Detection in CT Scans',
 'Ameen Ali Ali, Tal Shaharabany, Lior Wolf',
@@ -115,6 +115,10 @@ pdf='https://openreview.net/pdf?id=p2f6ROn1h02')
 openreview='https://openreview.net/forum?id=reIO5WfgbLd',
 pdf='https://openreview.net/pdf?id=reIO5WfgbLd')
 }}
+[% / %]
+
+<a id="short1-1"></a><h3>Short Papers</h3>
+[% .papers %]
 {{ paper('Learning Robust Representation for Laryngeal Cancer Classification in Vocal Folds from Narrow Band Images',
 'Debayan Bhattacharya, Finn Behrendt, Axelle Felicio-Briegel, Veronika Volgger, Dennis Eggert, Christian Betz, Alexander Schlaefer',
 openreview='https://openreview.net/forum?id=nJd70UxI5hH',
@@ -236,7 +240,8 @@ pdf='https://openreview.net/pdf?id=SNWV4Qlk53G')
 }} 
 [% / %]
 
-<a id="poster1-2"></a><h3>Poster Session 1.2 - 15:20 - 16:20 (UTC+2)</h3>
+<a id="poster1-2"></a><h3>Poster Session 1.2 - Onsite 11:00 - 12:00, Virtual 15:20 - 16:20 (UTC+2)</h3>
+<a id="long1-2"></a><h3>Long Papers</h3>
 
 [% .papers %]
 {{ paper('Learned Half-Quadratic Splitting Network for MR Image Reconstruction',
@@ -274,6 +279,10 @@ pdf='https://openreview.net/pdf?id=qWkGHtDCATs')
 openreview='https://openreview.net/forum?id=NyxXpTbHUCJ',
 pdf='https://openreview.net/pdf?id=NyxXpTbHUCJ')
 }}
+[% / %]
+
+<a id="short1-2"></a><h3>Short Papers</h3>
+[% .papers %]
 {{ paper('Leveraging Uncertainty for Deep Interpretable Classification and Weakly-Supervised  Segmentation of Histology Images',
 'Soufiane Belharbi, Jérôme Rony, Jose Dolz, Ismail Ben Ayed, Luke McCaffrey, Eric Granger',
 openreview='https://openreview.net/forum?id=wrz7c--ACPC',
@@ -441,7 +450,9 @@ pdf='https://openreview.net/pdf?id=dBxvjWJTVW-')
 }} 
 [% / %]
 
-<a id="poster2-1"></a><h3>Poster Session 2.1 - 11:00 - 12:00 (UTC+2)</h3>
+<a id="poster2-1"></a><h3>Poster Session 2.1 - Onsite 15:20 - 16:20 , Virtual 11:00 - 12:00 (UTC+2)</h3>
+<a id="long2-1"></a><h3>Long Papers</h3>
+
 [% .papers %]
 {{ paper('Breathing Freely: Self-supervised Liver T1rho Mapping from A Single T1rho-weighted Image',
 'Chaoxing Huang, Yurui Qian, Jian Hou, Baiyan Jiang, Queenie Chan, Vincent Wong, Winnie Chiu Wing Chu, Weitian Chen',
@@ -498,6 +509,10 @@ pdf='https://openreview.net/pdf?id=HpPRDevDYDY')
 openreview='https://openreview.net/forum?id=fzhKWLjJZok',
 pdf='https://openreview.net/pdf?id=fzhKWLjJZok')
 }}
+[% / %]
+
+<a id="short2-1"></a><h3>Short Papers</h3>
+[% .papers %]
 {{ paper('Automated Multibeat Tissue Doppler Echocardiography Analysis Using Deep Neural Networks',
 'Elisabeth Sarah Lane, Jevgeni Jevsikov, Niti Dhutia, Matthew J Shun-shin, Darrel P Francis, Massoud Zolgharni',
 openreview='https://openreview.net/forum?id=6rJ2vWLD7P-',
@@ -574,7 +589,9 @@ pdf='https://openreview.net/pdf?id=pR6qMzFbJQX')
 }} 
 [% / %]
 
-<a id="poster2-2"></a><h3>Poster Session 2.2 - 15:20 - 16:20 (UTC+2)</h3>
+<a id="poster2-2"></a><h3>Poster Session 2.2 - Onsite 11:00 - 12:00, Virtual 15:20 - 16:20 (UTC+2)</h3>
+<a id="long2-2"></a><h3>Long Papers</h3>
+
 [% .papers %]
 {{ paper('Detecting Out-of-Distribution via an Unsupervised Uncertainty Estimation for Prostate Cancer Diagnosis',
 'Jingya Liu, Bin Lou, Mamadou Diallo, Tongbai Meng, Heinrich von Busch, Robert Grimm, Yingli Tian, Dorin Comaniciu, Ali Kamen, David Winkel, henkjan huisman, Angela Tong, Tobias Penzkofer, Ivan Shabunin, Moon Hyung Choi, Pengyi Xing, Dieter Szolar, Steven Shea, Fergus Coakley, Mukesh Harisinghani',
@@ -671,6 +688,10 @@ pdf='https://openreview.net/pdf?id=zEB9D8vhNf')
 openreview='https://openreview.net/forum?id=QzZE_PJi49u',
 pdf='https://openreview.net/pdf?id=QzZE_PJi49u')
 }}
+[% / %]
+
+<a id="short2-2"></a><h3>Short Papers</h3>
+[% .papers %]
 {{ paper('Improving the Self-Supervised Pretext Task for Histopathologic Subtype Classification',
 'Ruiwen Ding, Anil Yadav, Erika Rodriguez, Ana Cristina Araujo Lemos da Silva, William Hsu',
 openreview='https://openreview.net/forum?id=7QWzEwByMXq',
@@ -815,7 +836,9 @@ pdf='https://openreview.net/pdf?id=46uz5RvpI7h')
         paper='papers/G4.html')
 }} 
 [% / %]
-<a id="poster3-1"></a><h3>Poster Session 3.1:  11:00 - 12:00 (UTC+2)</h3>
+<a id="poster3-1"></a><h3>Poster Session 3.1:  Onsite 15:20 - 16:20 , Virtual 11:00 - 12:00 (UTC+2)</h3>
+<a id="long3-1"></a><h3>Long Papers</h3>
+
 [% .papers %]
 {{ paper('Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer',
 'Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang',
@@ -862,6 +885,10 @@ pdf='https://openreview.net/pdf?id=-RLCTAvUxuf')
 openreview='https://openreview.net/forum?id=_ZUu2wpDDVv',
 pdf='https://openreview.net/pdf?id=_ZUu2wpDDVv')
 }}
+[% / %]
+
+<a id="short3-1"></a><h3>Short Papers</h3>
+[% .papers %]
 {{ paper('Continuous benchmarking in medical image registration - review of the current state of the Learn2Reg challenge',
 'Lasse Hansen, Alessa Hering, Christoph Großbröhmer, Mattias P Heinrich',
 openreview='https://openreview.net/forum?id=6JdGvJhKZgp',
@@ -953,7 +980,9 @@ pdf='https://openreview.net/pdf?id=aQchDrGRkM-')
 }} 
 [% / %]
 
-<a id="poster3-2"></a><h3>Poster Session 3.2: 15:20 - 16:20 (UTC+2)</h3>
+<a id="poster3-2"></a><h3>Poster Session 3.2: Onsite 11:00 - 12:00, Virtual 15:20 - 16:20 (UTC+2)</h3>
+<a id="long3-2"></a><h3>Long Papers</h3>
+
 [% .papers %]
 {{ paper('CAD-RADS Scoring using Deep Learning and Task-Specific Centerline Labeling',
 'Felix Denzinger, Michael Wels, Oliver Taubmann, Mehmet Akif Gülsün, Max Schöbinger, Florian André, Sebastian Buß, Johannes Görich, Michael Suehling, Andreas Maier, Katharina Breininger',
@@ -1005,6 +1034,10 @@ pdf='https://openreview.net/pdf?id=hTil-xs1xNq')
 openreview='https://openreview.net/forum?id=QDJhkKy5x4q',
 pdf='https://openreview.net/pdf?id=QDJhkKy5x4q')
 }}
+[% / %]
+
+<a id="short3-2"></a><h3>Short Papers</h3>
+[% .papers %]
 {{ paper('3D convolutional neural networks for outcome prediction in glioblastoma using methionine PET and T1w MRI',
 'Iram Shahzadi, Annekatrin Seidlitz, Alex Zwanenburg, Bettina Beuthien-Baumann, Ivan Platzek, Jörg Kotzerke, Michael Baumann, Mechthild Krause, Steffen Löck',
 openreview='https://openreview.net/forum?id=BLXlChVgVb5',
@@ -1101,7 +1134,7 @@ openreview='https://openreview.net/forum?id=laP9b5P22kZ',
 pdf='https://openreview.net/pdf?id=laP9b5P22kZ')
 }}
 {{ paper('Two-Year Overall Survival Prediction in Non–Small-Cell Lung Cancer Patients Using Pre-Treatment Computed Tomography Images and Deep Neural Networks: A Multicentric Study',
-'Zahra Khodabakhshi, Habib Zaidi, Isaac Shiri, Nicolaus Andratschke, stephanie Tanadini-Lang',
+'Zahra Khodabakhshi, Habib Zaidi, Isaac Shiri, Nicolaus Andratschke, Stephanie Tanadini-Lang',
 openreview='https://openreview.net/forum?id=GqWakgLuMOn',
 pdf='https://openreview.net/pdf?id=GqWakgLuMOn')
 }}
