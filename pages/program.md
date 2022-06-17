@@ -285,9 +285,9 @@ jQuery(document).ready(function($) {
 		<td id='t01' class='col1' rowspan=3 height="32" align="right" valign=top  >02:00</td>
 		<td id='t00' class='col2' rowspan=3 align="right" valign=top  >11:00</td>
 		<td id='t01' rowspan=3 align="right" valign=top >17:00</td>
-		<td id='cposter' rowspan=3 align="center" valign=middle  ><a href='orals.html#poster1-1' style='color:white'>Poster 1.1</a></td>
-		<td id='cposter' rowspan=3 align="center" valign=middle  ><a href='orals.html#poster2-1' style='color:white'>Poster 2.1</a></td>
-		<td id='cposter' rowspan=3 align="center" valign=middle  ><a href='orals.html#poster3-1' style='color:white'>Poster 3.1</a></td>
+		<td id='cposter' rowspan=3 align="center" valign=middle  ><a href='orals.html#poster1-1' style='color:white'>Virtual: Poster 1.1</a> <a href='orals.html#poster1-2' style='color:white'>Onsite: Poster 1.2</a></td>
+		<td id='cposter' rowspan=3 align="center" valign=middle  ><a href='orals.html#poster2-1' style='color:white'>Virtual: Poster 2.1</a> <a href='orals.html#poster2-2' style='color:white'>Onsite: Poster 2.2</a></td>
+		<td id='cposter' rowspan=3 align="center" valign=middle  ><a href='orals.html#poster3-1' style='color:white'>Virtual: Poster 3.1</a> <a href='orals.html#poster3-2' style='color:white'>Onsite: Poster 3.2</a></td>
 		</tr>
 	<tr>
 		</tr>
@@ -347,9 +347,9 @@ jQuery(document).ready(function($) {
 		<td id='t01' class='col1' rowspan=3 height="32" align="right" valign=top >06:20</td>
 		<td id='t00' class='col2' rowspan=3 align="right" valign=top  >15:20</td>
 		<td id='t01' rowspan=3 align="right" valign=top >21:20</td>
-		<td id='cposter' rowspan=3 align="center" valign=middle  ><a href='orals.html#poster1-2' style='color:white'>Poster 1.2</a></td>
-		<td id='cposter' rowspan=3 align="center" valign=middle  ><a href='orals.html#poster2-2' style='color:white'>Poster 2.2</a></td>
-		<td id='cposter' rowspan=3 align="center" valign=middle  ><a href='orals.html#poster3-2' style='color:white'>Poster 3.2</a></td>
+		<td id='cposter' rowspan=3 align="center" valign=middle  ><a href='orals.html#poster1-2' style='color:white'>Virtual: Poster 1.2</a> <a href='orals.html#poster1-1' style='color:white'>Onsite: Poster 1.1</a></td>
+		<td id='cposter' rowspan=3 align="center" valign=middle  ><a href='orals.html#poster2-2' style='color:white'>Virtual: Poster 2.2</a> <a href='orals.html#poster2-1' style='color:white'>Onsite: Poster 2.1</a></td>
+		<td id='cposter' rowspan=3 align="center" valign=middle  ><a href='orals.html#poster3-2' style='color:white'>Virtual: Poster 3.2</a> <a href='orals.html#poster3-1' style='color:white'>Onsite: Poster 3.1</a></td>
 		</tr>
 	<tr>
 		</tr>
