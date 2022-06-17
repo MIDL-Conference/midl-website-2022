@@ -663,6 +663,10 @@ pdf='https://openreview.net/pdf?id=paGzvj2t_x')
 openreview='https://openreview.net/forum?id=LbHd47ij5s',
 pdf='https://openreview.net/pdf?id=LbHd47ij5s')
 }}
+[% / %]
+
+<a id="short2-2"></a><h3>Short Papers</h3>
+[% .papers %]
 {{ paper('Metrics Reloaded - A new recommendation framework for biomedical image analysis validation',
 'Annika Reinke, Lena Maier-Hein, Evangelia Christodoulou, Ben Glocker, Patrick Scholz, Fabian Isensee, Jens Kleesiek, Michal Kozubek, Mauricio Reyes, Michael Alexander Riegler, Manuel Wiesenfarth, Michael Baumgartner, Matthias Eisenmann, Doreen Heckmann-Nötzel, Ali Emre Kavur, Tim Rädsch, Minu D. Tizabi, Laura Acion, Michela Antonelli, Tal Arbel, Spyridon Bakas, Peter Bankhead, Arriel Benis, M. Jorge Cardoso, Veronika Cheplygina, Beth A Cimini, Gary S. Collins, Keyvan Farahani, Bram van Ginneken, Fred A Hamprecht, Daniel A. Hashimoto, Michael M. Hoffman, Merel Huisman, Pierre Jannin, Charles Kahn, Alexandros Karargyris, Alan Karthikesalingam, Hannes Kenngott, Annette Kopp-Schneider, Anna Kreshuk, Tahsin Kurc, Bennett A. Landman, Geert Litjens, Amin Madani, Klaus Maier-Hein, Anne Martel, Peter Mattson, Erik Meijering, bjoern menze, David Moher, Karel G.M. Moons, Henning Müller, Brennan Nichyporuk, Felix Nickel, Jens Petersen, Nasir Rajpoot, Nicola Rieke, Julio Saez-Rodriguez, Clara I. Sánchez, Shravya Shetty, Maarten van Smeden, Carole H. Sudre, Ronald M. Summers, Abdel A. Taha, Sotirios A. Tsaftaris, Ben Van Calster, Gael Varoquaux, Paul F Jaeger',
 openreview='https://openreview.net/forum?id=24kBqy8rcB_',
@@ -688,10 +692,6 @@ pdf='https://openreview.net/pdf?id=zEB9D8vhNf')
 openreview='https://openreview.net/forum?id=QzZE_PJi49u',
 pdf='https://openreview.net/pdf?id=QzZE_PJi49u')
 }}
-[% / %]
-
-<a id="short2-2"></a><h3>Short Papers</h3>
-[% .papers %]
 {{ paper('Improving the Self-Supervised Pretext Task for Histopathologic Subtype Classification',
 'Ruiwen Ding, Anil Yadav, Erika Rodriguez, Ana Cristina Araujo Lemos da Silva, William Hsu',
 openreview='https://openreview.net/forum?id=7QWzEwByMXq',
