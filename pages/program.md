@@ -5,6 +5,8 @@ page_class: "keynotes"
 
 # Program at a glance
 
+The poster presentation sessions take place simultaneously in the main hall of the conference and the online platform IStage, with time slots both in the morning and the afternoon.
+
 <style>
 #program, #program th, #program td {
     border: 1px solid gray;
