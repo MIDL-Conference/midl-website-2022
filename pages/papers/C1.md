@@ -1,11 +1,11 @@
 ---
-title: "KeypointMorph: Robust Multi-modal Affine Registration via Unsupervised Keypoint Detection"
+title: "KeyMorph: Robust Multi-modal Affine Registration via Unsupervised Keypoint Detection"
 page_class: "paper"
 ---
 
 {% import "_macros.html" as macros %}
 
-# KeypointMorph: Robust Multi-modal Affine Registration via Unsupervised Keypoint Detection
+# KeyMorph: Robust Multi-modal Affine Registration via Unsupervised Keypoint Detection
 
 #### Evan M Yu, Alan Q. Wang, Adrian V Dalca, Mert R. Sabuncu
 

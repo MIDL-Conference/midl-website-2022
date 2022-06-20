@@ -1,11 +1,11 @@
 ---
-title: "Domain adaptive 3d human pose estimation through anatomical constraints"
+title: "Domain adaptation through anatomical constraints for 3d human pose estimation under the cover"
 page_class: "paper"
 ---
 
 {% import "_macros.html" as macros %}
 
-# Domain adaptive 3d human pose estimation through anatomical constraints
+# Domain adaptation through anatomical constraints for 3d human pose estimation under the cover
 
 #### Alexander Bigalke, Lasse Hansen, Jasper Diesel, Mattias P Heinrich
 

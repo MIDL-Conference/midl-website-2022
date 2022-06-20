@@ -1,11 +1,11 @@
 ---
-title: "Deep Learning Radiographic Assessment of Pulmonary Edema from Serum Biomarkers"
+title: "Deep Learning Radiographic Assessment of Pulmonary Edema: Training with Serum Biomarkers"
 page_class: "paper"
 ---
 
 {% import "_macros.html" as macros %}
 
-# Deep Learning Radiographic Assessment of Pulmonary Edema from Serum Biomarkers
+# Deep Learning Radiographic Assessment of Pulmonary Edema: Training with Serum Biomarkers
 
 #### Justin Huynh, Samira Masoudi, Abraham Noorbakhsh, Amin Mahmoodi, kyle Hasenstab, Micheal Pazzani, Albert Hsiao
 

@@ -1,11 +1,11 @@
 ---
-title: "CAiD: A Self-supervised Learning Framework for Empowering Instance Discrimination in Medical Imaging"
+title: "CAiD: Context-Aware Instance Discrimination for Self-supervised Learning in Medical Imaging"
 page_class: "paper"
 ---
 
 {% import "_macros.html" as macros %}
 
-# CAiD: A Self-supervised Learning Framework for Empowering Instance Discrimination in Medical Imaging
+# CAiD: Context-Aware Instance Discrimination for Self-supervised Learning in Medical Imaging
 
 #### Mohammad Reza Hosseinzadeh Taher, Fatemeh Haghighi, Michael Gotway, Jianming Liang
 

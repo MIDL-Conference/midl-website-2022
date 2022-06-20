@@ -237,7 +237,7 @@ function showListCategories() {
     </span></div></li>
 <li><div class="cad poster">
     <span class="title">
-      <a href="papers/A_L_12.html">Explainability Guided Image Classificaiton</a>
+      <a href="papers/A_L_12.html">Explainability Guided COVID-19 Detection in CT Scans</a>
     </span>
     <span class="authors"> Ameen Ali Ali, Tal Shaharabany, Lior Wolf</span>
     <ul class="links">
@@ -317,7 +317,7 @@ function showListCategories() {
     </span></div></li>
 <li><div class="seg poster">
     <span class="title">
-      <a href="papers/A_L_20.html">Temperature Calibration of Convolutional Neural Networks for Medical Image Segmentation</a>
+      <a href="papers/A_L_20.html">Confidence Histograms for Model Reliability Analysis and Temperature Calibration</a>
     </span>
     <span class="authors"> Farina Kock, Felix Thielke, Grzegorz Chlebus, Hans Meine</span>
     <ul class="links">
@@ -579,7 +579,7 @@ function showListCategories() {
 <ul>
 <li><div class="reg poster">
     <span class="title">
-      <a href="papers/B_L_1.html">KeypointMorph: Robust Multi-modal Affine Registration via Unsupervised Keypoint Detection</a>
+      <a href="papers/B_L_1.html">KeyMorph: Robust Multi-modal Affine Registration via Unsupervised Keypoint Detection</a>
     </span>
     <span class="authors"> Evan M Yu, Alan Q. Wang, Adrian V Dalca, Mert R. Sabuncu</span>
     <ul class="links">
@@ -659,7 +659,7 @@ function showListCategories() {
     </span></div></li>
 <li><div class="xtai poster">
     <span class="title">
-      <a href="papers/B_L_9.html">Deep Learning Radiographic Assessment of Pulmonary Edema from Serum Biomarkers</a>
+      <a href="papers/B_L_9.html">Deep Learning Radiographic Assessment of Pulmonary Edema: Training with Serum Biomarkers</a>
     </span>
     <span class="authors"> Justin Huynh, Samira Masoudi, Abraham Noorbakhsh, Amin Mahmoodi, kyle Hasenstab, Micheal Pazzani, Albert Hsiao</span>
     <ul class="links">
@@ -950,7 +950,7 @@ function showListCategories() {
 <li>
 <p><div class="None poster">
     <span class="title">
-      <a href="papers/C1.html">KeypointMorph: Robust Multi-modal Affine Registration via Unsupervised Keypoint Detection</a>
+      <a href="papers/C1.html">KeyMorph: Robust Multi-modal Affine Registration via Unsupervised Keypoint Detection</a>
     </span>
     <span class="authors"> Evan M Yu, Alan Q. Wang, Adrian V Dalca, Mert R. Sabuncu</span>
     <ul class="links">
@@ -1157,7 +1157,7 @@ function showListCategories() {
     </span></div></li>
 <li><div class="xtai poster">
     <span class="title">
-      <a href="papers/C_L_11.html">Explainable Weakly-Supervised Cell Segmentation by Canonical Shape Learning and Transformation</a>
+      <a href="papers/C_L_11.html">Explainable Weakly-Supervised Cell Nuclei Segmentation by Canonical Shape Learning and Transformation</a>
     </span>
     <span class="authors"> Pedro Costa, Alex Gaudio, Aurélio Campilho, Jaime S Cardoso</span>
     <ul class="links">
@@ -1400,7 +1400,7 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
     </span></div></li>
 <li><div class="url poster">
     <span class="title">
-      <a href="papers/D_L_5.html">CAiD: A Self-supervised Learning Framework for Empowering Instance Discrimination in Medical Imaging</a>
+      <a href="papers/D_L_5.html">CAiD: Context-Aware Instance Discrimination for Self-supervised Learning in Medical Imaging</a>
     </span>
     <span class="authors"> Mohammad Reza Hosseinzadeh Taher, Fatemeh Haghighi, Michael Gotway, Jianming Liang</span>
     <ul class="links">
@@ -1460,7 +1460,7 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
     </span></div></li>
 <li><div class="seg poster">
     <span class="title">
-      <a href="papers/D_L_11.html">Memory-efficient Segmentation for Volumetric High-resolution MicroCT Images</a>
+      <a href="papers/D_L_11.html">Memory-efficient Segmentation of Volumetric High-resolution MicroCT Images</a>
     </span>
     <span class="authors"> Yuan Wang, Laura Blackie, Irene Miguel-Aliaga, Wenjia Bai</span>
     <ul class="links">
@@ -1470,7 +1470,7 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
     </span></div></li>
 <li><div class="url poster">
     <span class="title">
-      <a href="papers/D_L_12.html">Learning Morphological Feature Perturbations for Semi-Supervised Segmentation</a>
+      <a href="papers/D_L_12.html">Learning Morphological Feature Perturbations for Calibrated Semi-Supervised Segmentation</a>
     </span>
     <span class="authors"> Moucheng Xu, Yukun Zhou, Chen Jin, Stefano B Blumberg, Frederick Wilson, Neil Oxtoby, Marius De Groot, Daniel C. Alexander, Joseph Jacob</span>
     <ul class="links">
@@ -1550,7 +1550,7 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
     </span></div></li>
 <li><div class="seg poster">
     <span class="title">
-      <a href="papers/D_L_20.html">Multi-Organ Nucleus Segmentation Using a Locally Rotation Invariant Bispectrum U-Net</a>
+      <a href="papers/D_L_20.html">Robust Multi-Organ Nucleus Segmentation Using a Locally Rotation Invariant Bispectral U-Net</a>
     </span>
     <span class="authors"> Valentin Oreiller, Julien Fageot, Vincent Andrearczyk, John O. Prior, Adrien Depeursinge</span>
     <ul class="links">
@@ -2268,7 +2268,7 @@ oindent Our code is publicly available:url{https:anonymous.4open.sciencerBoundar
     </span></div></li>
 <li><div class="damg poster">
     <span class="title">
-      <a href="papers/F_L_13.html">Unsupervised Domain adaptation for medical image segmentation via self-supervised refinement of early featu res</a>
+      <a href="papers/F_L_13.html">Unsupervised Domain Adaptation for Medical Image Segmentation via Self-Training of Early Features</a>
     </span>
     <span class="authors"> Rasha Sheikh, Thomas Schultz</span>
     <ul class="links">
@@ -2298,7 +2298,7 @@ oindent Our code is publicly available:url{https:anonymous.4open.sciencerBoundar
     </span></div></li>
 <li><div class="cad poster">
     <span class="title">
-      <a href="papers/F_L_16.html">Deep Learning for Analyzing the Proliferation of Postnatal Cardiomyocytes in Confocal Microscopy Imaging Data</a>
+      <a href="papers/F_L_16.html">A Modular Deep Learning Pipeline for Cell Culture Analysis: Investigating the Proliferation of Cardiomyocytes</a>
     </span>
     <span class="authors"> Lars Leyendecker, Julius Haas, Tobias Piotrowski, Maik Frye, Cora Becker, Bernd K. Fleischmann, Michael Hesse, Robert H. Schmitt</span>
     <ul class="links">
