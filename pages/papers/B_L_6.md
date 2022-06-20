@@ -1,0 +1,39 @@
+---
+title: "Negative Evidence Matters in Interpretable Histology Image Classification"
+page_class: "paper"
+---
+
+{% import "_macros.html" as macros %}
+
+# Negative Evidence Matters in Interpretable Histology Image Classification
+
+#### Soufiane Belharbi, Marco Pedersoli, Ismail Ben Ayed, Luke McCaffrey, Eric Granger
+
+[% .details %]
+<a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>
+- <a class="toggle_visibility" data-selector=".schedule" data-level="3">Show schedule</a>
+- <a href="">Proceedings</a>
+- <a href="https://openreview.net/pdf?id=FF6XuIyeF6V">PDF</a>
+- <a href="https://openreview.net/forum?id=FF6XuIyeF6V">Reviews</a>
+
+<p>
+    <span class="abstract">
+        Using only global annotations such as the image class labels, weakly-supervised learning methods allow CNN  classifiers to jointly classify an image, and yield the regions of interest associated with the predicted class. However, without any guidance at the pixel level, such methods may yield inaccurate regions. This problem is known to be more challenging with histology images than with natural ones, since objects are less salient, structures have more variations, and foreground and background regions have stronger similarities. Therefore, all the methods in computer vision literature for visual interpretation of CNNs may not directly apply.  In this work, we propose a simple yet efficient method based on a composite loss function that leverages  information from the fully negative samples. Our new loss function contains two complementary terms: the first exploits positive evidence collected from the CNN classifier, while the second leverages the fully negative samples from the training dataset. In particular, we equip a pre-trained classifier with a decoder that allows refining the regions of interest. The same classifier is exploited to collect both the positive and negative evidence at the pixel level to train the decoder.  This enables to take advantages of the fully negative samples that occurs naturally in the data, without any additional supervision signals and using only the image class as supervision. Compared to several recent related methods, over the public benchmark GlaS for colon cancer and a   Camelyon16 patch-based benchmark for breast cancer using three different backbones, we show the substantial improvements introduced by our method. Our results shows the benefits of using both negative and positive evidence, ie, the one obtained from a classifier and the one naturally available in datasets.  We provide an ablation study of both terms. Our code is publicly available.
+        <br>
+        <span class="actions"><a class="toggle_visibility" data-level="2">Hide abstract</a></span>
+    </span>
+</p>
+
+<p>
+    <span class="schedule">
+        Wednesday 6th July<br>Poster Session 1.2 - onsite 11:00 - 12:00, virtual 15:20 - 16:20 (UTC+2)
+        <br>
+        <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
+    </span>
+</p>
+
+[% / %]
+
+
+---
+<!-- { macros.presentation('', '', 720, 450) } -->

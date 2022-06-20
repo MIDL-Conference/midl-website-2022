@@ -1,0 +1,39 @@
+---
+title: "On the Pitfalls of Using the Residual as Anomaly Score"
+page_class: "paper"
+---
+
+{% import "_macros.html" as macros %}
+
+# On the Pitfalls of Using the Residual as Anomaly Score
+
+#### Felix Meissen, Benedikt Wiestler, Georgios Kaissis, Daniel Rueckert
+
+[% .details %]
+<a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>
+- <a class="toggle_visibility" data-selector=".schedule" data-level="3">Show schedule</a>
+- <a href="">Proceedings</a>
+- <a href="https://openreview.net/pdf?id=ZsoHLeupa1D">PDF</a>
+- <a href="https://openreview.net/forum?id=ZsoHLeupa1D">Reviews</a>
+
+<p>
+    <span class="abstract">
+        Many current state-of-the-art methods for anomaly detection in medical images rely on calculating a residual image between a potentially anomalous input image and its ("healthy") reconstruction. As the reconstruction of the unseen anomalous region should be erroneous, this yields large residuals as a score to detect anomalies in medical images. However, this assumption does not take into account residuals resulting from imperfect reconstructions of the machine learning models used. Such errors can easily overshadow residuals of interest and therefore strongly question the use of residual images as scoring function. Our work explores this fundamental problem of residual images in detail. We theoretically define the problem and thoroughly evaluate the influence of intensity and texture of anomalies against the effect of imperfect reconstructions in a series of experiments.
+        <br>
+        <span class="actions"><a class="toggle_visibility" data-level="2">Hide abstract</a></span>
+    </span>
+</p>
+
+<p>
+    <span class="schedule">
+        Friday 8th July<br>Poster Session 3.1 - onsite 15:20 - 16:20, virtual 11:00 - 12:00 (UTC+2)
+        <br>
+        <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
+    </span>
+</p>
+
+[% / %]
+
+
+---
+<!-- { macros.presentation('', '', 720, 450) } -->
