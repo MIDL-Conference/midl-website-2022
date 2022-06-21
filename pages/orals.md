@@ -122,7 +122,7 @@ function showListCategories() {
 </ul>
 </div>
 <p><a id="poster1-1"></a><h3>Poster Session 1.1 : Onsite 15:20 - 16:20 , Virtual 11:00 - 12:00</h3>
-<a id="long1-1"></a><h3>Long Papers</h3></p>
+<a id="long1-1"></a><h4>Long Papers</h4></p>
 <div class="papers">
 <ul>
 <li><div class="cad poster">
@@ -337,7 +337,7 @@ function showListCategories() {
     </span></div></li>
 </ul>
 </div>
-<p><a id="short1-1"></a><h3>Short Papers</h3></p>
+<p><a id="short1-1"></a><h4>Short Papers</h4></p>
 <div class="papers">
 <ul>
 <li><div class="cad poster">
@@ -574,7 +574,7 @@ function showListCategories() {
 </ul>
 </div>
 <p><a id="poster1-2"></a><h3>Poster Session 1.2 - Onsite 11:00 - 12:00, Virtual 15:20 - 16:20 (UTC+2)</h3>
-<a id="long1-2"></a><h3>Long Papers</h3></p>
+<a id="long1-2"></a><h4>Long Papers</h4></p>
 <div class="papers">
 <ul>
 <li><div class="reg poster">
@@ -739,7 +739,7 @@ function showListCategories() {
     </span></div></li>
 </ul>
 </div>
-<p><a id="short1-2"></a><h3>Short Papers</h3></p>
+<p><a id="short1-2"></a><h4>Short Papers</h4></p>
 <div class="papers">
 <ul>
 <li><div class="xtai poster">
@@ -1052,7 +1052,7 @@ function showListCategories() {
 </ul>
 </div>
 <p><a id="poster2-1"></a><h3>Poster Session 2.1 - Onsite 15:20 - 16:20 , Virtual 11:00 - 12:00 (UTC+2)</h3>
-<a id="long2-1"></a><h3>Long Papers</h3></p>
+<a id="long2-1"></a><h4>Long Papers</h4></p>
 <div class="papers">
 <ul>
 <li><div class="rs poster">
@@ -1167,7 +1167,7 @@ function showListCategories() {
     </span></div></li>
 </ul>
 </div>
-<p><a id="short2-1"></a><h3>Short Papers</h3></p>
+<p><a id="short2-1"></a><h4>Short Papers</h4></p>
 <div class="papers">
 <ul>
 <li><div class="xtai poster">
@@ -1355,7 +1355,7 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
 </ul>
 </div>
 <p><a id="poster2-2"></a><h3>Poster Session 2.2 - Onsite 11:00 - 12:00, Virtual 15:20 - 16:20 (UTC+2)</h3>
-<a id="long2-2"></a><h3>Long Papers</h3></p>
+<a id="long2-2"></a><h4>Long Papers</h4></p>
 <div class="papers">
 <ul>
 <li><div class="seg poster">
@@ -1580,7 +1580,7 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
     </span></div></li>
 </ul>
 </div>
-<p><a id="short2-2"></a><h3>Short Papers</h3></p>
+<p><a id="short2-2"></a><h4>Short Papers</h4></p>
 <div class="papers">
 <ul>
 <li><div class="seg poster">
@@ -1801,7 +1801,7 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
 <li>
 <p><div class="None poster">
     <span class="title">
-      <a href="papers/F1.html">Memory-efficient Segmentation for Volumetric High-resolution MicroCT Images</a>
+      <a href="papers/F1.html">Memory-efficient Segmentation of Volumetric High-resolution MicroCT Images</a>
     </span>
     <span class="authors"> Yuan Wang, Laura Blackie, Irene Miguel-Aliaga, Wenjia Bai</span>
     <ul class="links">
@@ -1903,7 +1903,7 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
 </ul>
 </div>
 <p><a id="poster3-1"></a><h3>Poster Session 3.1:  Onsite 15:20 - 16:20 , Virtual 11:00 - 12:00 (UTC+2)</h3>
-<a id="long3-1"></a><h3>Long Papers</h3></p>
+<a id="long3-1"></a><h4>Long Papers</h4></p>
 <div class="papers">
 <ul>
 <li><div class="lnl poster">
@@ -2018,7 +2018,7 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
     </span></div></li>
 </ul>
 </div>
-<p><a id="short3-1"></a><h3>Short Papers</h3></p>
+<p><a id="short3-1"></a><h4>Short Papers</h4></p>
 <div class="papers">
 <ul>
 <li><div class="lnl poster">
@@ -2195,7 +2195,7 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
 </ul>
 </div>
 <p><a id="poster3-2"></a><h3>Poster Session 3.2: Onsite 11:00 - 12:00, Virtual 15:20 - 16:20 (UTC+2)</h3>
-<a id="long3-2"></a><h3>Long Papers</h3></p>
+<a id="long3-2"></a><h4>Long Papers</h4></p>
 <div class="papers">
 <ul>
 <li><div class="del poster">
@@ -2381,7 +2381,7 @@ oindent Our code is publicly available:url{https:anonymous.4open.sciencerBoundar
     </span></div></li>
 </ul>
 </div>
-<p><a id="short3-2"></a><h3>Short Papers</h3></p>
+<p><a id="short3-2"></a><h4>Short Papers</h4></p>
 <div class="papers">
 <ul>
 <li><div class="damg poster">
