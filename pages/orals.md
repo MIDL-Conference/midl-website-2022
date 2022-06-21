@@ -1795,6 +1795,59 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
     </span></div></li>
 </ul>
 </div>
+<p><a id="oral2-3"></a><h3>Oral Session 2.3: Segmentation II - 16:20 - 17:20 (UTC+2)</h3></p>
+<div class="papers">
+<ul>
+<li>
+<p><div class="None poster">
+    <span class="title">
+      <a href="papers/F1.html">Memory-efficient Segmentation for Volumetric High-resolution MicroCT Images</a>
+    </span>
+    <span class="authors"> Yuan Wang, Laura Blackie, Irene Miguel-Aliaga, Wenjia Bai</span>
+    <ul class="links">
+      <li><a class="toggle_visibility" data-selector=".abstract" data-level="3">abstract</a></li><li><a href="https://openreview.net/pdf?id=ecOY_ywB3UB">pdf</a></li><li><a href="https://openreview.net/forum?id=ecOY_ywB3UB">reviews</a></li></ul><span class="abstract">
+      In recent years, 3D convolutional neural networks have become the dominant approach for volumetric medical image segmentation. However, compared to their 2D counterparts, 3D networks introduce substantially more training parameters and higher requirement for the GPU memory. This has become a major limiting factor for designing and training 3D networks for high-resolution volumetric images. In this work, we propose a novel memory-efficient network architecture for 3D high-resolution image segmentation. The network incorporates both global and local features via a two-stage U-net-based cascaded framework and at the first stage, a memory-efficient U-net (meU-net) is developed. The features learnt at the two stages are connected via post-concatenation, which further improves the information flow. The proposed segmentation method is evaluated on an ultra high-resolution microCT dataset with typically 250 million voxels per volume. Experiments show that it outperforms state-of-the-art 3D segmentation methods in terms of both segmentation accuracy and memory efficiency.
+      <span class="actions"><a class="toggle_visibility" data-level="2">Hide abstract</a></span>
+    </span></div></p>
+</li>
+<li>
+<p><div class="None poster">
+    <span class="title">
+      <a href="papers/F2.html">Learning Morphological Feature Perturbations for Calibrated Semi-Supervised Segmentation</a>
+    </span>
+    <span class="authors"> Moucheng Xu, Yukun Zhou, Chen Jin, Stefano B Blumberg, Frederick Wilson, Marius De Groot, Daniel C. Alexander, Neil Oxtoby, Joseph Jacob</span>
+    <ul class="links">
+      <li><a class="toggle_visibility" data-selector=".abstract" data-level="3">abstract</a></li><li><a href="https://openreview.net/pdf?id=OL6tAasXCmi">pdf</a></li><li><a href="https://openreview.net/forum?id=OL6tAasXCmi">reviews</a></li></ul><span class="abstract">
+      In this paper, we propose MisMatch, a novel consistency-driven semi-supervised segmentation framework which produces predictions that are invariant to learnt feature perturbations. MisMatch consists of an encoder and a two decoders. One decoder learns positive attention to the foreground regions of interest (RoI) on unlabelled images thereby generating dilated features of the foreground. The other decoder learns negative attention to the foreground on the same unlabelled images thereby generating eroded features of the foreground. We then apply a consistency regularisation on the paired predictions. MisMatch outperforms state-of-the-art semi-supervised methods on a CT-based pulmonary vessel segmentation task and a MRI-based brain tumour segmentation task. We also show that the effectiveness of MisMatch comes from better model calibration than its supervised learning counterpart.
+      <span class="actions"><a class="toggle_visibility" data-level="2">Hide abstract</a></span>
+    </span></div></p>
+</li>
+<li>
+<p><div class="None poster">
+    <span class="title">
+      <a href="papers/F3.html">Label conditioned segmentation</a>
+    </span>
+    <span class="authors"> Tianyu Ma, Benjamin C. Lee, Mert R. Sabuncu</span>
+    <ul class="links">
+      <li><a class="toggle_visibility" data-selector=".abstract" data-level="3">abstract</a></li><li><a href="https://openreview.net/pdf?id=ML3EIKhFMaW">pdf</a></li><li><a href="https://openreview.net/forum?id=ML3EIKhFMaW">reviews</a></li></ul><span class="abstract">
+      Semantic segmentation is an important task in computer vision that is often tackled with convolutional neural networks (CNNs). A CNN learns to produce pixel-level predictions through training on pairs of images and their corresponding ground-truth segmentation labels. For segmentation tasks with multiple classes, the standard approach is to use a network that computes a multi-channel probabilistic segmentation map, with each channel representing one class. In applications where the image grid size (e.g., when it is a 3D volume) and/or the number of labels is relatively large, the standard (baseline) approach can become prohibitively expensive for our computational resources. In this paper, we propose a simple yet effective method to address this challenge. In our approach, the segmentation network produces a single-channel output, while being conditioned on a single class label, which determines the output class of the network. Our method, called label conditioned segmentation (LCS), can be used to segment images with a very large number of classes, which might be infeasible for the baseline approach. We also demonstrate in the experiments that label conditioning can improve the accuracy of a given backbone architecture, likely, thanks to its parameter efficiency. Finally, as we show in our results, an LCS model can produce previously unseen fine-grained labels during inference time, when only coarse labels were available during training. We provide all of our code here: https://github.com/tym002/Label-conditioned-segmentation
+      <span class="actions"><a class="toggle_visibility" data-level="2">Hide abstract</a></span>
+    </span></div> </p>
+</li>
+<li>
+<p><div class="None poster">
+    <span class="title">
+      <a href="papers/F4.html">Video-based Computer-aided Laparoscopic Bleeding Management: a Space-time Memory Neural Network with Positional Encoding and Adversarial Domain Adaptation</a>
+    </span>
+    <span class="authors">Navid Rabbani, Callyane Seve, Nicolas Bourdel, Adrien Bartoli</span>
+    <ul class="links">
+      <li><a class="toggle_visibility" data-selector=".abstract" data-level="3">abstract</a></li><li><a href="https://openreview.net/pdf?id=kmV0i37vuCy">pdf</a></li><li><a href="https://openreview.net/forum?id=kmV0i37vuCy">reviews</a></li></ul><span class="abstract">
+      One of the main challenges in laparoscopic procedures is handling intraoperative bleeding. We propose video-based Computer-aided Laparoscopic Bleeding Management (CALBM) for early detection and management of intraoperative bleeding. Our system performs the online video-based segmentation of bleeding sources and displays them to the surgeon. It hinges on an improved space-time memory network, which we train from real and semi-synthetic data, using adversarial domain adaptation. Our system improves the IoU and F-Score from 69.97% to 73.40% and 50.23% to 58.09% in comparison to the baseline space-time memory network. It is far better than the prior CALBM systems based on still images, which we reimplemented with DeepLabV3+, reaching an IoU and F-Score of 65.86% and 43.19%. The improvement is also supported by user evaluation.
+      <span class="actions"><a class="toggle_visibility" data-level="2">Hide abstract</a></span>
+    </span></div> </p>
+</li>
+</ul>
+</div>
 <h2>Friday 8th July</h2>
 <p><a id="oral3-1"></a><h3>Oral Session 3.1: Trustworthy AI - 09:40 - 10:40 (UTC+2)</h3></p>
 <div class="papers">
