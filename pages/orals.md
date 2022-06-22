@@ -538,7 +538,7 @@ function showListCategories() {
 <li>
 <p><div class="None poster">
     <span class="title">
-      <a href="papers/B1.html">FBNETGEN: Task-aware GNN-based fMRI Analysis via Functional Brain Network Generation</a>
+      <a href="papers/B1.html">FBNETGEN: Task-aware GNN-based fMRI Analysis via Functional Brain Network Generation</a> (virtual presentation)
     </span>
     <span class="authors"> Xuan Kan, Hejie Cui, Joshua Lukemire, Ying Guo, Carl Yang</span>
     <ul class="links">
@@ -1040,7 +1040,7 @@ function showListCategories() {
 <li>
 <p><div class="None poster">
     <span class="title">
-      <a href="papers/D4.html">Domain Generalization for Retinal Vessel Segmentation with Vector Field Transformer</a>
+      <a href="papers/D4.html">Domain Generalization for Retinal Vessel Segmentation with Vector Field Transformer</a> (virtual presentation)
     </span>
     <span class="authors"> Dewei Hu, Hao Li, Han Liu, Ipek Oguz</span>
     <ul class="links">
@@ -1172,7 +1172,7 @@ function showListCategories() {
 <ul>
 <li><div class="xtai poster">
     <span class="title">
-      <a href="papers/C_S_1.html">Evaluation beyond y and p(y)</a>
+      <a href="papers/C_S_1.html">Evaluation beyond y and p(y)</a> 
     </span>
     <span class="authors"> Thijs Kooi</span>
     <ul class="links">
@@ -1343,7 +1343,7 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
 <li>
 <p><div class="None poster">
     <span class="title">
-      <a href="papers/E3.html">Interpretable Prediction of Lung Squamous Cell Carcinoma Recurrence With Self-supervised Learning</a>
+      <a href="papers/E3.html">Interpretable Prediction of Lung Squamous Cell Carcinoma Recurrence With Self-supervised Learning</a> (virtual presentation)
     </span>
     <span class="authors"> Weicheng Zhu, Carlos Fernandez-Granda, Narges Razavian</span>
     <ul class="links">
@@ -1801,7 +1801,7 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
 <li>
 <p><div class="None poster">
     <span class="title">
-      <a href="papers/F1.html">Memory-efficient Segmentation of Volumetric High-resolution MicroCT Images</a>
+      <a href="papers/F1.html">Memory-efficient Segmentation of Volumetric High-resolution MicroCT Images</a> (virtual presentation)
     </span>
     <span class="authors"> Yuan Wang, Laura Blackie, Irene Miguel-Aliaga, Wenjia Bai</span>
     <ul class="links">
@@ -1855,7 +1855,7 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
 <li>
 <p><div class="None poster">
     <span class="title">
-      <a href="papers/G1.html">Transformer-based out-of-distribution detection for clinically safe segmentation</a>
+      <a href="papers/G1.html">Transformer-based out-of-distribution detection for clinically safe segmentation</a> (virtual presentation)
     </span>
     <span class="authors"> Mark S Graham, Petru-Daniel Tudosiu, Paul Wright, Walter Hugo Lopez Pinaya, Jean-Marie U-King-Im, Yee Mah, James Teo, Rolf H. Jäger, David Werring, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardoso</span>
     <ul class="links">
@@ -2159,7 +2159,7 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
 <li>
 <p><div class="None poster">
     <span class="title">
-      <a href="papers/H1.html">Regularizing Brain Age Prediction via Gated Knowledge Distillation</a>
+      <a href="papers/H1.html">Regularizing Brain Age Prediction via Gated Knowledge Distillation</a> (virtual presentation)
     </span>
     <span class="authors"> Yanwu Yang, Guo Xutao, Chenfei Ye, Yang Xiang, Ting Ma</span>
     <ul class="links">
@@ -2592,7 +2592,7 @@ oindent Our code is publicly available:url{https:anonymous.4open.sciencerBoundar
 <li>
 <p><div class="None poster">
     <span class="title">
-      <a href="papers/I1.html">MedSelect: Selective Labeling for Medical Image Classification Using Meta-Learning</a>
+      <a href="papers/I1.html">MedSelect: Selective Labeling for Medical Image Classification Using Meta-Learning</a> (virtual presentation)
     </span>
     <span class="authors"> Damir Vrabac, Akshay Smit, Yujie He, Andrew Y. Ng, Andrew Beam, Pranav Rajpurkar</span>
     <ul class="links">
