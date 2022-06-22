@@ -40,6 +40,9 @@ Fetal imaging is conventionally carried out using ultrasound sonography as the m
 ### Professor for Bioimaging, Institute of Biomedical Engineering, ETH Zürich and University of Zürich
 
 #### 
+## **Richer data, better defined: Gearing up MRI for the learning age**
+
+Artificial intelligence is set to change the use and utility of medical image data in essential ways. It promises to overcome limitations of human observers in terms of information throughput, depth of analysis, and cost. One challenge that learning-based AI and human readers share, however, is the need for extensive, well-characterized training data. Scarcity of relevant clinical data is one of the chief obstacles to learning approaches. This prob- lem is exacerbated by variability in imaging conditions and perturbation by uncontrolled factors, which further boost the amount of data required for robust training. Our hypothesis is that medical imaging technology should react to this combination of opportunity and obstruction. It should seek to boost the baseline information content of image data for AI to reap while taking tighter control of imaging processes to minimize training overhead. We argue that these objectives are in order particularly for MRI, which taps great amounts and diversity of information but is notoriously susceptible to perturbations.
 
 **Biography:** Klaas Pruessmann studied Physics and Medicine at the University of Bonn, Germany, and graduated with a Physics Diploma in 1995. He received a Ph.D. in Physics from ETH Zurich in the year 2000. In 2002, he joined the ETH’s Department of Information Technology and Electrical Engineering as an Assistant Professor. Since 2005, he has been a Full Professor of Bioimaging at ETH, co-affiliated with the Faculty of Medicine of the University of Zurich. Since 2012, he heads the two schools’ joint Institute for Biomedical Engineering.
 
