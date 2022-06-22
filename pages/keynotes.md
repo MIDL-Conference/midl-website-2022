@@ -6,6 +6,7 @@ page_class: "keynotes"
 {% from "_macros.html" import youtube %}
 
 # Keynote speakers
+<p><a id="keynote1"></a></p>
 
 ## Dorin Comaniciu, PhD ![Portrait of Dorin Comaniciu](/images/keynotes/dorin_comaniciu_2.png){: width="180" }
 ### Senior Vice President, Artificial Intelligence and Digital Innovations, Siemens Healthineers 
@@ -19,6 +20,7 @@ We are concluding an exciting period of Artificial Intelligence (AI) Discovery i
 
 
 ***
+<p><a id="keynote2"></a></p>
 
 ## 	Prof. Dr. Julia Schnabel![Portrait of Julia Schnabel](/images/keynotes/julia_schnabel_2.png){: width="180" }
 ### Professor for Computational Imaging and AI in Medicine, Helmholtz Munich, Technical University of Munich and King's College London
@@ -34,13 +36,14 @@ Fetal imaging is conventionally carried out using ultrasound sonography as the m
  She has been elected Fellow of IEEE (2021), ELLIS (2019), and MICCAI Society (2018). She is currently Associate Editor of IEEE Transactions on Medical Imaging, IEEE Transactions on Pattern Analysis and Machine Intelligence, on the Editorial Board of Medical Image Analysis, and an Executive/Founding Editor of www.melba-journal.org, a free open-access journal on machine learning in biomedical imaging. She currently serves as elected Technical Representative on IEEE EMBS AdCom, on the IEEE EMBS Technical Committee on Biomedical Imaging and Image Processing (BIIP), as Executive Secretary to the MICCAI Board of Directors, and as member of ELLIS Health and ELLIS Munich. Julia has been Program Chair of MICCAI 2018, General Chair of WBIR 2016 and IPMI 2021, and will be General Chair of WBIR 2022 (to be held in Munich), and of MICCAI 2024 (to be held for the first time in Africa: Marrakech, Morocco).
 
 ***
+<p><a id="keynote3"></a></p>
 
 ## Prof. Dr. Klaas P. Prüssmann![Portrait of Klaas Pruessmann](/images/keynotes/klaas_pruessmann_crop.png){: width="180" }
 
 ### Professor for Bioimaging, Institute of Biomedical Engineering, ETH Zürich and University of Zürich
 
 #### 
-## **Richer data, better defined: Gearing up MRI for the learning age**
+### **Richer data, better defined: Gearing up MRI for the learning age**
 
 Artificial intelligence is set to change the use and utility of medical image data in essential ways. It promises to overcome limitations of human observers in terms of information throughput, depth of analysis, and cost. One challenge that learning-based AI and human readers share, however, is the need for extensive, well-characterized training data. Scarcity of relevant clinical data is one of the chief obstacles to learning approaches. This prob- lem is exacerbated by variability in imaging conditions and perturbation by uncontrolled factors, which further boost the amount of data required for robust training. Our hypothesis is that medical imaging technology should react to this combination of opportunity and obstruction. It should seek to boost the baseline information content of image data for AI to reap while taking tighter control of imaging processes to minimize training overhead. We argue that these objectives are in order particularly for MRI, which taps great amounts and diversity of information but is notoriously susceptible to perturbations.
 
