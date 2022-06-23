@@ -14,10 +14,67 @@ The conference will be held on the main central campus of ETH Zurich.
 
 The poster sessions, industry exhibition TBD -->
 
+### How to get there
+
+* From the “Bahnhofquai/HB” stop
+
+Tram no. 6 (towards the Zoo) as far as the “ETH/Universitätsspital” stop. Journey time: approx. 6 minutes
+
+* From the “Bahnhofstrasse/HB” stop
+
+Tram no. 10 (towards the Airport or Oerlikon station) as far as the “ETH/Universitätsspital” stop
+
+* From the “Bahnhofplatz/HB” stop
+
+Tram Nr. 3 (towards Klusplatz) as far as the “Central” stop (1 stop), from “Central” by Polybahn (departs every three minutes) to the Polyterrasse. Journey time: approx. 8 minutes
+
+You will require a ticket that is valid for zone 110 (city of Zurich).
+
+**From Zurich Airport**
+
+* From the “Zurich Airport” tram stop
+
+Tram no. 10 (towards Bahnhofplatz/HB) as far as the “ETH/Universitätsspital” stop. The tram runs every 7 to 15 minutes between 6 o’clock in the morning and 11 o’clock at night.
+
+Journey time: 30 minutes
+
+* By train
+
+If you wish to travel from the airport to the city center (Central Station), you are recommended to use the S-​Bahn or mainline services. The trains depart from the “Zurich Airport” station
+
+Journey time: approx. 10 minutes
+
+
 ## Wi-Fi Connection
 
 Visitors can connect to Wi-Fi in the venue by using "public" as network name. You need to enter your mobile number to receive a password. Further details can be found [on this website](https://unlimited.ethz.ch/display/itkb/Wi-Fi#WiFi-Guests).
 
+
+## Venue Details
+ 
+### Registration
+ 
+All delegates, speakers, and exhibitors must register on first arrival. The Registration Desk can be found at ETH main hall (HG) from 8:00 am every day. Delegates will be issued with a name badge and lanyard, which must be worn at all times at the conference.
+ 
+ 
+* Conference room @  ETH Main Building, Audimax.
+ 
+The conference venue takes place at the ETH Main Building, with its flexible, multi-purpose space.  Oral sessions take place at the Audimax. With its theatre space, it provides seating for up to 422 attendees in theatre mode.
+ 
+ 
+* Poster room @ ETH Main Building
+ 
+The poster sessions will take place in the foyers E, EO North, and South and Foyer/gallery F of the ETH Main Building.
+ 
+ 
+* Coffee breaks & lunches
+ 
+Coffee breaks and lunches are included in the registration fee. During the coffee breaks light snacks will be available. Coffee breaks and lunches will be served in ETH main hall.
+Lunch will be served at the ETH Mensa and other ETH restaurants.
+
+## Site Map
+
+![Site Map](/images/Site_map.jpg)
 
 ## Accommodation Options 
 
@@ -72,12 +129,12 @@ Hotels closer to the airport:
         Image credit: Zürich Tourismus
     </span>
 
-## Travel Information
+<!-- ## Travel Information
 
 <img alt="Zurich Travel Information" src="/images/zurich_info.jpg">
     <span class="credits">
         Image credit: Zürich Tourismus
-    </span>
+    </span> -->
 
 ## Gala Dinner
 
