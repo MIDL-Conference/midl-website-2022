@@ -255,7 +255,7 @@ jQuery(document).ready(function($) {
 		<td id='t01' class='col1' rowspan=2 height="25" align="right" valign=top  >23:30</td>
 		<td id='t00' class='col2' rowspan=2 align="right" valign=top  >08:30</td>
 		<td id='t01' rowspan=2 align="right" valign=top  >14:30</td>
-		<td id='cmentor' rowspan=9 align="center" valign=middle  ><a href='tutorials.html'>Tutorial I</a></td>
+		<td id='cmentor' rowspan=9 align="center" valign=middle  ><a href='tutorials.html#tutorial1'>Tutorial I: Causality: Models, Learning, and Invariance</a></td>
 		<td id='cshort' colspan=3 rowspan=2 align="center" valign=middle >Registration, Poster Setup</td>
 		<td id='cmentor' rowspan=27 align="center" valign=middle  ><a href='doctoral-symposium.html'>Doctoral Symposium</a></td>
 	</tr>
@@ -330,7 +330,7 @@ jQuery(document).ready(function($) {
 		<td id='t01' class='col1' rowspan=3 height="32" align="right" valign=top >05:00</td>
 		<td id='t00' class='col2' rowspan=3 align="right" valign=top >14:00</td>
 		<td id='t01' rowspan=3 align="right" valign=top >20:00</td>
-		<td id='cmentor' rowspan=9 align="center" valign=middle  ><a href='tutorials.html'>Tutorial II</a></td>
+		<td id='cmentor' rowspan=9 align="center" valign=middle  ><a href='tutorials.html#tutorial2'>Tutorial II: Graph Neural Networks</a></td>
 		<td id='ckeynote' rowspan=3 align="center" valign=middle ><a href='keynotes.html#keynote1'>Keynote: Dorin Comaniciu </a></td>
 		<td id='ckeynote' rowspan=3 align="center" valign=middle  ><a href='keynotes.html#keynote2'>Keynote: Julia Schnabel</a></td>
 		<td id='ckeynote' rowspan=3 align="center" valign=middle  ><a href='keynotes.html#keynote3'>Keynote: Klaas Prüssmann</a></td>
