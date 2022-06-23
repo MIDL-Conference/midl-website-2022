@@ -22,9 +22,8 @@ causal inference, graphical models, high-dimensional statistics, and statistical
 
 <p><a id="tutorial2"></a></p>
 
-## Prof. Dr. Roger Wattenhofer
-### Florian Grötschla, Joël Mathys 
-# ![Portrait of Florian Grötschla ](/images/tutorials/florian_grotschla.jpg){: width="130" } ![Portrait of Roger Wattenhofer](/images/tutorials/roger_wattenhofer.jpg){: width="180" } ![Portrait of Joël Mathys](/images/tutorials/joel_mathys.jpg){: width="130" }
+## Prof. Dr. Roger Wattenhofer 
+### Florian Grötschla, Joël Mathys![Portrait of Florian Grötschla,Roger Wattenhofer and Joël Mathys ](/images/tutorials/roger_joel_florian.jpg){: width="220" } 
 
 ### **Graph Neural Networks**
 
