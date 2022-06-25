@@ -72,9 +72,6 @@ The poster sessions will take place in the foyers E, EO North, and South and Foy
 Coffee breaks and lunches are included in the registration fee. During the coffee breaks light snacks will be available. Coffee breaks and lunches will be served in ETH main hall.
 Lunch will be served at the ETH Mensa and other ETH restaurants.
 
-## Site Map
-
-![Site Map](/images/Site_map.jpg)
 
 ## Accommodation Options 
 
