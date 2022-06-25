@@ -6,21 +6,28 @@ page_class: "sponsors"
 <h1 class="midl">Medical&nbsp;Imaging with Deep&nbsp;Learning</h1>
 <h2 class="midl">Zürich, 6 &ndash; 8 July 2022</h2>
 
+
+We are hoping to see many of you at Zurich for MIDL 2022!
+The conference is planned as a hybrid event.
+
+The information about the conference venue can be found on [conference venue page](/venue.html).
+
+The [program at a glance](/program.html), [detailed program of all papers](/orals.html), [site map](/sitemap.html) of the onsite sessions are available online.
+
+You can find here the [keynotes](/keynotes.html).
+<!-- The information about the registration is available on [registration page](/registration.html).
+You can find here the [call for papers](/call-for-papers.html), [important dates](/dates.html),
+[author instructions](/author-instructions.html), information about the [conference venue](/venue.html). -->
+ <!-- and details about [registration for the conference /TBA](/registration.html). -->
+
+Questions and inquiries can be addressed directly to [2022@midl.io](mailto:2022@midl.io).
+
 <p class="primary-photo centered">
     <img alt="ETH Zurich and University of Zurich" src="/images/eth-university-zurich.jpg">
     <span class="credits">
         Image credit: ETH Zürich / Marco Carocari
     </span>
 </p>
-
-We are hoping to see many of you at Zurich for MIDL 2022!
-The conference is planned as a hybrid event.
-The information about the registration is available on [registration page](/registration.html).
-You can find here the [call for papers](/call-for-papers.html), [important dates](/dates.html),
-[author instructions](/author-instructions.html), information about the [conference venue](/venue.html).
- <!-- and details about [registration for the conference /TBA](/registration.html). -->
-
-Questions and inquiries can be addressed directly to [2022@midl.io](mailto:2022@midl.io).
 
 <!-- ## Call for Reviewers
 
