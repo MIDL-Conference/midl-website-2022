@@ -26,7 +26,7 @@ page_class: "paper"
 
 <p>
     <span class="schedule">
-        Thursday 7th July<br>Poster Session 2.2 - onsite 11:00 - 12:00, virtual 15:20 - 16:20 (UTC+2)
+        <!-- Thursday 7th July<br>Poster Session 2.2 - onsite 11:00 - 12:00, virtual 15:20 - 16:20 (UTC+2) -->
         <br>
         <span class="actions"><a class="toggle_visibility" data-level="2">Hide schedule</a></span>
     </span>
