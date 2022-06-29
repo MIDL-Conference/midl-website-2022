@@ -66,5 +66,8 @@ nav:
   - title: "COVID-19"
     path: "/covid-19.html"
     icon: "syringe"
+  - title: "Conference Booklet"
+    path: "/booklet.html"
+    icon: "book"
 
 cdn: "https://static.midl.io"
