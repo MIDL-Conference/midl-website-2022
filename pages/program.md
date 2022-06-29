@@ -257,7 +257,7 @@ jQuery(document).ready(function($) {
 		<td id='t01' rowspan=2 align="right" valign=top  >14:30</td>
 		<td id='cmentor' rowspan=9 align="center" valign=middle  ><a href='tutorials.html#tutorial1'>Tutorial I: Causality: Models, Learning, and Invariance</a></td>
 		<td id='cshort' colspan=3 rowspan=2 align="center" valign=middle >Registration, Poster Setup</td>
-		<td id='cmentor' rowspan=27 align="center" valign=middle  ><a href='doctoral-symposium.html'>Doctoral Symposium</a></td>
+		<td id='cmentor' rowspan=31 align="center" valign=middle  ><a href='doctoral-symposium.html'>Doctoral Symposium</a></td>
 	</tr>
 	<tr>
 		</tr>
@@ -300,20 +300,24 @@ jQuery(document).ready(function($) {
 		<td id='t00' class='col2' align="right" valign=top  >12:00</td>
 		<td id='t01' align="right" valign=top >18:00</td>
 		<td align="left" valign=bottom><br></td>
-		<td id='cspecial' align="center" valign=middle  >Sponsor event / Lunch</td>
-		<td id='cspecial' align="center" valign=middle  >Sponsor event / Lunch</td>
-		<td id='cspecial' align="center" valign=middle  >Sponsor event / Lunch</td>
+		<td id='cspecial' align="center" valign=middle  >Sponsor event: AWS</td>
+		<td id='cspecial' align="center" valign=middle  >Sponsor event: Siemens Healthineers</td>
+		<td id='cspecial' align="center" valign=middle  >Sponsor event: Align Technology</td>
 		</tr>
 	<tr>
-		<td id='t01' class='col1' rowspan=3 height="32" align="right" valign=top  >03:20</td>
-		<td id='t00' class='col2' rowspan=3 align="right" valign=top >12:20</td>
-		<td id='t01' rowspan=3 align="right" valign=top >18:20</td>
-		<td rowspan=3 align="left" valign=bottom><br></td>
-		<td id='cshort' colspan=3 rowspan=3 align="center" valign=middle >Lunch</td>
+		<td id='t01' class='col1' rowspan=1 height="32" align="right" valign=top  >03:20</td>
+		<td id='t00' class='col2' rowspan=1 align="right" valign=top >12:20</td>
+		<td id='t01' rowspan=1 align="right" valign=top >18:20</td>
+		<td rowspan=1 align="left" valign=bottom><br></td>
+		<td id='cspecial' align="center" valign=middle  >Sponsor event: ImFusion</td>
+		<td id='cshort' colspan=2 rowspan=1 align="center" valign=middle >Lunch</td>
 		</tr>
 	<tr>
-		</tr>
-	<tr>
+		<td id='t01' class='col1' rowspan=1 height="32" align="right" valign=top  >03:40</td>
+		<td id='t00' class='col2' rowspan=1 align="right" valign=top >12:40</td>
+		<td id='t01' rowspan=1 align="right" valign=top >18:40</td>
+		<td rowspan=1 align="left" valign=bottom><br></td>
+		<td id='cshort' colspan=3 rowspan=1 align="center" valign=middle >Lunch</td>
 		</tr>
 	<tr>
 		<td id='t01' class='col1' rowspan=2 height="25" align="right" valign=top  >04:20</td>
@@ -393,7 +397,7 @@ jQuery(document).ready(function($) {
 		<td rowspan=6 align="left" valign=bottom><br></td>
 		<td id='cshort_v' rowspan=7 align="center" valign=middle  >Gala Dinner</td>
 		<td rowspan=6 align="left" valign=middle><br></td>
-		<td rowspan=6 align="left" valign=bottom><br></td>
+		<!-- <td rowspan=6 align="left" valign=bottom><br></td> -->
 	</tr>
 	<tr>
 		</tr>
