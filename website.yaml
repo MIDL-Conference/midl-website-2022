@@ -67,7 +67,7 @@ nav:
     path: "/covid-19.html"
     icon: "syringe"
   - title: "Conference Booklet"
-    path: "/booklet.html"
+    path: "/assets/logos/booklet_online_lowres_compressed.pdf"
     icon: "book"
 
 cdn: "https://static.midl.io"
