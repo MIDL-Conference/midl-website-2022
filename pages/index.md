@@ -73,6 +73,8 @@ Due to large number of requests, requirements to register an abstract for the co
 [![Amazon](/images/sponsors/aws.jpg){: height="60"}](https://aws.amazon.com)
 [% / %]
 
+---
+
 ### Silver sponsors
 
 [% .logos %]
