@@ -4,6 +4,14 @@ title: "Social events"
 
 # Social events
 
+<p><a id="reception"></a></p>
+## Reception & Get Together
+Come and join the reception and welcome event right after the end of the first day in MIDL, which is fully included in the conference registration. There will be drinks and snacks.
+
+**Venue:** ETH main building
+**Time:** Wednesday, July 6th, 17:20 – 18:00
+
+<p><a id="run"></a></p>
 ## Sports Event: MIDL RUN 2022
 Make sure to pack your running shoes when you go to MIDL 2022 in Zürich! With green surroundings, Zürich offers excellent opportunities for running and walking. On the morning of July 7th, Thursday, we are organizing a joint 5 km long run on Züriberg. The track goes through the forest and offering great views over Zürich. 
 
@@ -26,7 +34,8 @@ If you have any questions, please contact Jonatan Kronander on +41 77 986 9621 o
 
 No registration necessary. Tickets to the meeting point will be covered by the participants themselves.
 
----
+
+<p><a id="galadinner"></a></p>
 
 ## Gala Dinner
 

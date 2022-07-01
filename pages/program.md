@@ -7,6 +7,8 @@ page_class: "keynotes"
 
 The poster presentation sessions take place simultaneously in the main hall of the conference and the online platform IStage, with time slots both in the morning and the afternoon.
 
+[Download the program as calendar](webcal://p31-caldav.icloud.com/published/2/ODEzODI3NjUwMTgxMzgyN4j-1CBSAF_ddnMfMDEdcgo0woo4Ch7gtub7SLoJf6EecX91tgPRPapP8BRgdvl2j_zaOAT2KCt9_Ogl6N5x2xo)
+
 <style>
 #program, #program th, #program td {
     border: 1px solid gray;
@@ -247,7 +249,7 @@ jQuery(document).ready(function($) {
 		<td id='t01' rowspan=1 align="right" valign=top  >14:00</td>
 		<td align="left" valign=bottom><br></td>
 		<td align="left" valign=bottom><br></td>
-		<td id='cspecial' align="center" valign=middle><a href='social.html' style='color:white'>Sports Event</a></td>
+		<td id='cspecial' align="center" valign=middle><a href='social.html#run' style='color:white'>Sports Event</a></td>
 		<td align="left" valign=bottom><br></td>
 		<td align="left" valign=bottom><br></td>
 	</tr>
@@ -379,7 +381,7 @@ jQuery(document).ready(function($) {
 		<td id='t00' class='col2' align="right" valign=bottom >17:20</td>
 		<td id='t01' align="right" valign=bottom  >23:20</td>
 		<td align="left" valign=bottom><br></td>
-		<td id='cshort_v' rowspan=5 align="center" valign=middle  >Get together</td>
+		<td id='cshort_v' rowspan=5 align="center" valign=middle  ><a href='social.html#reception' style='color:white'>Get together</a></td>
 		<td align="left" valign=middle><br></td>
 		<td id='cshort_v' align="center" valign=middle  >Awards</td>
 	<tr>
@@ -395,7 +397,7 @@ jQuery(document).ready(function($) {
 		<td id='t00' lass='col2' rowspan=6 align="right" valign=top  >18:00</td>
 		<td id='t01' rowspan=6 align="right" valign=top  >00:00</td>
 		<td rowspan=6 align="left" valign=bottom><br></td>
-		<td id='cshort_v' rowspan=7 align="center" valign=middle  >Gala Dinner</td>
+		<td id='cshort_v' rowspan=7 align="center" valign=middle  ><a href='social.html#galadinner' style='color:white'>Gala Dinner</a></td>
 		<td rowspan=6 align="left" valign=middle><br></td>
 		<!-- <td rowspan=6 align="left" valign=bottom><br></td> -->
 	</tr>
