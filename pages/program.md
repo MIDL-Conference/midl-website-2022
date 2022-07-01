@@ -7,7 +7,8 @@ page_class: "keynotes"
 
 The poster presentation sessions take place simultaneously in the main hall of the conference and the online platform IStage, with time slots both in the morning and the afternoon.
 
-[Download the program as calendar](webcal://p31-caldav.icloud.com/published/2/ODEzODI3NjUwMTgxMzgyN4j-1CBSAF_ddnMfMDEdcgo0woo4Ch7gtub7SLoJf6EecX91tgPRPapP8BRgdvl2j_zaOAT2KCt9_Ogl6N5x2xo)
+<a href="/assets/MIDL2022.ics" download>Download the program as calendar (.ics)</a>
+
 
 <style>
 #program, #program th, #program td {
