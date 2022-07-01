@@ -48,7 +48,6 @@ With its renovation in 2020, Gasthaus Albisgütli brings a new world of experien
 We are looking forward to welcoming you at the Gasthaus Albisgütli to enjoy a unique night out in this iconic venue.
 
 **Venue:**
-
 [Gasthaus Albisgütli](https://g.page/Albisguetli?share) 
 Uetlibergstrasse 341
 8045 Zurich
