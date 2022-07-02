@@ -31,7 +31,9 @@ Deep learning traditionally deals with structured and ordered inputs: simple sca
 
 In the first part of this tutorial we will discuss the fundamentals of GNNs. How do GNNs work, and what are the main challenges when we deal with graphical inputs. What are oversmoothing, underreaching, or oversquashing, and why do they bother a GNN? What are the connections of GNNs to distributed algorithms and the graph isomorphism problem? Why are GNNs good to discuss extrapolation, and other grand challenges in deep learning? And what are some of the most recent developments in GNN research?
 
-The second part of the tutorial will be hands-on. You get to know the PyTorch Geometric library, and you will use that library to implement your first GNN and learn how to customize them. To take part in the practical session, a laptop with internet access is enough. We prepared a few challenges on Colab and Kaggle for you to solve, in particular you will try to find your way in a maze.     
+The second part of the tutorial will be hands-on. You get to know the PyTorch Geometric library, and you will use that library to implement your first GNN and learn how to customize them. To take part in the practical session, a laptop with internet access is enough. We prepared a few challenges on Colab and Kaggle for you to solve, in particular you will try to find your way in a maze. 
+
+[Here's the notebook for the practical part of the tutorial.](https://colab.research.google.com/drive/1k7etoNBuAVpInNafAId-zcW1H8Ih6FMw?usp=sharing)
 
 #### 
 
