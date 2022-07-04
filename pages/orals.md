@@ -812,16 +812,6 @@ function showListCategories() {
       This paper presents ClinicaDL, a deep learning software for neuroimaging processing. Its aim is to provide a concrete solution to methodological flaws often found in our field (the difficult use of neuroimaging data sets, data leakage and insufficient reproducibility), but also to raise awareness and discuss these issues with our community. The corresponding journal paper was recently accepted in Computer Methods and Programs in Biomedicine.
       <span class="actions"><a class="toggle_visibility" data-level="2">Hide abstract</a></span>
     </span></div></li>
-<li><div class="xtai poster">
-    <span class="title">
-      <a href="papers/B_S_8.html">Clustered-CAM: Visual Explanations for Deep Convolutional Networks for Thyroid Nodule Ultrasound Image Classification</a>
-    </span>
-    <span class="authors"> Ali Eskandari, Hongbo Du, ALAA ALZOUBI</span>
-    <ul class="links">
-      <li><a class="toggle_visibility" data-selector=".abstract" data-level="3">abstract</a></li><li><a href="https://openreview.net/pdf?id=wwpkJsAiIjH">pdf</a></li><li><a href="https://openreview.net/forum?id=wwpkJsAiIjH">reviews</a></li></ul><span class="abstract">
-      Explaining the CNN classification decision is crucial for the system acceptance in critical applications such as tumour recognition in 2D Ultrasound images. Generating saliency maps that highlight the image regions contributing to the final CNN decision is one of the most common techniques. In this paper, we propose a clustering-based approach to group similar feature maps before assigning importance scores to produce a more accurate and less sensitive visual explanation for CNN models for thyroid nodule classification in US images. Our study with a dataset of 864 ultrasound images shows that the Clustered-CAM achieved a lower average drop and higher percent increase in confidence comparing to the-state-of-the-art techniques. We demonstrate that Clustered-CAM is an effective and promising approach for visualising the CNN model decisions for thyroid nodule recognition.
-      <span class="actions"><a class="toggle_visibility" data-level="2">Hide abstract</a></span>
-    </span></div></li>
 <li><div class="rs poster">
     <span class="title">
       <a href="papers/B_S_9.html">On the performance of learned and fixed-framelet shrinkage networks for low-dose CT denoising</a>
@@ -2149,6 +2139,16 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
     <ul class="links">
       <li><a class="toggle_visibility" data-selector=".abstract" data-level="3">abstract</a></li><li><a href="https://openreview.net/pdf?id=aQchDrGRkM-">pdf</a></li><li><a href="https://openreview.net/forum?id=aQchDrGRkM-">reviews</a></li></ul><span class="abstract">
       This work explores automatic analysis of medical procedure recordings, in particular, endoscopies. Regular medical practice recordings are noisy and challenging to process, so a quick and automatic overview of their content is essential. We show how advances in unsupervised representation learning can be applied to real medical data, obtaining rich descriptors to perform automatic semantic analysis of these recordings.
+      <span class="actions"><a class="toggle_visibility" data-level="2">Hide abstract</a></span>
+    </span></div></li>
+<li><div class="xtai poster">
+    <span class="title">
+      <a href="papers/E_S_14.html">Clustered-CAM: Visual Explanations for Deep Convolutional Networks for Thyroid Nodule Ultrasound Image Classification</a>
+    </span>
+    <span class="authors"> Ali Eskandari, Hongbo Du, Alaa Alzoubi</span>
+    <ul class="links">
+      <li><a class="toggle_visibility" data-selector=".abstract" data-level="3">abstract</a></li><li><a href="https://openreview.net/pdf?id=wwpkJsAiIjH">pdf</a></li><li><a href="https://openreview.net/forum?id=wwpkJsAiIjH">reviews</a></li></ul><span class="abstract">
+      Explaining the CNN classification decision is crucial for the system acceptance in critical applications such as tumour recognition in 2D Ultrasound images. Generating saliency maps that highlight the image regions contributing to the final CNN decision is one of the most common techniques. In this paper, we propose a clustering-based approach to group similar feature maps before assigning importance scores to produce a more accurate and less sensitive visual explanation for CNN models for thyroid nodule classification in US images. Our study with a dataset of 864 ultrasound images shows that the Clustered-CAM achieved a lower average drop and higher percent increase in confidence comparing to the-state-of-the-art techniques. We demonstrate that Clustered-CAM is an effective and promising approach for visualising the CNN model decisions for thyroid nodule recognition.
       <span class="actions"><a class="toggle_visibility" data-level="2">Hide abstract</a></span>
     </span></div></li>
 </ul>
