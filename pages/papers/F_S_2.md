@@ -7,7 +7,7 @@ page_class: "paper"
 
 # Automatic Extraction of Spinopelvic Parameters Using Deep Learning to Detect Landmarks as Objects
 
-#### AliAsghar MohammadiNasrabadi, William McNally, Gemah Moammer, John McPhee
+#### Ali Asghar Mohammadi Nasrabadi, William McNally, Gemah Moammer, John McPhee
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

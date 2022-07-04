@@ -7,7 +7,7 @@ page_class: "paper"
 
 # Classification and Segmentation of Vulvovaginal Candidiasis in Microscopic Leucorrhea Images Based on Combined Deep Learning Model
 
-#### Yiyao Ma, yifei xu, Wei Li
+#### Yiyao Ma, Yifei Xu, Wei Li
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

@@ -7,7 +7,7 @@ page_class: "paper"
 
 # CAD-RADS Scoring using Deep Learning and Task-Specific Centerline Labeling
 
-#### Felix Denzinger, Michael Wels, Oliver Taubmann, Mehmet Akif Gülsün, Max Schöbinger, Florian André, Sebastian Buß, Johannes Görich, Michael Suehling, Andreas Maier, Katharina Breininger
+#### Felix Denzinger, Michael Wels, Oliver Taubmann, Mehmet Akif Gülsün, Max Schöbinger, Florian André, Sebastian Buss, Johannes Görich, Michael Suehling, Andreas Maier, Katharina Breininger
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

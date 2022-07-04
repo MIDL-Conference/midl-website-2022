@@ -7,7 +7,7 @@ page_class: "paper"
 
 # Breathing Freely: Self-supervised Liver T1rho Mapping from A Single T1rho-weighted Image
 
-#### Chaoxing Huang, Yurui Qian, Jian Hou, Baiyan Jiang, Queenie Chan, Vincent Wong, Winnie Chiu Wing Chu, Weitian Chen
+#### Chaoxing Huang, Yurui Qian, Jian Hou, Baiyan Jiang, Queenie Chan, Vincent Wong, Winne Chu, Weitian Chen
 
 [% .details %]
 <a class="toggle_visibility" data-selector=".abstract" data-level="3">Show abstract</a>

@@ -269,7 +269,7 @@ function showListCategories() {
     <span class="title">
       <a href="papers/A_L_15.html">Learning Shape Reconstruction from Sparse Measurements with Neural Implicit Functions</a>
     </span>
-    <span class="authors"> Tamaz Amiranashvili, David Lüdke, Hongwei Li, bjoern menze, Stefan Zachow</span>
+    <span class="authors"> Tamaz Amiranashvili, David Lüdke, Hongwei Li, Bjoern Menze, Stefan Zachow</span>
     <ul class="links">
       <li><a class="toggle_visibility" data-selector=".abstract" data-level="3">abstract</a></li><li><a href="https://openreview.net/pdf?id=UuHtdwRXkzw">pdf</a></li><li><a href="https://openreview.net/forum?id=UuHtdwRXkzw">reviews</a></li></ul><span class="abstract">
       Reconstructing anatomical shapes from sparse or partial measurements relies on prior knowledge of shape variations that occur within a given population. Such shape priors are learned from example shapes, obtained by segmenting volumetric medical images. For existing models, the resolution of a learned shape prior is limited to the resolution of the training data. However, in clinical practice, volumetric images are often acquired with highly anisotropic voxel sizes, e.g.\ to reduce image acquisition time in MRI or radiation exposure in CT imaging. The missing shape information between the slices prohibits existing methods to learn a high-resolution shape prior. We introduce a method for high-resolution shape reconstruction from sparse measurements without relying on high-resolution ground truth for training. Our method is based on neural implicit shape representations and learns a continuous shape prior only from highly anisotropic segmentations. Furthermore, it is able to learn from shapes with a varying field of view and can reconstruct from various sparse input configurations. We demonstrate its effectiveness on two anatomical structures: vertebra and femur, and successfully reconstruct high-resolution shapes from sparse segmentations, using as few as three orthogonal slices.
@@ -354,7 +354,7 @@ function showListCategories() {
     <span class="title">
       <a href="papers/A_S_2.html">Classification and Segmentation of Vulvovaginal Candidiasis in Microscopic Leucorrhea Images Based on Combined Deep Learning Model</a>
     </span>
-    <span class="authors"> Yiyao Ma, yifei xu, Wei Li</span>
+    <span class="authors"> Yiyao Ma, Yifei Xu, Wei Li</span>
     <ul class="links">
       <li><a class="toggle_visibility" data-selector=".abstract" data-level="3">abstract</a></li><li><a href="https://openreview.net/pdf?id=_wSgnVQJnN8">pdf</a></li><li><a href="https://openreview.net/forum?id=_wSgnVQJnN8">reviews</a></li></ul><span class="abstract">
       Vulvovaginal Candidiasis (VVC) is a common and serious gynecological disease. Early diagnosis and treatment are of great significance to women&apos;s health. However, most hospitals still use manual diagnosis method, which is not only inefficient but also unstable. This paper proposes a VVC image classification and recognition method based on computer vision and deep learning. Our models can greatly reduce the workload of doctors and improve detection efficiency and stability.After testing on 480 samples, our model has reached 92\% accuracy, 93\% recall and 97\%AUC with 23M parameters. The overall performance is superior to the best baseline model that we obtain 93\% accuracy, 92\% recall and 96\%AUC with 56M parameters. Besides, we are the first known paper to propose detection targets for pathogenic bacteria, using different colored rectangles to encircle different types of bacteria. 
@@ -432,7 +432,7 @@ function showListCategories() {
     </span></div></li>
 <li><div class="seg poster">
     <span class="title">
-      <a href="papers/A_S_10.html">Deep Learning for Automatic Segmentation of Background Parenchymal Enhancement in Breast MRI.</a>
+      <a href="papers/A_S_10.html">Deep Learning for Automatic Segmentation of Background Parenchymal Enhancement in Breast MRI</a>
     </span>
     <span class="authors"> Sylwia Nowakowska, Karol Borkowski, Carlotta Ruppert, Patryk Hejduk, Alexander Ciritsis, Anna Landsmann, Magda Macron, Nicole Berger, Andreas Boss, Cristina Rossi</span>
     <ul class="links">
@@ -444,7 +444,7 @@ function showListCategories() {
     <span class="title">
       <a href="papers/A_S_11.html">SwinFPN: Leveraging Vision Transformers for 3D Organs-At-Risk Detection</a>
     </span>
-    <span class="authors"> Bastian Wittmann, Suprosanna Shit, Fernando Navarro, Jan C. Peeken, Stephanie E. Combs, bjoern menze</span>
+    <span class="authors"> Bastian Wittmann, Suprosanna Shit, Fernando Navarro, Jan C. Peeken, Stephanie E. Combs, Bjoern Menze</span>
     <ul class="links">
       <li><a class="toggle_visibility" data-selector=".abstract" data-level="3">abstract</a></li><li><a href="https://openreview.net/pdf?id=yiIz7DhgRU5">pdf</a></li><li><a href="https://openreview.net/forum?id=yiIz7DhgRU5">reviews</a></li></ul><span class="abstract">
       Current state-of-the-art detection algorithms operating on 2D natural images utilize the relation modeling capability of vision transformers to increase detection performance. However, the feasibility of adapting vision transformers for the 3D medical object detection task remains largely unexplored. To this end, we attempt to leverage vision transformers for organs-at-risk detection and propose a novel feature extraction backbone, dubbed SwinFPN, which exploits the concept of shifted window-based self-attention. We combine SwinFPN with Retina U-Net&apos;s head networks and report superior detection performances. Code for SwinFPN will be available in our medical vision transformer library https://github.com/bwittmann/transoar.
@@ -484,7 +484,7 @@ function showListCategories() {
     <span class="title">
       <a href="papers/A_S_15.html">Looking for abnormalities using asymmetrical information from bilateral mammograms</a>
     </span>
-    <span class="authors"> XIN WANG, Yuan Gao, Tianyu Zhang, Luyi Han, Regina Beets-Tan, Ritse Mann</span>
+    <span class="authors"> Xin Wang, Yuan Gao, Tianyu Zhang, Luyi Han, Regina Beets-Tan, Ritse Mann</span>
     <ul class="links">
       <li><a class="toggle_visibility" data-selector=".abstract" data-level="3">abstract</a></li><li><a href="https://openreview.net/pdf?id=FsGMbJwz4jG">pdf</a></li><li><a href="https://openreview.net/forum?id=FsGMbJwz4jG">reviews</a></li></ul><span class="abstract">
       Radiologists commonly compare the bilateral mammograms to detect asymmetric abnormalities. While fibroglandular tissue is normally quite symmetrically distributed, lesions in one breast and will only rarely have a counterpart in the corresponding area of the opposite breast. Motivated by this experience, we explore a model that can learn to detect asymmetrical information from bilateral mammograms and then find the abnormal areas, similar to what a radiologist does. This can increase model performance and interpretability. We evaluate the proposed methods on the popular INBreast dataset and show improved performance in abnormal classification and weakly supervised segmentation tasks.
@@ -494,7 +494,7 @@ function showListCategories() {
     <span class="title">
       <a href="papers/A_S_16.html">On the pitfalls of deep image segmentation for lightsheet microscopy</a>
     </span>
-    <span class="authors"> Rami Al-Maskari, Johannes C. Paetzold, Izabela Horvath, Ali Erturk, bjoern menze</span>
+    <span class="authors"> Rami Al-Maskari, Johannes C. Paetzold, Izabela Horvath, Ali Erturk, Bjoern Menze</span>
     <ul class="links">
       <li><a class="toggle_visibility" data-selector=".abstract" data-level="3">abstract</a></li><li><a href="https://openreview.net/pdf?id=3Krfu84W-Wx">pdf</a></li><li><a href="https://openreview.net/forum?id=3Krfu84W-Wx">reviews</a></li></ul><span class="abstract">
       Fluorescence light sheet microscopy (LSM) of tissue cleared samples enables holistic 3D imaging of the human brain and the full murine body. While this novel imaging method creates high resolution scans and has led to an abundance of high-profile publications in the last 5 years, analysing them is not trivial and comes with complex obstacles. In this paper we present a review and discussion of our groups previous works to present best practices on both animal and human scans and guidelines to overcome these obstacles
@@ -661,7 +661,7 @@ function showListCategories() {
     <span class="title">
       <a href="papers/B_L_9.html">Deep Learning Radiographic Assessment of Pulmonary Edema: Training with Serum Biomarkers</a>
     </span>
-    <span class="authors"> Justin Huynh, Samira Masoudi, Abraham Noorbakhsh, Amin Mahmoodi, kyle Hasenstab, Micheal Pazzani, Albert Hsiao</span>
+    <span class="authors"> Justin Huynh, Samira Masoudi, Abraham Noorbakhsh, Amin Mahmoodi, Kyle Hasenstab, Micheal Pazzani, Albert Hsiao</span>
     <ul class="links">
       <li><a class="toggle_visibility" data-selector=".abstract" data-level="3">abstract</a></li><li><a href="https://openreview.net/pdf?id=NyxXpTbHUCJ">pdf</a></li><li><a href="https://openreview.net/forum?id=NyxXpTbHUCJ">reviews</a></li></ul><span class="abstract">
       A major obstacle faced when developing convolutional neural networks (CNNs) for medical imaging is the acquisition of training labels: most current approaches rely on manually prescribed labels from physicians, which are time consuming and labor intensive to attain. Clinical biomarkers, often measured alongside medical images and used in diagnostic workup, may provide a rich set of data that can be collected retrospectively and utilized to train diagnostic models. In this work, we focused on the blood serum biomarkers BNP and BNPP, indicative of acute heart failure (HF) and cardiogenic pulmonary edema, paired with the chest X-ray imaging modality. We investigated the potential for inferring BNP and BNPP from chest radiographs. For this purpose, a CNN was trained using 28090 radiographs to automatically infer BNP and BNPP, and achieved strong performance ($AUC=0.903$, $r=0.787$). Since radiographic features of pulmonary edema may not be visible on low resolution images, we also assessed the impact of image resolution on model learning and performance, comparing CNNs trained at five image sizes ($64    imes64$ to $1024    imes1024$). With comparable AUC values obtained at different resolutions, our experiments using three activation mapping techniques (saliency, Grad-CAM, XRAI) revealed considerable in-lung attention growth with increased resolution. The highest resolution models focus attention on the lungs, necessary for radiographic diagnosis of pulmonary edema. Our results emphasize the need to utilize radiographs of near-native resolution for optimal CNN performance, not fully captured by summary metrics like AUC.
@@ -1049,7 +1049,7 @@ function showListCategories() {
     <span class="title">
       <a href="papers/C_L_1.html">Breathing Freely: Self-supervised Liver T1rho Mapping from A Single T1rho-weighted Image</a>
     </span>
-    <span class="authors"> Chaoxing Huang, Yurui Qian, Jian Hou, Baiyan Jiang, Queenie Chan, Vincent Wong, Winnie Chiu Wing Chu, Weitian Chen</span>
+    <span class="authors"> Chaoxing Huang, Yurui Qian, Jian Hou, Baiyan Jiang, Queenie Chan, Vincent Wong, Winne Chu, Weitian Chen</span>
     <ul class="links">
       <li><a class="toggle_visibility" data-selector=".abstract" data-level="3">abstract</a></li><li><a href="https://openreview.net/pdf?id=x5GYGP2cPI9">pdf</a></li><li><a href="https://openreview.net/forum?id=x5GYGP2cPI9">reviews</a></li></ul><span class="abstract">
       Quantitative $T1rho$ imaging is a promising technique for assessment of chronic liver disease. The standard approach requires acquisition of multiple $T1rho$-weighted images of the liver to quantify $T1rho$ relaxation time. The quantification accuracy can be affected by respiratory motion if the subjects cannot hold the breath during the scan.  To tackle this problem, we propose a self-supervised mapping method by taking only one $T1rho$-weighted image to do the mapping. Our method takes into account of signal scale  variations in MR  scan when performing $T1rho$ quantification. Preliminary experimental results show that our method can achieve  better mapping performance than the traditional fitting method, particularly in free-breathing scenarios. 
@@ -1532,7 +1532,7 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
     <span class="title">
       <a href="papers/D_L_19.html">Deep Learning for Model Correction in Cardiac Electrophysiological Imaging</a>
     </span>
-    <span class="authors"> Victoriya Kashtanova, Ibrahim Ayed, Andony Arrieula, Mark Potse, patrick gallinari, Maxime Sermesant</span>
+    <span class="authors"> Victoriya Kashtanova, Ibrahim Ayed, Andony Arrieula, Mark Potse, Patrick Gallinari, Maxime Sermesant</span>
     <ul class="links">
       <li><a class="toggle_visibility" data-selector=".abstract" data-level="3">abstract</a></li><li><a href="https://openreview.net/pdf?id=7MW9oh7MDKp">pdf</a></li><li><a href="https://openreview.net/forum?id=7MW9oh7MDKp">reviews</a></li></ul><span class="abstract">
       Imaging the electrical activity of the heart can be achieved with invasive catheterisation however the resulting data is sparse and noisy. Mathematical modelling of cardiac electrophysiology can help the analysis but solving the associated mathematical systems can become unfeasible. It is often computationally demanding, for instance when solving for different patient conditions. We present a new framework to model the dynamics of cardiac electrophysiology at lower cost. It is based on the integration of a low-fidelity physical model and a learning component implemented here via neural networks. The latter acts as a complement to the physical part, and handles all quantities and dynamics that the simplified physical model neglects. We demonstrate that this framework allows us to reproduce the dynamics of the complex transmembrane potential and to correctly identify the relevant physical parameters, even when only partial measurements are available. This combined model-based and data-driven approach could improve cardiac electrophysiological imaging and provide predictive tools.
@@ -1560,7 +1560,7 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
     </span></div></li>
 <li><div class="url poster">
     <span class="title">
-      <a href="papers/D_L_22.html">MRI bias field correction with an implicitly trained CNN.</a>
+      <a href="papers/D_L_22.html">MRI bias field correction with an implicitly trained CNN</a>
     </span>
     <span class="authors"> Attila Tibor Simko, Tommy Löfstedt, Anders Garpebring, Tufve Nyholm, Joakim Jonsson</span>
     <ul class="links">
@@ -1617,7 +1617,7 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
     <span class="title">
       <a href="papers/D_S_5.html">Metrics Reloaded - A new recommendation framework for biomedical image analysis validation</a>
     </span>
-    <span class="authors">Annika Reinke, Lena Maier-Hein, Evangelia Christodoulou, Ben Glocker, Patrick Scholz, Fabian Isensee, Jens Kleesiek, Michal Kozubek, Mauricio Reyes, Michael Alexander Riegler, Manuel Wiesenfarth, Michael Baumgartner, Matthias Eisenmann, Doreen Heckmann-Nötzel, Ali Emre Kavur, Tim Rädsch, Minu D. Tizabi, Laura Acion, Michela Antonelli, Tal Arbel, Spyridon Bakas, Peter Bankhead, Arriel Benis, M. Jorge Cardoso, Veronika Cheplygina, Beth A Cimini, Gary S. Collins, Keyvan Farahani, Bram van Ginneken, Fred A Hamprecht, Daniel A. Hashimoto, Michael M. Hoffman, Merel Huisman, Pierre Jannin, Charles Kahn, Alexandros Karargyris, Alan Karthikesalingam, Hannes Kenngott, Annette Kopp-Schneider, Anna Kreshuk, Tahsin Kurc, Bennett A. Landman, Geert Litjens, Amin Madani, Klaus Maier-Hein, Anne Martel, Peter Mattson, Erik Meijering, bjoern menze, David Moher, Karel G.M. Moons, Henning Müller, Brennan Nichyporuk, Felix Nickel, Jens Petersen, Nasir Rajpoot, Nicola Rieke, Julio Saez-Rodriguez, Clara I. Sánchez, Shravya Shetty, Maarten van Smeden, Carole H. Sudre, Ronald M. Summers, Abdel A. Taha, Sotirios A. Tsaftaris, Ben Van Calster, Gael Varoquaux, Paul F Jaeger</span>
+    <span class="authors">Annika Reinke, Lena Maier-Hein, Evangelia Christodoulou, Ben Glocker, Patrick Scholz, Fabian Isensee, Jens Kleesiek, Michal Kozubek, Mauricio Reyes, Michael Alexander Riegler, Manuel Wiesenfarth, Michael Baumgartner, Matthias Eisenmann, Doreen Heckmann-Nötzel, Ali Emre Kavur, Tim Rädsch, Minu D. Tizabi, Laura Acion, Michela Antonelli, Tal Arbel, Spyridon Bakas, Peter Bankhead, Arriel Benis, M. Jorge Cardoso, Veronika Cheplygina, Beth A Cimini, Gary S. Collins, Keyvan Farahani, Bram van Ginneken, Fred A Hamprecht, Daniel A. Hashimoto, Michael M. Hoffman, Merel Huisman, Pierre Jannin, Charles Kahn, Alexandros Karargyris, Alan Karthikesalingam, Hannes Kenngott, Annette Kopp-Schneider, Anna Kreshuk, Tahsin Kurc, Bennett A. Landman, Geert Litjens, Amin Madani, Klaus Maier-Hein, Anne Martel, Peter Mattson, Erik Meijering, Bjoern Menze, David Moher, Karel G.M. Moons, Henning Müller, Brennan Nichyporuk, Felix Nickel, Jens Petersen, Nasir Rajpoot, Nicola Rieke, Julio Saez-Rodriguez, Clara I. Sánchez, Shravya Shetty, Maarten van Smeden, Carole H. Sudre, Ronald M. Summers, Abdel A. Taha, Sotirios A. Tsaftaris, Ben Van Calster, Gael Varoquaux, Paul F Jaeger</span>
     <ul class="links">
       <li><a class="toggle_visibility" data-selector=".abstract" data-level="3">abstract</a></li><li><a href="https://openreview.net/pdf?id=24kBqy8rcB_">pdf</a></li><li><a href="https://openreview.net/forum?id=24kBqy8rcB_">reviews</a></li></ul><span class="abstract">
       Meaningful performance assessment of biomedical image analysis algorithms depends on objective and appropriate performance metrics. There are major shortcomings in the current state of the art. Yet, so far limited attention has been paid to practical pitfalls associated when using particular metrics for image analysis tasks. Therefore, a number of international initiatives have collaborated to offer researchers with guidance and tools for selecting performance metrics in a problem-aware manner. In our proposed framework, the characteristics of the given biomedical problem are first captured in a problem fingerprint, which identifies properties related to domain interests, the target structure(s), the input datasets, and algorithm output. A problem category-specific mapping is applied in the second step to match fingerprints to metrics that reflect domain requirements. Based on input from experts from more than 60 institutions worldwide, we believe our metric recommendation framework to be useful to the MIDL community and to enhance the quality of biomedical image analysis algorithm validation.
@@ -1737,7 +1737,7 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
     <span class="title">
       <a href="papers/D_S_17.html">Self-supervised learning of mammograms with pathology aware</a>
     </span>
-    <span class="authors"> Yuan Gao, XIN WANG, Tianyu Zhang, Luyi Han, Regina Beets-Tan, Ritse Mann</span>
+    <span class="authors"> Yuan Gao, Xin Wang, Tianyu Zhang, Luyi Han, Regina Beets-Tan, Ritse Mann</span>
     <ul class="links">
       <li><a class="toggle_visibility" data-selector=".abstract" data-level="3">abstract</a></li><li><a href="https://openreview.net/pdf?id=zTn0kYfsgkJ">pdf</a></li><li><a href="https://openreview.net/forum?id=zTn0kYfsgkJ">reviews</a></li></ul><span class="abstract">
       Screening mammography is recognized as an effective method to diagnose breast cancer (BC). However, for extremely dense breasts, there is a higher chance to induce misdiagnosing. To suppress misdiagnosis from radiologists in mammography reading, computer-aided diagnosis (CAD) based on imaging has been widely researched and applied. These CAD tools increasingly have deeper layers design aiming for better performance, but this may decrease robustness particularly in dense breast. Therefore, to benefit BC identification in the context of supervision from rare annotated datasets, we propose a self-supervised learning framework to normalize mammograms into pathology aware (PA) style, which is in line with the pathological local enhancement characteristic, and prove the value of PA mammogram for the downstream tasks. Experimental results on INBreast and CBIS-DDSM datasets suggest that our method can achieve better performance in both normal and dense breasts for classification and segmentation tasks.
@@ -1757,7 +1757,7 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
     <span class="title">
       <a href="papers/D_S_19.html">A Fully Automated Multi-Scale Pipeline for Oral Epithelial Dysplasia Grading and Outcome Prediction</a>
     </span>
-    <span class="authors"> Adam Shephard, Neda Azarmehr, Raja Muhammad Saad Bashir, SHAN E AHMED RAZA, Hanya Mahmood, Syed Ali Khurram, Nasir Rajpoot</span>
+    <span class="authors"> Adam Shephard, Neda Azarmehr, Raja Muhammad Saad Bashir, Shan E Ahmed Raza, Hanya Mahmood, Syed Ali Khurram, Nasir Rajpoot</span>
     <ul class="links">
       <li><a class="toggle_visibility" data-selector=".abstract" data-level="3">abstract</a></li><li><a href="https://openreview.net/pdf?id=G4h5aDsi5zl">pdf</a></li><li><a href="https://openreview.net/forum?id=G4h5aDsi5zl">reviews</a></li></ul><span class="abstract">
       Oral epithelial dysplasia (OED) is a premalignant histopathological diagnosis given to lesions of the oral cavity, characterised by changes to the nuclear morphometry and the epithelial layers. In this work, we have finetuned HoVer-Net+ for the simultaneous segmentation of nuclei and the epithelial layers in heamatoxylin and eosin (H&amp;E) stained whole slide images (WSIs). We then employed a multi-scale attention-based multiple instance learning architecture for the prediction of OED status, grade, recurrence and malignant transformation. The impressive results have demonstrated the potential of such methods.
@@ -2125,7 +2125,7 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
     <span class="title">
       <a href="papers/E_S_12.html">Handcrafted Histological Transformer (H2T): A Brief Introduction</a>
     </span>
-    <span class="authors"> Dang Quoc Vu, Kashif Rajpoot, SHAN E AHMED RAZA, Nasir Rajpoot</span>
+    <span class="authors"> Dang Quoc Vu, Kashif Rajpoot, Shan E Ahmed Raza, Nasir Rajpoot</span>
     <ul class="links">
       <li><a class="toggle_visibility" data-selector=".abstract" data-level="3">abstract</a></li><li><a href="https://openreview.net/pdf?id=N_rvbWWQNsR">pdf</a></li><li><a href="https://openreview.net/forum?id=N_rvbWWQNsR">reviews</a></li></ul><span class="abstract">
       Recently, deep neural networks (DNNs) have been proposed to derive unsupervised WSI representations; these are attractive as they rely less on expert annotation which is cumbersome. However, a major trade-off is that higher predictive power generally comes at the cost of interpretability, posing a challenge to their clinical use where transparency in decision-making is generally expected. To address this challenge, we present a handcrafted framework based on DNN for constructing holistic WSI-level representations.
@@ -2272,7 +2272,7 @@ $ 7 Tesla), a lack of training data is a problem. Therefore, in this work, we pr
     <span class="title">
       <a href="papers/F_L_8.html">CAD-RADS Scoring using Deep Learning and Task-Specific Centerline Labeling</a>
     </span>
-    <span class="authors"> Felix Denzinger, Michael Wels, Oliver Taubmann, Mehmet Akif Gülsün, Max Schöbinger, Florian André, Sebastian Buß, Johannes Görich, Michael Suehling, Andreas Maier, Katharina Breininger</span>
+    <span class="authors"> Felix Denzinger, Michael Wels, Oliver Taubmann, Mehmet Akif Gülsün, Max Schöbinger, Florian André, Sebastian Buss, Johannes Görich, Michael Suehling, Andreas Maier, Katharina Breininger</span>
     <ul class="links">
       <li><a class="toggle_visibility" data-selector=".abstract" data-level="3">abstract</a></li><li><a href="https://openreview.net/pdf?id=vVPMifME8b">pdf</a></li><li><a href="https://openreview.net/forum?id=vVPMifME8b">reviews</a></li></ul><span class="abstract">
       With coronary artery disease (CAD) persisting to be one of the leading causes of death worldwide, interest in supporting physicians with algorithms to speed up and improve diagnosis is high. In clinical practice, the severeness of CAD is often assessed with a coronary CT angiography (CCTA) scan and manually graded with the CAD-Reporting and Data System (CAD-RADS) score.  The clinical questions this score assesses are whether a patient has CAD or not (rule-out) and whether he has severe CAD or not (hold-out). In this work, we reach new state-of-the-art performance for automatic CAD-RADS scoring from CCTA. We propose using severity-based label encoding, test time augmentation (TTA) and model ensembling for a task-specific deep learning architecture. Furthermore, we introduce a novel task- and model-specific, heuristic coronary segment labeling, which subdivides coronary trees into consistent parts across patients. It is fast, robust, and easy to implement. We were able to raise the previously reported area under the receiver operating characteristic curve (AUC) from 0.914 to 0.942 in the rule-out and from 0.921 to 0.950 in the hold-out task respectively.
@@ -2398,7 +2398,7 @@ oindent Our code is publicly available:url{https:anonymous.4open.sciencerBoundar
     <span class="title">
       <a href="papers/F_S_2.html">Automatic Extraction of Spinopelvic Parameters Using Deep Learning to Detect Landmarks as Objects</a>
     </span>
-    <span class="authors"> AliAsghar MohammadiNasrabadi, William McNally, Gemah Moammer, John McPhee</span>
+    <span class="authors"> Ali Asghar Mohammadi Nasrabadi, William McNally, Gemah Moammer, John McPhee</span>
     <ul class="links">
       <li><a class="toggle_visibility" data-selector=".abstract" data-level="3">abstract</a></li><li><a href="https://openreview.net/pdf?id=1WGmOnOjJU-">pdf</a></li><li><a href="https://openreview.net/forum?id=1WGmOnOjJU-">reviews</a></li></ul><span class="abstract">
       Surgeons measure spinopelvic parameters from X-ray images to evaluate spinopelvic alignment preoperatively for surgical planning. Automatic extraction of these parameters not only saves time but also provides consistent measurements, avoiding human error. In this paper, we introduce a new approach to automatic spinopelvic parameter extraction, which considers landmarks as objects. The landmarks are extracted using a deep learning object detection algorithm that can address the drawbacks of heatmap-based regression. The model is evaluated using two datasets totalling 1000 lateral spinal and pelvic X-ray images. Acceptable accuracy is achieved when comparing the reference manual parameter measurements with those obtained automatically by our prediction model.
