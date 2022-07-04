@@ -4,6 +4,9 @@ page_class: "keynotes"
 ---
 
 # Tutorials 
+
+Tutorials will take place at ETH Main Building, room Audi Max (HG F 30).
+
 <p><a id="tutorial1"></a></p>
 
 ## Prof. Dr. Jonas Peters![Portrait of Jonas Peters](/images/tutorials/jonas_martin_peters_2.png){: width="180" }

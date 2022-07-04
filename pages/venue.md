@@ -54,7 +54,7 @@ Visitors can connect to Wi-Fi in the venue by using "public" as network name. Yo
  
 ### Registration
  
-All delegates, speakers, and exhibitors must register on first arrival. The Registration Desk can be found at ETH main hall (HG) from 8:00 am every day. Delegates will be issued with a name badge and lanyard, which must be worn at all times at the conference.
+All delegates, speakers, and exhibitors must register on first arrival. The Registration Desk can be found at ETH main hall (HG) from 8:30 am every day. Delegates will be issued with a name badge and lanyard, which must be worn at all times at the conference.
  
  
 * Conference room @  ETH Main Building, Audimax.
