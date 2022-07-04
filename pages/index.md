@@ -16,7 +16,7 @@ The [program at a glance](/program.html), [detailed program of all papers](/oral
 
 You can find here the [keynotes](/keynotes.html).
 
-All program details and conferene venue information is also available on the [conference booklet](/assets/logos/booklet_MIDL2022.pdf)
+All program details and conferene venue information is also available on the [conference booklet](/assets/logos/booklet_MIDL2022.pdf).
 <!-- The information about the registration is available on [registration page](/registration.html).
 You can find here the [call for papers](/call-for-papers.html), [important dates](/dates.html),
 [author instructions](/author-instructions.html), information about the [conference venue](/venue.html). -->
