@@ -7,7 +7,7 @@ page_class: "keynotes"
 
 The poster presentation sessions take place simultaneously in the main hall of the conference and the online platform IStage, with time slots both in the morning and the afternoon.
 
-<a href="/assets/MIDL2022.ics" download>Download the program as calendar (.ics)</a>
+<a href="/assets/MIDL_2022.ics" download>Download the program as calendar (.ics)</a>
 
 
 <style>
