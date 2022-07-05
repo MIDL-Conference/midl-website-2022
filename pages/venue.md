@@ -64,7 +64,7 @@ The conference venue takes place at the ETH Main Building, with its flexible, mu
  
 * Poster room @ ETH Main Building
  
-The poster sessions will take place in the foyers E, EO North, and South and Foyer/gallery F of the ETH Main Building.
+The poster sessions will take place in the foyers E, EO North, and South and Foyer/gallery F of the ETH Main Building. [See the map here.](/sitemap.html)
  
  
 * Coffee breaks & lunches
