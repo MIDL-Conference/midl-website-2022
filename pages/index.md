@@ -2,6 +2,7 @@
 page_class: "sponsors"
 ---
 {% from "_macros.html" import newsletter %}
+{% from "_macros.html" import button %}
 
 <h1 class="midl">Medical&nbsp;Imaging with Deep&nbsp;Learning</h1>
 <h2 class="midl">Zürich, 6 &ndash; 8 July 2022</h2>
