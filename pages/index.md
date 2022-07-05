@@ -15,7 +15,7 @@ The information about the conference venue can be found on [conference venue pag
 
 Virtual access to the conference is available through the online conference system: 
 
-{{ button("Access to virtual conference", "https://www.istage.ch/midl22/") }}
+{{ button("Access to virtual conference", "https://www.istage.ch/midl22/checkin") }}
 
 
 The [program at a glance](/program.html), [detailed program of all papers](/orals.html), [site map](/sitemap.html) of the onsite sessions are available online.
