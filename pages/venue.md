@@ -133,6 +133,3 @@ Hotels closer to the airport:
         Image credit: Zürich Tourismus
     </span> -->
 
-## Gala Dinner
-
-The Gala Dinner will be held at [Schützenhaus Albisgütli](https://g.page/Albisguetli?share) on 7th of July, 2022. 
