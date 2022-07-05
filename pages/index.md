@@ -1,8 +1,8 @@
 ---
 page_class: "sponsors"
 ---
-{% from "_macros.html" import newsletter %}
-{% from "_macros.html" import button %}
+{% from "_macros.html" import newsletter, button %}
+<!-- {% from "_macros.html" import button %} -->
 
 <h1 class="midl">Medical&nbsp;Imaging with Deep&nbsp;Learning</h1>
 <h2 class="midl">Zürich, 6 &ndash; 8 July 2022</h2>
@@ -15,7 +15,7 @@ The information about the conference venue can be found on [conference venue pag
 
 Virtual access to the conference is available through here: 
 
-<!-- {{ button("Access to virtual conference", "https://www.istage.ch/midl22/") }} -->
+{{ button("Access to virtual conference", "https://www.istage.ch/midl22/") }}
 
 
 The [program at a glance](/program.html), [detailed program of all papers](/orals.html), [site map](/sitemap.html) of the onsite sessions are available online.
