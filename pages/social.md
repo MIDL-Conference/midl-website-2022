@@ -35,7 +35,7 @@ We will adapt the run pace so everyone can keep up. (~6.30 min/km)
 
 If you have any questions, please contact Jonatan Kronander on +41 77 986 9621 or [jonatank@ee.ethz.ch](mailto:jonatank@ee.ethz.ch).
 
-No registration necessary. Tickets to the meeting point will be covered by the participants themselves.
+No registration necessary. Tickets to the meeting point is covered by the registration.
 
 
 <p><a id="galadinner"></a></p>
