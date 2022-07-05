@@ -13,7 +13,7 @@ The conference is planned as a hybrid event.
 
 The information about the conference venue can be found on [conference venue page](/venue.html).
 
-Virtual access to the conference is available through here: 
+Virtual access to the conference is available through the online conference system: 
 
 {{ button("Access to virtual conference", "https://www.istage.ch/midl22/") }}
 
