@@ -2,33 +2,9 @@
 page_class: "sponsors"
 ---
 {% from "_macros.html" import newsletter, button %}
-<!-- {% from "_macros.html" import button %} -->
 
 <h1 class="midl">Medical&nbsp;Imaging with Deep&nbsp;Learning</h1>
 <h2 class="midl">Zürich, 6 &ndash; 8 July 2022</h2>
-
-
-We are hoping to see many of you at Zurich for MIDL 2022!
-The conference is planned as a hybrid event.
-
-The information about the conference venue can be found on [conference venue page](/venue.html).
-
-Virtual access to the conference is available through the online conference system: 
-
-{{ button("Access to virtual conference", "https://www.istage.ch/midl22/checkin") }}
-
-
-The [program at a glance](/program.html), [detailed program of all papers](/orals.html), [site map](/sitemap.html) of the onsite sessions are available online.
-
-You can find here the [keynotes](/keynotes.html).
-
-All program details and conferene venue information is also available on the [conference booklet](/assets/logos/booklet_MIDL2022.pdf).
-<!-- The information about the registration is available on [registration page](/registration.html).
-You can find here the [call for papers](/call-for-papers.html), [important dates](/dates.html),
-[author instructions](/author-instructions.html), information about the [conference venue](/venue.html). -->
- <!-- and details about [registration for the conference /TBA](/registration.html). -->
-
-Questions and inquiries can be addressed directly to [2022@midl.io](mailto:2022@midl.io).
 
 <p class="primary-photo centered">
     <img alt="ETH Zurich and University of Zurich" src="/images/eth-university-zurich.jpg">
@@ -37,13 +13,9 @@ Questions and inquiries can be addressed directly to [2022@midl.io](mailto:2022@
     </span>
 </p>
 
-<!-- ## Call for Reviewers
+A big thank you to everyone who attended MIDL 2022 in Zürich, Switzerland! We hope to see many of you at MIDL 2023 in Nashville.
 
-If you would like to support MIDL 2022 as a reviewer you can apply under the following [link](https://docs.google.com/forms/d/e/1FAIpQLSfwjljOBuiKWCpEeQEv7n-vwTH13emgct_I1Dx3XROnnpBOng/viewform?usp=send_form) until December 3, 2021.  -->
-<!-- 
-## Paper Registration Update 
-
-Due to large number of requests, requirements to register an abstract for the conference was removed. -->
+All program details and conference venue information can still be found in the [conference booklet](/assets/logos/booklet_MIDL2022.pdf).
 
 ---
 
