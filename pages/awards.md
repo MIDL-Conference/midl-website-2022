@@ -10,6 +10,7 @@ title: "Awards"
 The **MIDL 2022 best paper award** recognizes the highest quality full-length paper presented at the conference.
 
 ### Best Paper Award - Winner
+<div class="papers">
 <ul>
 <li><p><div class="xtai poster">
     <span class="title">
@@ -22,9 +23,9 @@ The **MIDL 2022 best paper award** recognizes the highest quality full-length pa
       <span class="actions"><a class="toggle_visibility" data-level="2">Hide abstract</a></span>
     </span></div></p></li>
 </ul>
-
+</div>
 ### Best Paper Award - Runner-up
-
+<div class="papers">
 <ul>
 
 <li>
@@ -50,3 +51,4 @@ The **MIDL 2022 best paper award** recognizes the highest quality full-length pa
 oindent Our code is publicly available:url{https:anonymous.4open.sciencerBoundary-Point-Extraction-F163}
       <span class="actions"><a class="toggle_visibility" data-level="2">Hide abstract</a></span>
     </span></div></p></li></ul>
+</div>
