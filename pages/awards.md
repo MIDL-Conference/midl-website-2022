@@ -10,6 +10,7 @@ title: "Awards"
 The **MIDL 2022 best paper award** recognizes the highest quality full-length paper presented at the conference.
 
 ### Best Paper Award - Winner
+<ul>
 <li><p><div class="xtai poster">
     <span class="title">
       <a href="papers/B_L_3.html">VORTEX: Physics-Driven Data Augmentations Using Consistency Training for Robust Accelerated MRI Reconstruction</a>
@@ -20,9 +21,11 @@ The **MIDL 2022 best paper award** recognizes the highest quality full-length pa
       Deep neural networks have enabled improved image quality and fast inference times for various inverse problems, including accelerated magnetic resonance imaging (MRI) reconstruction. However, such models require extensive fully-sampled ground truth datasets, which are difficult to curate and are sensitive to distribution drifts. In this work, we propose applying physics-driven data augmentations for consistency training that leverage our domain knowledge of the forward MRI data acquisition process and MRI physics to achieve improved data efficiency and robustness to clinically-relevant distribution drifts. Our approach, termed VORTEX, (1) demonstrates strong improvements over supervised baselines with and without data augmentation in robustness to signal-to-noise ratio change and motion corruption in data-limited regimes; (2) considerably outperforms state-of-the-art purely image-based data augmentation techniques and self-supervised reconstruction methods on both in-distribution and out-of-distribution data; and (3) enables composing heterogeneous image-based and physics-driven data augmentations.
       <span class="actions"><a class="toggle_visibility" data-level="2">Hide abstract</a></span>
     </span></div></p></li>
+</ul>
 
 ### Best Paper Award - Runner-up
 
+<ul>
 
 <li>
 <p><div class="None poster">
@@ -46,4 +49,4 @@ The **MIDL 2022 best paper award** recognizes the highest quality full-length pa
       Although Deep Learning is the new gold standard in medical image segmentation, the annotation burden limits its expansion to clinical practice.  We also observe a mismatch between annotations required by deep learning methods designed with pixel-wise optimization in mind and clinically relevant annotations designed for biomarkers extraction (diameters, counts, etc.). Our study proposes a first step toward bridging this gap, optimizing vessel segmentation based on its diameter annotations. To do so we propose to extract boundary points from a star-shaped segmentation in a differentiable manner. This differentiable extraction allows reducing annotation burden as instead of the pixel-wise segmentation only the two annotated points required for diameter measurement are used for training the model. Our experiments show that training based on diameter is efficient; produces state-of-the-art weakly supervised segmentation; and performs reasonably compared to full supervision. 
 oindent Our code is publicly available:url{https:anonymous.4open.sciencerBoundary-Point-Extraction-F163}
       <span class="actions"><a class="toggle_visibility" data-level="2">Hide abstract</a></span>
-    </span></div></p></li>
+    </span></div></p></li></ul>
