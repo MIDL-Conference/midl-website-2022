@@ -36,4 +36,4 @@ page_class: "paper"
 
 
 ---
-<!-- { macros.presentation('', '', 720, 450) } -->
+{{ macros.video("https://video.midl.io/2022/short/28.mp4") }}

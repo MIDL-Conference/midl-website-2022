@@ -1022,7 +1022,7 @@
         "openreview_link": "KnJsGdhx1kH",
         "website_link": "https://2022.midl.io/papers/F_L_18",
         "id": 286
-    }
+    },
     "D_L_22": {
         "title": "MRI bias field correction with an implicitly trained CNN",
         "authors": "Attila Tibor Simko, Tommy Löfstedt, Anders Garpebring, Tufve Nyholm, Joakim Jonsson",
@@ -1038,5 +1038,5 @@
         "openreview_link": "ecOY_ywB3UB",
         "website_link": "https://2022.midl.io/papers/F1",
         "id": 23
-    },
+    }
 }
