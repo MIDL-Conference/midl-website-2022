@@ -3,7 +3,7 @@ title: "Keynotes"
 page_class: "keynotes"
 ---
 
-{% from "_macros.html" import youtube %}
+{% from "_macros.html" import video %}
 
 # Keynote speakers
 <p><a id="keynote1"></a></p>
@@ -17,6 +17,8 @@ page_class: "keynotes"
 We are concluding an exciting period of Artificial Intelligence (AI) Discovery in healthcare. Numerous AI solutions have been developed, tested, and some of them deployed in clinical workflows. Medical imaging, in particular, has been a fertile ground of AI experimentation and innovation, most likely due to its closeness to computer vision, a field that has attracted the most AI investment. Nevertheless, when we examine the impact of AI on clinical workflows, we recognize that more focus is needed to translate AI into value for clinicians and their patients. Our conjecture is that after the AI Discovery phase, we will enter an equally exciting, but different period, of AI Operationalization, focused on translation, clinical value, performance, and automation. Furthermore, a third period will be about AI solving Grand Healthcare Challenges, such as Data Integration / Standardization and the problem of Health Management. We will illustrate these advances with multiple clinical examples, covering the personalization of patient sensing, diagnosis, and therapy selection – calledPatient Twinning – and the delivery of image-guided Precision Therapy.
 
 **Biography:** [Dorin Comaniciu](https://www.linkedin.com/in/dorincomaniciu/) serves as Senior Vice President for Artificial Intelligence and Digital Innovation at Siemens Healthineers. His scientific contributions to computational imaging and machine intelligence have translated to multiple clinical products focused on improving the quality of care, specifically in the fields of diagnostic imaging, image-guided therapy, and precision medicine. Dr. Comaniciu is a member of the National Academy of Medicine and a Top Innovator of Siemens. He is a Fellow of the IEEE, ACM, Medical Image Computing and Computer Assisted Intervention Society, and American Institute for Medical and Biological Engineering. He is recipient of multiple honors, including an honorary doctorate and the IEEE Longuet-Higgins Prize for fundamental contributions to computer vision. Comaniciu is listed on Wikipedia's list of prolific inventors with 306 granted US patents on healthcare technology. He has co-authored 350 peer-reviewed publications in the areas of machine intelligence, medical imaging, and precision medicine, which have received 53,000 citations, with an h-index of 84. He is an advocate for technological innovation that saves and enhances lives, addressing critical issues in global health.
+
+{{ video("https://video.midl.io/2022/keynote1.mp4") }}
 
 
 ***
@@ -35,6 +37,8 @@ Fetal imaging is conventionally carried out using ultrasound sonography as the m
 
  She has been elected Fellow of IEEE (2021), ELLIS (2019), and MICCAI Society (2018). She is currently Associate Editor of IEEE Transactions on Medical Imaging, IEEE Transactions on Pattern Analysis and Machine Intelligence, on the Editorial Board of Medical Image Analysis, and an Executive/Founding Editor of www.melba-journal.org, a free open-access journal on machine learning in biomedical imaging. She currently serves as elected Technical Representative on IEEE EMBS AdCom, on the IEEE EMBS Technical Committee on Biomedical Imaging and Image Processing (BIIP), as Executive Secretary to the MICCAI Board of Directors, and as member of ELLIS Health and ELLIS Munich. Julia has been Program Chair of MICCAI 2018, General Chair of WBIR 2016 and IPMI 2021, and will be General Chair of WBIR 2022 (to be held in Munich), and of MICCAI 2024 (to be held for the first time in Africa: Marrakech, Morocco).
 
+ {{ video("https://video.midl.io/2022/keynote2.mp4") }}
+
 ***
 <p><a id="keynote3"></a></p>
 
@@ -52,3 +56,5 @@ Artificial intelligence is set to change the use and utility of medical image da
 His research focuses on biomedical imaging technology, particularly on magnetic resonance imaging, which he addresses at the levels of underlying physics, hardware, encoding strategies, signal processing, and image reconstruction. In the realm of instrumentation, his lab’s recent emphasis is on in-bore and on-patient sensing technology as well as equipment for ultra-fast and solid-state imaging.
 
 Klaas has served as European Editor of NMR in Biomedicine and on the Editorial Boards of Magnetic Resonance in Medicine and MAGMA. He is a recipient of the Laukien Prize of the Experimental NMR Conference (ENC), the Gold Medal of the International Society for Magnetic Resonance in Medicine (ISMRM) and the European Magnetic Resonance Award. He is a Fellow and Honorary Member of the European Society for Magnetic Resonance in Medicine and Biology (ESMRMB) and a Fellow of ISMRM.
+
+{{ video("https://video.midl.io/2022/keynote3.mp4") }}
