@@ -1,21 +1,25 @@
 ---
 page_class: "sponsors"
 ---
-{% from "_macros.html" import newsletter, button %}
+{% from "_macros.html" import newsletter, button, video %}
 
 <h1 class="midl">Medical&nbsp;Imaging with Deep&nbsp;Learning</h1>
 <h2 class="midl">Zürich, 6 &ndash; 8 July 2022</h2>
 
-<p class="primary-photo centered">
+
+{{ video("https://video.midl.io/2022/closing.mp4") }}
+<!-- <p class="primary-photo centered">
     <img alt="ETH Zurich and University of Zurich" src="/images/eth-university-zurich.jpg">
     <span class="credits">
         Image credit: ETH Zürich / Marco Carocari
     </span>
-</p>
+</p> -->
 
 A big thank you to everyone who attended MIDL 2022 in Zürich, Switzerland! We hope to see many of you at MIDL 2023 in Nashville.
 
 All program details and conference venue information can still be found in the [conference booklet](/assets/logos/booklet_MIDL2022.pdf).
+
+The [recording of the opening ceremony is available here](https://video.midl.io/2022/opening.mp4).
 
 ---
 
