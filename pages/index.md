@@ -15,6 +15,8 @@ page_class: "sponsors"
     </span>
 </p> -->
 
+{{ button("Proceedings", " https://proceedings.mlr.press/v172/") }}
+
 A big thank you to everyone who attended MIDL 2022 in Zürich, Switzerland! We hope to see many of you at MIDL 2023 in Nashville.
 
 All program details and conference venue information can still be found in the [conference booklet](/assets/logos/booklet_MIDL2022.pdf).
